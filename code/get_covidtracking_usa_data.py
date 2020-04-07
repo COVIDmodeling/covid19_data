@@ -14,7 +14,7 @@ url = "http://covidtracking.com/api/states/daily.csv"
 repo = git.Repo("./", search_parent_directories=True)
 homedir = repo.working_dir
 datadir = f"{homedir}/data/usa/covid/"
-resourcedir = f"{homedir}/code/processing/raw_data_processing/annotation/"
+resourcedir = f"{homedir}/code/annotation/"
 # Read states general information
 df_states = pd.read_csv(f"{resourcedir}usa_states_code.csv")
 

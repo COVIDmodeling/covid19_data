@@ -74,7 +74,7 @@ df = df.rename(
 # Find home directory for repo
 repo = git.Repo("./", search_parent_directories=True)
 homedir = repo.working_dir
-resourcedir = f"{homedir}/code/processing/raw_data_processing/annotation/"
+resourcedir = f"{homedir}/code/annotation/"
 datadir = f"{homedir}/data/usa/covid/"
 
 # Add iso_a3 abreviation for country and source
