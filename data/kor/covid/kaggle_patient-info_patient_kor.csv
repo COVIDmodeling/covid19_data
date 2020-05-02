@@ -20,8 +20,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000019,112.0,female,1941.0,70s,Korea,Seoul,Jongno-gu,,contact with patient,5.0,1000000021.0,,,2020-02-20,2020-03-08,,released,kaggle,KOR
 1000000020,121.0,female,1944.0,70s,Korea,Seoul,Seongdong-gu,,Seongdong-gu APT,,1000000015.0,,,2020-02-20,,,released,kaggle,KOR
 1000000021,136.0,male,1936.0,80s,Korea,Seoul,Jongno-gu,,contact with patient,5.0,1000000016.0,,,2020-02-20,2020-03-08,,released,kaggle,KOR
-1000000022,161.0,male,1985.0,30s,Korea,Seoul,Seodaemun-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-21,,,isolated,kaggle,KOR
-1000000023,188.0,male,1961.0,50s,Korea,Seoul,Seocho-gu,,Shincheonji Church,,,,,2020-02-21,,,isolated,kaggle,KOR
+1000000022,161.0,male,1985.0,30s,Korea,Seoul,Seodaemun-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-21,,,released,kaggle,KOR
+1000000023,188.0,male,1961.0,50s,Korea,Seoul,Seocho-gu,,Shincheonji Church,,,,,2020-02-21,,,released,kaggle,KOR
 1000000024,348.0,male,1980.0,40s,Korea,Seoul,Guro-gu,,contact with patient,,,,,2020-02-22,2020-03-14,,released,kaggle,KOR
 1000000025,365.0,male,1958.0,60s,Korea,Seoul,Gangdong-gu,,Eunpyeong St. Mary's Hospital,,1000000022.0,,,2020-02-22,,,released,kaggle,KOR
 1000000026,420.0,male,1986.0,30s,Korea,Seoul,Seocho-gu,,etc,,,,2020-02-21,2020-02-22,2020-03-11,,released,kaggle,KOR
@@ -60,7 +60,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000059,1767.0,female,1954.0,60s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,1000000060.0,,,2020-02-28,,,released,kaggle,KOR
 1000000060,1768.0,male,1935.0,80s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,1000000054.0,,2020-02-23,2020-02-28,,,released,kaggle,KOR
 1000000061,1788.0,male,1955.0,60s,Korea,Seoul,Seodaemun-gu,,Eunpyeong St. Mary's Hospital,,1000000022.0,,2020-02-26,2020-02-28,2020-03-14,,released,kaggle,KOR
-1000000062,1907.0,male,1973.0,40s,Korea,Seoul,Seodaemun-gu,,etc,,2017000005.0,,2020-02-26,2020-02-28,,,isolated,kaggle,KOR
+1000000062,1907.0,male,1973.0,40s,Korea,Seoul,Seodaemun-gu,,etc,,2017000005.0,,2020-02-26,2020-02-28,,,released,kaggle,KOR
 1000000063,2466.0,male,1985.0,30s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-02-29,2020-03-03,,released,kaggle,KOR
 1000000064,2468.0,female,1985.0,30s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000047.0,,2020-02-26,2020-02-29,2020-03-04,,released,kaggle,KOR
 1000000065,2469.0,male,1987.0,30s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000068.0,,,2020-02-29,2020-03-14,,released,kaggle,KOR
@@ -100,10 +100,10 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000099,5377.0,female,1996.0,20s,Korea,Seoul,Dongdaemun-gu,,etc,,,,,2020-03-01,,,released,kaggle,KOR
 1000000100,5592.0,male,1985.0,30s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-04,,,released,kaggle,KOR
 1000000101,5661.0,female,2005.0,10s,Korea,Seoul,Jungnang-gu,,contact with patient,,,,,2020-03-04,,,released,kaggle,KOR
-1000000102,5666.0,female,1971.0,40s,Korea,Seoul,Yongsan-gu,,Seongdong-gu APT,,,,,2020-03-04,,,released,kaggle,KOR
+1000000102,5666.0,female,1971.0,40s,Korea,Seoul,Yongsan-gu,,Seongdong-gu APT,,,,,2020-03-04,,,isolated,kaggle,KOR
 1000000103,5695.0,male,1997.0,20s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-03-04,2020-03-20,,released,kaggle,KOR
 1000000104,6070.0,female,2003.0,10s,Korea,Seoul,Gangbuk-gu,,etc,,,,,2020-03-05,,,released,kaggle,KOR
-1000000105,6131.0,male,1986.0,30s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-03-05,,,isolated,kaggle,KOR
+1000000105,6131.0,male,1986.0,30s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-03-05,,,released,kaggle,KOR
 1000000106,6384.0,male,1986.0,30s,Korea,Seoul,Gangseo-gu,,contact with patient,,,,,2020-03-06,,,released,kaggle,KOR
 1000000107,6589.0,male,1985.0,30s,Korea,Seoul,etc,,contact with patient,,,,,2020-03-06,,,released,kaggle,KOR
 1000000108,6727.0,male,1979.0,40s,Korea,Seoul,etc,,contact with patient,,,,,2020-03-06,,,released,kaggle,KOR
@@ -121,8 +121,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000120,7103.0,male,1981.0,30s,Korea,Seoul,Seongbuk-gu,,Dongan Church,,,,,2020-03-06,,,released,kaggle,KOR
 1000000121,7219.0,female,2020.0,0s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120.0,,2020-03-04,2020-03-08,,,released,kaggle,KOR
 1000000122,7234.0,female,1995.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,2020-02-28,2020-03-08,,,released,kaggle,KOR
-1000000123,7243.0,female,1941.0,70s,Korea,Seoul,etc,,etc,,,,,2020-03-08,,,isolated,kaggle,KOR
-1000000124,7247.0,male,1993.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-08,,,isolated,kaggle,KOR
+1000000123,7243.0,female,1941.0,70s,Korea,Seoul,etc,,etc,,,,,2020-03-08,,,released,kaggle,KOR
+1000000124,7247.0,male,1993.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-08,,,released,kaggle,KOR
 1000000125,7265.0,female,1964.0,50s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,,2020-03-08,,,released,kaggle,KOR
 1000000126,7275.0,female,1982.0,30s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120.0,,2020-03-04,2020-03-08,,,released,kaggle,KOR
 1000000127,7280.0,male,1969.0,50s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000108.0,,,2020-03-08,,,released,kaggle,KOR
@@ -130,14 +130,14 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000129,7297.0,female,1952.0,60s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120.0,,,2020-03-08,,,released,kaggle,KOR
 1000000130,7300.0,male,1993.0,20s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000100.0,,,2020-03-08,,,released,kaggle,KOR
 1000000131,7401.0,female,1969.0,50s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,2020-03-07,2020-03-09,,,isolated,kaggle,KOR
-1000000132,7479.0,male,1963.0,50s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated,kaggle,KOR
+1000000132,7479.0,male,1963.0,50s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000133,7514.0,female,1977.0,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-09,,,isolated,kaggle,KOR
 1000000134,7437.0,female,1991.0,20s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000130.0,,,2020-03-09,,,released,kaggle,KOR
 1000000135,7513.0,male,1989.0,30s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-03-09,,,released,kaggle,KOR
-1000000136,7461.0,female,1970.0,50s,Korea,Seoul,Jung-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated,kaggle,KOR
+1000000136,7461.0,female,1970.0,50s,Korea,Seoul,Jung-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000137,7463.0,female,1969.0,50s,Korea,Seoul,Geumcheon-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000138,7683.0,male,1987.0,30s,Korea,Seoul,etc,,etc,,,,,2020-03-09,,,released,kaggle,KOR
-1000000139,8050.0,male,1990.0,30s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated,kaggle,KOR
+1000000139,8050.0,male,1990.0,30s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000140,7500.0,female,1978.0,40s,Korea,Seoul,Eunpyeong-gu,,etc,,,,2020-02-27,2020-03-09,,,released,kaggle,KOR
 1000000141,7580.0,female,1962.0,50s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-07,2020-03-09,,,released,kaggle,KOR
 1000000142,7726.0,female,1972.0,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
@@ -151,7 +151,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000150,7469.0,female,1960.0,60s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000151,7719.0,female,1971.0,40s,Korea,Seoul,etc,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000152,7668.0,female,1974.0,40s,Korea,Seoul,etc,,Guro-gu Call Center,,,,,2020-03-09,,,isolated,kaggle,KOR
-1000000153,7740.0,female,1970.0,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-06,2020-03-09,,,isolated,kaggle,KOR
+1000000153,7740.0,female,1970.0,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-06,2020-03-09,,,released,kaggle,KOR
 1000000154,7700.0,female,1969.0,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000155,7444.0,female,1966.0,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released,kaggle,KOR
 1000000156,7597.0,female,1985.0,30s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated,kaggle,KOR
@@ -161,11 +161,11 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000160,7644.0,female,1960.0,60s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000161,7603.0,female,1967.0,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000162,7727.0,female,1966.0,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
-1000000163,7723.0,female,1972.0,40s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated,kaggle,KOR
-1000000164,7573.0,female,1959.0,60s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000140.0,,2020-02-29,2020-03-10,,,isolated,kaggle,KOR
+1000000163,7723.0,female,1972.0,40s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
+1000000164,7573.0,female,1959.0,60s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000140.0,,2020-02-29,2020-03-10,,,released,kaggle,KOR
 1000000165,7624.0,female,1971.0,40s,Korea,Seoul,Songpa-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
-1000000166,7685.0,female,1979.0,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated,kaggle,KOR
-1000000167,7622.0,female,1980.0,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
+1000000166,7685.0,female,1979.0,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
+1000000167,7622.0,female,1980.0,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated,kaggle,KOR
 1000000168,7653.0,female,1977.0,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000169,7712.0,female,1971.0,40s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated,kaggle,KOR
 1000000170,7734.0,female,1968.0,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
@@ -182,8 +182,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000181,7528.0,female,1982.0,30s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000182,7611.0,female,1967.0,50s,Korea,Seoul,Dongjak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000183,7840.0,female,1967.0,50s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
-1000000184,7823.0,male,1982.0,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-09,2020-03-10,,,isolated,kaggle,KOR
-1000000185,7742.0,female,1982.0,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-09,2020-03-10,,,isolated,kaggle,KOR
+1000000184,7823.0,male,1982.0,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-09,2020-03-10,,,released,kaggle,KOR
+1000000185,7742.0,female,1982.0,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-09,2020-03-10,,,released,kaggle,KOR
 1000000186,7630.0,female,1970.0,50s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000187,7637.0,female,1968.0,50s,Korea,Seoul,Geumcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000188,7561.0,female,1994.0,20s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000127.0,,,2020-03-10,2020-03-19,,released,kaggle,KOR
@@ -199,48 +199,48 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000198,7539.0,female,1968.0,50s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000199,7725.0,female,1980.0,40s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
 1000000200,7555.0,female,1968.0,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released,kaggle,KOR
-1000000201,7711.0,male,1989.0,30s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-10,,,isolated,kaggle,KOR
+1000000201,7711.0,male,1989.0,30s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-10,,,released,kaggle,KOR
 1000000202,7567.0,male,1959.0,60s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-08,2020-03-10,,,released,kaggle,KOR
 1000000203,7842.0,male,1999.0,20s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-11,,,released,kaggle,KOR
 1000000204,7851.0,male,1967.0,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-11,,,released,kaggle,KOR
 1000000205,7822.0,female,1994.0,20s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-11,,,isolated,kaggle,KOR
 1000000206,7818.0,female,2000.0,20s,Korea,Seoul,Seodaemun-gu,,etc,,,,,2020-03-11,,,released,kaggle,KOR
 1000000207,7757.0,female,1949.0,70s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-03-11,2020-03-20,,released,kaggle,KOR
-1000000208,7857.0,male,1973.0,40s,Korea,Seoul,Jungnang-gu,,Guro-gu Call Center,,,,,2020-03-11,,,isolated,kaggle,KOR
+1000000208,7857.0,male,1973.0,40s,Korea,Seoul,Jungnang-gu,,Guro-gu Call Center,,,,,2020-03-11,,,released,kaggle,KOR
 1000000209,7765.0,male,1941.0,70s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-11,,,released,kaggle,KOR
 1000000210,7836.0,male,1966.0,50s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-03-11,,,released,kaggle,KOR
 1000000211,7759.0,male,2000.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,released,kaggle,KOR
 1000000212,7794.0,female,1998.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,isolated,kaggle,KOR
 1000000213,7876.0,female,1994.0,20s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-11,,,released,kaggle,KOR
 1000000214,7805.0,female,1969.0,50s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,,,,2020-03-11,,,released,kaggle,KOR
-1000000215,7856.0,female,1951.0,60s,Korea,Seoul,Songpa-gu,,etc,,,,,2020-03-11,,,isolated,kaggle,KOR
-1000000216,8063.0,male,1987.0,30s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-11,,,isolated,kaggle,KOR
+1000000215,7856.0,female,1951.0,60s,Korea,Seoul,Songpa-gu,,etc,,,,,2020-03-11,,,released,kaggle,KOR
+1000000216,8063.0,male,1987.0,30s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-11,,,released,kaggle,KOR
 1000000217,7967.0,male,1992.0,20s,Korea,Seoul,Seongbuk-gu,,Dongan Church,,,,,2020-03-11,,,released,kaggle,KOR
-1000000218,,male,1974.0,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-11,,,isolated,kaggle,KOR
-1000000219,7871.0,female,1984.0,30s,Korea,Seoul,Jungnang-gu,,Guro-gu Call Center,,,,,2020-03-11,,,isolated,kaggle,KOR
+1000000218,8300.0,male,1974.0,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-11,,,released,kaggle,KOR
+1000000219,7871.0,female,1984.0,30s,Korea,Seoul,Jungnang-gu,,Guro-gu Call Center,,,,,2020-03-11,,,released,kaggle,KOR
 1000000220,7810.0,male,1969.0,50s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,released,kaggle,KOR
-1000000221,7893.0,male,2007.0,10s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000164.0,,,2020-03-12,,,isolated,kaggle,KOR
+1000000221,7893.0,male,2007.0,10s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000164.0,,,2020-03-12,,,released,kaggle,KOR
 1000000222,7965.0,male,1964.0,50s,Korea,Seoul,Gangbuk-gu,,overseas inflow,,,,,2020-03-12,,,isolated,kaggle,KOR
 1000000223,7975.0,female,1991.0,20s,Korea,Seoul,Gangnam-gu,,Guro-gu Call Center,,,,,2020-03-12,,,released,kaggle,KOR
 1000000224,7874.0,male,2004.0,10s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000211.0,,,2020-03-12,,,released,kaggle,KOR
 1000000225,7939.0,male,1998.0,20s,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000212.0,,,2020-03-12,,,released,kaggle,KOR
 1000000226,7925.0,male,1991.0,20s,Korea,Seoul,Geumcheon-gu,,Guro-gu Call Center,,,,,2020-03-12,,,released,kaggle,KOR
-1000000227,7914.0,male,1982.0,30s,Korea,Seoul,Geumcheon-gu,,etc,,,,2020-03-10,2020-03-12,,,isolated,kaggle,KOR
+1000000227,7914.0,male,1982.0,30s,Korea,Seoul,Geumcheon-gu,,etc,,,,2020-03-10,2020-03-12,,,released,kaggle,KOR
 1000000228,7929.0,female,1958.0,60s,Korea,Seoul,Songpa-gu,,Guro-gu Call Center,,,,,2020-03-12,,,released,kaggle,KOR
 1000000229,8057.0,male,1984.0,30s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-12,,,released,kaggle,KOR
 1000000230,7923.0,male,1992.0,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-12,,,released,kaggle,KOR
 1000000231,8055.0,female,1963.0,50s,Korea,Seoul,Seocho-gu,,Shincheonji Church,,,,,2020-03-12,,,released,kaggle,KOR
 1000000232,8074.0,male,1998.0,20s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000230.0,,,2020-03-13,,,released,kaggle,KOR
-1000000233,8127.0,female,1991.0,20s,Korea,Seoul,Seocho-gu,,contact with patient,,1000000230.0,,,2020-03-13,,,isolated,kaggle,KOR
-1000000234,8058.0,female,1994.0,20s,Korea,Seoul,Seocho-gu,,etc,,,,,2020-03-13,,,isolated,kaggle,KOR
-1000000235,7980.0,male,1968.0,50s,Korea,Seoul,Dongjak-gu,,contact with patient,,,,,2020-03-13,,,isolated,kaggle,KOR
+1000000233,8127.0,female,1991.0,20s,Korea,Seoul,Seocho-gu,,contact with patient,,1000000230.0,,,2020-03-13,,,released,kaggle,KOR
+1000000234,8058.0,female,1994.0,20s,Korea,Seoul,Seocho-gu,,etc,,,,,2020-03-13,,,released,kaggle,KOR
+1000000235,7980.0,male,1968.0,50s,Korea,Seoul,Dongjak-gu,,contact with patient,,,,,2020-03-13,,,released,kaggle,KOR
 1000000236,8053.0,male,1991.0,20s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-03-13,,,released,kaggle,KOR
-1000000237,8044.0,female,1998.0,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,2020-03-11,2020-03-13,,,isolated,kaggle,KOR
-1000000238,8049.0,female,1941.0,70s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-13,,,isolated,kaggle,KOR
-1000000239,8059.0,male,1994.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-13,,,isolated,kaggle,KOR
+1000000237,8044.0,female,1998.0,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,2020-03-11,2020-03-13,,,released,kaggle,KOR
+1000000238,8049.0,female,1941.0,70s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-13,,,released,kaggle,KOR
+1000000239,8059.0,male,1994.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-13,,,released,kaggle,KOR
 1000000240,7986.0,male,1966.0,50s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,2020-03-05,2020-03-13,,,isolated,kaggle,KOR
 1000000241,8158.0,female,1953.0,60s,Korea,Seoul,Jungnang-gu,,Dongan Church,,,,,2020-03-14,,,released,kaggle,KOR
-1000000242,8125.0,male,1995.0,20s,Korea,Seoul,Mapo-gu,,contact with patient,,1000000237.0,,2020-03-11,2020-03-14,,,isolated,kaggle,KOR
+1000000242,8125.0,male,1995.0,20s,Korea,Seoul,Mapo-gu,,contact with patient,,1000000237.0,,2020-03-11,2020-03-14,,,released,kaggle,KOR
 1000000243,8132.0,female,1972.0,40s,Korea,Seoul,Gangnam-gu,,contact with patient,,,,,2020-03-14,,,isolated,kaggle,KOR
 1000000244,8102.0,female,1959.0,60s,Korea,Seoul,Dobong-gu,,Dongan Church,,,,,2020-03-14,,,released,kaggle,KOR
 1000000245,8140.0,male,1981.0,30s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-14,,,released,kaggle,KOR
@@ -248,73 +248,73 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000247,8096.0,male,1969.0,50s,Korea,Seoul,Guro-gu,,overseas inflow,,,,,2020-03-14,,,released,kaggle,KOR
 1000000248,8153.0,female,1969.0,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-14,,,released,kaggle,KOR
 1000000249,8209.0,female,1992.0,20s,Korea,Seoul,Nowon-gu,,contact with patient,,,,2020-03-12,2020-03-15,,,released,kaggle,KOR
-1000000250,8196.0,female,2001.0,10s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000246.0,,2020-03-10,2020-03-15,,,isolated,kaggle,KOR
+1000000250,8196.0,female,2001.0,10s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000246.0,,2020-03-10,2020-03-15,,,released,kaggle,KOR
 1000000251,8183.0,male,2012.0,0s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-15,,,released,kaggle,KOR
 1000000252,8717.0,male,1982.0,30s,Korea,Seoul,Gangseo-gu,,etc,,,,2020-03-12,2020-03-15,,,released,kaggle,KOR
 1000000253,8178.0,male,1967.0,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-15,,,isolated,kaggle,KOR
 1000000254,8192.0,female,1939.0,80s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,2020-03-15,2020-03-15,,,isolated,kaggle,KOR
-1000000255,8263.0,female,1972.0,30s,Korea,Seoul,Seodaemun-gu,,etc,,,,,2020-03-16,,,isolated,kaggle,KOR
+1000000255,8263.0,female,1972.0,30s,Korea,Seoul,Seodaemun-gu,,etc,,,,,2020-03-16,,,released,kaggle,KOR
 1000000256,8250.0,female,1996.0,20s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,,2020-03-16,,,isolated,kaggle,KOR
 1000000257,8306.0,male,1986.0,30s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-16,,,released,kaggle,KOR
 1000000258,8317.0,male,1993.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-16,,,released,kaggle,KOR
 1000000259,8270.0,male,1995.0,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-16,,,released,kaggle,KOR
 1000000260,8311.0,male,1999.0,30s,Korea,Seoul,Seodaemun-gu,,etc,,,,,2020-03-16,,,released,kaggle,KOR
-1000000261,8297.0,male,1978.0,40s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-16,,,isolated,kaggle,KOR
+1000000261,8297.0,male,1978.0,40s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-16,,,released,kaggle,KOR
 1000000262,8254.0,female,1980.0,40s,Korea,Seoul,Yongsan-gu,,Guro-gu Call Center,,,,2020-03-07,2020-03-16,,,released,kaggle,KOR
-1000000263,8268.0,male,2001.0,10s,Korea,Seoul,Guro-gu,,contact with patient,,1000000250.0,,2020-03-13,2020-03-16,,,isolated,kaggle,KOR
+1000000263,8268.0,male,2001.0,10s,Korea,Seoul,Guro-gu,,contact with patient,,1000000250.0,,2020-03-13,2020-03-16,,,released,kaggle,KOR
 1000000264,8245.0,male,1978.0,40s,Korea,Seoul,Gangseo-gu,,contact with patient,,,,,2020-03-16,,,released,kaggle,KOR
-1000000265,8408.0,male,1986.0,30s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-16,,,isolated,kaggle,KOR
+1000000265,8408.0,male,1986.0,30s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-16,,,released,kaggle,KOR
 1000000266,8271.0,male,1994.0,20s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,2020-03-12,2020-03-16,,,isolated,kaggle,KOR
 1000000267,8369.0,female,1967.0,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-16,,,released,kaggle,KOR
 1000000268,8390.0,male,2006.0,10s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-17,,,isolated,kaggle,KOR
 1000000269,8359.0,female,1999.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-17,,,isolated,kaggle,KOR
 1000000270,8342.0,female,1997.0,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-17,,,released,kaggle,KOR
-1000000271,8455.0,male,1994.0,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,2020-03-16,2020-03-17,,,isolated,kaggle,KOR
+1000000271,8455.0,male,1994.0,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,2020-03-16,2020-03-17,,,released,kaggle,KOR
 1000000272,8517.0,male,1975.0,40s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-18,,,isolated,kaggle,KOR
 1000000273,8508.0,female,1973.0,40s,Korea,Seoul,Seongbuk-gu,,Guro-gu Call Center,,,,,2020-03-18,,,released,kaggle,KOR
 1000000274,8529.0,female,1963.0,50s,Korea,Seoul,Seongbuk-gu,,Dongan Church,,,,,2020-03-18,,,isolated,kaggle,KOR
-1000000275,8485.0,female,1982.0,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-16,2020-03-18,,,released,kaggle,KOR
+1000000275,8485.0,female,1982.0,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-16,2020-03-18,,,isolated,kaggle,KOR
 1000000276,8461.0,male,2012.0,0s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,2020-03-16,2020-03-18,,,released,kaggle,KOR
 1000000277,8446.0,male,1984.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-18,,,isolated,kaggle,KOR
-1000000278,8476.0,female,1994.0,20s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,2020-03-15,2020-03-18,,,isolated,kaggle,KOR
+1000000278,8476.0,female,1994.0,20s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,2020-03-15,2020-03-18,,,released,kaggle,KOR
 1000000279,8486.0,male,1929.0,90s,Korea,Seoul,Yongsan-gu,,etc,,,,2020-03-11,2020-03-18,,,released,kaggle,KOR
 1000000280,8547.0,male,1977.0,40s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-03-18,,,released,kaggle,KOR
-1000000281,8456.0,female,1982.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-18,,,isolated,kaggle,KOR
+1000000281,8456.0,female,1982.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-18,,,released,kaggle,KOR
 1000000282,8557.0,male,1985.0,30s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-18,,,isolated,kaggle,KOR
-1000000283,8648.0,female,1941.0,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-19,,,isolated,kaggle,KOR
+1000000283,8648.0,female,1941.0,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-19,,,released,kaggle,KOR
 1000000284,8617.0,female,1934.0,80s,Korea,Seoul,Yongsan-gu,,contact with patient,,1000000279.0,,,2020-03-19,,,released,kaggle,KOR
 1000000285,8602.0,male,1976.0,40s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,,2020-03-19,,,deceased,kaggle,KOR
 1000000286,8627.0,female,2008.0,10s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released,kaggle,KOR
 1000000287,8636.0,male,2005.0,10s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released,kaggle,KOR
 1000000288,8601.0,female,1961.0,50s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000279.0,,,2020-03-19,,,isolated,kaggle,KOR
-1000000289,8619.0,male,1997.0,20s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-19,,,isolated,kaggle,KOR
+1000000289,8619.0,male,1997.0,20s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-19,,,released,kaggle,KOR
 1000000290,8615.0,female,1985.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-19,,,isolated,kaggle,KOR
 1000000291,8598.0,female,1964.0,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released,kaggle,KOR
 1000000292,8616.0,female,1971.0,40s,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-03-19,,,released,kaggle,KOR
 1000000293,8606.0,female,1954.0,60s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released,kaggle,KOR
 1000000294,8646.0,female,1959.0,60s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-19,,,isolated,kaggle,KOR
-1000000295,8595.0,female,1984.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-19,,,isolated,kaggle,KOR
+1000000295,8595.0,female,1984.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-19,,,released,kaggle,KOR
 1000000296,8603.0,female,1969.0,50s,Korea,Seoul,Dongjak-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released,kaggle,KOR
-1000000297,8614.0,female,1991.0,20s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000266.0,,,2020-03-19,,,isolated,kaggle,KOR
+1000000297,8614.0,female,1991.0,20s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000266.0,,,2020-03-19,,,released,kaggle,KOR
 1000000298,8588.0,female,1965.0,50s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000266.0,,,2020-03-19,,,isolated,kaggle,KOR
 1000000299,8612.0,male,1972.0,40s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-03-19,,,released,kaggle,KOR
 1000000300,8782.0,female,1973.0,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-20,,,isolated,kaggle,KOR
-1000000301,8762.0,male,1982.0,30s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
+1000000301,8762.0,male,1982.0,30s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-20,,,released,kaggle,KOR
 1000000302,8669.0,male,2009.0,10s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,8.0,2020-03-19,2020-03-20,,,released,kaggle,KOR
 1000000303,8787.0,male,1950.0,70s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,2020-03-07,2020-03-20,,,isolated,kaggle,KOR
 1000000304,8717.0,female,1994.0,20s,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-03-20,,,isolated,kaggle,KOR
-1000000305,8791.0,male,1997.0,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-20,,,isolated,kaggle,KOR
+1000000305,8791.0,male,1997.0,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-20,,,released,kaggle,KOR
 1000000306,8709.0,male,1994.0,20s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-03-20,,,isolated,kaggle,KOR
 1000000307,8713.0,male,1960.0,60s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000279.0,,,2020-03-20,,,isolated,kaggle,KOR
 1000000308,8692.0,female,1997.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-17,2020-03-20,,,isolated,kaggle,KOR
 1000000309,8664.0,male,1980.0,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-20,,,released,kaggle,KOR
-1000000310,8792.0,female,1960.0,60s,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000216.0,,2020-03-19,2020-03-20,,,isolated,kaggle,KOR
+1000000310,8792.0,female,1960.0,60s,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000216.0,,2020-03-19,2020-03-20,,,released,kaggle,KOR
 1000000311,8760.0,female,2016.0,0s,Korea,Seoul,Gangseo-gu,,contact with patient,,1000000264.0,,,2020-03-20,,,isolated,kaggle,KOR
 1000000312,8682.0,male,1967.0,50s,Korea,Seoul,Gangdong-gu,,etc,,,,,2020-03-20,,,released,kaggle,KOR
-1000000313,8670.0,female,1999.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-19,2020-03-20,,,isolated,kaggle,KOR
+1000000313,8670.0,female,1999.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-19,2020-03-20,,,released,kaggle,KOR
 1000000314,8661.0,male,1999.0,20s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-20,,,isolated,kaggle,KOR
-1000000315,8824.0,female,1966.0,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-20,,,isolated,kaggle,KOR
-1000000316,8884.0,male,1994.0,20s,Korea,Seoul,Nowon-gu,,etc,,,,2020-03-18,2020-03-20,,,isolated,kaggle,KOR
+1000000315,8824.0,female,1966.0,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-20,,,released,kaggle,KOR
+1000000316,8884.0,male,1994.0,20s,Korea,Seoul,Nowon-gu,,etc,,,,2020-03-18,2020-03-20,,,released,kaggle,KOR
 1000000317,8835.0,female,1990.0,30s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,2020-03-15,2020-03-21,,,released,kaggle,KOR
 1000000318,8871.0,male,1998.0,20s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000305.0,,,2020-03-21,,,released,kaggle,KOR
 1000000319,8833.0,male,1997.0,20s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000305.0,,,2020-03-21,,,isolated,kaggle,KOR
@@ -327,129 +327,129 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000326,8938.0,male,1997.0,20s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-03-22,,,released,kaggle,KOR
 1000000327,8928.0,female,1993.0,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-03-22,,,released,kaggle,KOR
 1000000328,8937.0,female,1963.0,50s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,1000000214.0,,,2020-03-22,,,released,kaggle,KOR
-1000000329,8943.0,female,1973.0,40s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,1000000214.0,,,2020-03-22,,,isolated,kaggle,KOR
+1000000329,8943.0,female,1973.0,40s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,1000000214.0,,,2020-03-22,,,released,kaggle,KOR
 1000000330,8940.0,female,1996.0,20s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000306.0,,,2020-03-22,,,released,kaggle,KOR
 1000000331,8991.0,male,1943.0,70s,Korea,Seoul,Yeongdeungpo-gu,,etc,,,,2020-03-18,2020-03-23,,,released,kaggle,KOR
 1000000332,9016.0,male,1971.0,40s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-23,,,released,kaggle,KOR
-1000000333,9020.0,female,2003.0,10s,Korea,Seoul,Jongno-gu,,overseas inflow,,,,,2020-03-23,,,isolated,kaggle,KOR
+1000000333,9020.0,female,2003.0,10s,Korea,Seoul,Jongno-gu,,overseas inflow,,,,,2020-03-23,,,released,kaggle,KOR
 1000000334,9028.0,male,1996.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-23,,,released,kaggle,KOR
 1000000335,9085.0,male,1982.0,30s,United States,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-03-24,,,released,kaggle,KOR
-1000000336,9112.0,female,1993.0,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-23,,,isolated,kaggle,KOR
+1000000336,9112.0,female,1993.0,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-23,,,released,kaggle,KOR
 1000000337,9117.0,female,1992.0,20s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-24,,,isolated,kaggle,KOR
 1000000338,9096.0,female,1998.0,20s,United States,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-24,,,released,kaggle,KOR
-1000000339,9089.0,male,1991.0,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-24,,,isolated,kaggle,KOR
+1000000339,9089.0,male,1991.0,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-24,,,released,kaggle,KOR
 1000000340,9101.0,female,1999.0,20s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-03-24,,,released,kaggle,KOR
 1000000341,9135.0,female,1982.0,30s,Korea,Seoul,Gangseo-gu,,contact with patient,,1000000264.0,,2020-03-22,2020-03-24,,,isolated,kaggle,KOR
 1000000342,9134.0,female,2005.0,10s,Korea,Seoul,Jongno-gu,,contact with patient,,1000000333.0,,,2020-03-24,,,isolated,kaggle,KOR
-1000000343,9079.0,male,1990.0,30s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,2020-03-18,2020-03-24,,,isolated,kaggle,KOR
+1000000343,9079.0,male,1990.0,30s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,2020-03-18,2020-03-24,,,released,kaggle,KOR
 1000000344,9115.0,male,1959.0,60s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000294.0,,2020-03-19,2020-03-24,,,isolated,kaggle,KOR
-1000000345,9099.0,male,1960.0,60s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-22,2020-03-24,,,isolated,kaggle,KOR
+1000000345,9099.0,male,1960.0,60s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-22,2020-03-24,,,released,kaggle,KOR
 1000000346,9074.0,male,1963.0,50s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-24,,,released,kaggle,KOR
 1000000347,9127.0,female,1998.0,20s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000306.0,,,2020-03-24,,,isolated,kaggle,KOR
-1000000348,9182.0,female,1998.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-23,,,isolated,kaggle,KOR
+1000000348,9182.0,female,1998.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-23,,,released,kaggle,KOR
 1000000349,9232.0,female,1981.0,30s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-03-24,,,isolated,kaggle,KOR
 1000000350,9223.0,male,1983.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-25,,,isolated,kaggle,KOR
 1000000351,9231.0,male,1984.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-25,,,isolated,kaggle,KOR
-1000000352,9183.0,female,2000.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-23,2020-03-25,,,isolated,kaggle,KOR
+1000000352,9183.0,female,2000.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-23,2020-03-25,,,released,kaggle,KOR
 1000000353,9187.0,male,1980.0,40s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-25,,,isolated,kaggle,KOR
 1000000354,9194.0,female,1999.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-24,2020-03-25,,,released,kaggle,KOR
 1000000355,9175.0,female,1999.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-21,2020-03-25,,,isolated,kaggle,KOR
 1000000356,9170.0,female,1945.0,70s,Korea,Seoul,Gangseo-gu,,contact with patient,,1000000144.0,,,2020-03-25,,,released,kaggle,KOR
-1000000357,9219.0,female,2000.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-25,,,isolated,kaggle,KOR
-1000000358,9204.0,male,1993.0,20s,Korea,Seoul,etc,,overseas inflow,,,4.0,,2020-03-25,,,isolated,kaggle,KOR
-1000000359,9171.0,male,1999.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3.0,,2020-03-25,,,isolated,kaggle,KOR
+1000000357,9219.0,female,2000.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-25,,,released,kaggle,KOR
+1000000358,9204.0,male,1993.0,20s,Korea,Seoul,etc,,overseas inflow,,,4.0,,2020-03-25,,,released,kaggle,KOR
+1000000359,9171.0,male,1999.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3.0,,2020-03-25,,,released,kaggle,KOR
 1000000360,9228.0,female,2002.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3.0,,2020-03-25,,,released,kaggle,KOR
 1000000361,9366.0,male,2000.0,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,6.0,,2020-03-26,,,isolated,kaggle,KOR
-1000000362,9325.0,female,1996.0,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-26,,,isolated,kaggle,KOR
+1000000362,9325.0,female,1996.0,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-26,,,released,kaggle,KOR
 1000000363,9301.0,female,1987.0,30s,Korea,Seoul,Geumcheon-gu,,contact with patient,,1000000353.0,,,2020-03-26,,,released,kaggle,KOR
-1000000364,9277.0,male,1978.0,40s,Korea,Seoul,Yongsan-gu,,contact with patient,,1000000229.0,,,2020-03-26,,,isolated,kaggle,KOR
+1000000364,9277.0,male,1978.0,40s,Korea,Seoul,Yongsan-gu,,contact with patient,,1000000229.0,,,2020-03-26,,,released,kaggle,KOR
 1000000365,9307.0,female,1962.0,50s,Korea,Seoul,Guro-gu,,contact with patient,,1000000353.0,,2020-03-22,2020-03-26,,,released,kaggle,KOR
-1000000366,9320.0,male,1961.0,50s,Korea,Seoul,Guro-gu,,overseas inflow,,,,,2020-03-26,,,isolated,kaggle,KOR
+1000000366,9320.0,male,1961.0,50s,Korea,Seoul,Guro-gu,,overseas inflow,,,,,2020-03-26,,,released,kaggle,KOR
 1000000367,9264.0,female,2000.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,6.0,,2020-03-26,,,released,kaggle,KOR
-1000000368,9287.0,male,1958.0,60s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,0.0,,2020-03-26,,,isolated,kaggle,KOR
+1000000368,9287.0,male,1958.0,60s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,0.0,,2020-03-26,,,released,kaggle,KOR
 1000000369,9306.0,female,1997.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-26,,,released,kaggle,KOR
 1000000370,9260.0,male,1975.0,40s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-23,2020-03-26,,,isolated,kaggle,KOR
-1000000371,9255.0,male,1986.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-26,,,isolated,kaggle,KOR
+1000000371,9255.0,male,1986.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-26,,,released,kaggle,KOR
 1000000372,9323.0,male,1963.0,50s,Korea,Seoul,etc,,etc,,,,,2020-03-25,,,released,kaggle,KOR
 1000000373,9363.0,female,1967.0,50s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000357.0,1.0,,2020-03-26,,,isolated,kaggle,KOR
-1000000374,9428.0,male,1994.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2.0,,2020-03-26,,,isolated,kaggle,KOR
+1000000374,9428.0,male,1994.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2.0,,2020-03-26,,,released,kaggle,KOR
 1000000375,9434.0,female,1999.0,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-26,,,released,kaggle,KOR
 1000000376,9436.0,female,1995.0,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
 1000000377,9388.0,female,1985.0,30s,France,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
 1000000378,9446.0,female,1963.0,50s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
-1000000379,9368.0,male,1981.0,30s,Thailand,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
+1000000379,9368.0,male,1981.0,30s,Thailand,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
 1000000380,9413.0,male,1976.0,40s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
-1000000381,9427.0,female,1968.0,50s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000305.0,,,2020-03-27,,,isolated,kaggle,KOR
-1000000382,9409.0,female,1989.0,30s,Korea,Seoul,Jung-gu,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
-1000000383,9424.0,female,1998.0,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
-1000000384,9425.0,male,1996.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
+1000000381,9427.0,female,1968.0,50s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000305.0,,,2020-03-27,,,released,kaggle,KOR
+1000000382,9409.0,female,1989.0,30s,Korea,Seoul,Jung-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
+1000000383,9424.0,female,1998.0,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
+1000000384,9425.0,male,1996.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
 1000000385,9468.0,male,1976.0,40s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000353.0,,2020-03-25,2020-03-27,,,released,kaggle,KOR
 1000000386,9410.0,male,1969.0,50s,Korea,Seoul,etc,,contact with patient,,1000000391.0,,,2020-03-27,,,released,kaggle,KOR
-1000000387,9364.0,female,2003.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
-1000000388,9475.0,male,1995.0,20s,Korea,Seoul,Guro-gu,,overseas inflow,,,,2020-03-26,2020-03-27,,,isolated,kaggle,KOR
+1000000387,9364.0,female,2003.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
+1000000388,9475.0,male,1995.0,20s,Korea,Seoul,Guro-gu,,overseas inflow,,,,2020-03-26,2020-03-27,,,released,kaggle,KOR
 1000000389,9393.0,male,1963.0,50s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-27,,,released,kaggle,KOR
 1000000390,9538.0,female,2002.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-25,,,isolated,kaggle,KOR
 1000000391,9547.0,male,1965.0,50s,Korea,Seoul,Geumcheon-gu,,contact with patient,,1000000353.0,,2020-03-20,2020-03-28,,,isolated,kaggle,KOR
 1000000392,9546.0,male,1976.0,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,released,kaggle,KOR
-1000000393,9533.0,female,1970.0,40s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-28,,,isolated,kaggle,KOR
+1000000393,9533.0,female,1970.0,40s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-28,,,released,kaggle,KOR
 1000000394,9543.0,male,1974.0,40s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
 1000000395,9521.0,male,1973.0,40s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
 1000000396,9525.0,male,1993.0,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
-1000000397,9554.0,female,1998.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
+1000000397,9554.0,female,1998.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
 1000000398,9516.0,male,1998.0,20s,Korea,Seoul,Jung-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
 1000000399,9553.0,female,1973.0,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,released,kaggle,KOR
 1000000400,9510.0,male,1994.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
-1000000401,9572.0,female,1976.0,40s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
-1000000402,9507.0,male,1996.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-20,2020-03-28,,,isolated,kaggle,KOR
+1000000401,9572.0,female,1976.0,40s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
+1000000402,9507.0,male,1996.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-20,2020-03-28,,,released,kaggle,KOR
 1000000403,9571.0,female,1980.0,30s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000302.0,,,2020-03-28,,,released,kaggle,KOR
 1000000404,9560.0,male,2003.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
 1000000405,9524.0,male,1994.0,20s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000227.0,,,2020-03-28,,,released,kaggle,KOR
 1000000406,9574.0,male,2000.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
 1000000407,9385.0,female,1996.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
 1000000408,9545.0,female,1995.0,20s,Korea,Seoul,Yangcheon-gu,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
-1000000409,9515.0,female,1978.0,40s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
+1000000409,9515.0,female,1978.0,40s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
 1000000410,9552.0,female,1995.0,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,released,kaggle,KOR
-1000000411,9634.0,female,1962.0,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-28,,,isolated,kaggle,KOR
+1000000411,9634.0,female,1962.0,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-28,,,released,kaggle,KOR
 1000000412,9597.0,female,1972.0,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,isolated,kaggle,KOR
-1000000413,9621.0,male,1994.0,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
+1000000413,9621.0,male,1994.0,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-29,,,released,kaggle,KOR
 1000000414,9629.0,female,1963.0,20s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
 1000000415,9610.0,male,1965.0,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000396.0,,,2020-03-29,,,isolated,kaggle,KOR
-1000000416,9652.0,female,1965.0,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000396.0,,,2020-03-29,,,isolated,kaggle,KOR
+1000000416,9652.0,female,1965.0,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000396.0,,,2020-03-29,,,released,kaggle,KOR
 1000000417,9644.0,female,1992.0,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-29,,,released,kaggle,KOR
-1000000418,9641.0,female,1965.0,50s,Korea,Seoul,Dobong-gu,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
-1000000419,9633.0,male,1994.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
+1000000418,9641.0,female,1965.0,50s,Korea,Seoul,Dobong-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
+1000000419,9633.0,male,1994.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-29,,,released,kaggle,KOR
 1000000420,9603.0,female,1968.0,50s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
 1000000421,9607.0,female,1998.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
 1000000422,9642.0,male,1975.0,40s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000401.0,,,2020-03-29,,,isolated,kaggle,KOR
-1000000423,9628.0,female,2010.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
+1000000423,9628.0,female,2010.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-29,,,released,kaggle,KOR
 1000000424,9599.0,female,1987.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
 1000000425,9627.0,male,1989.0,30s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-03-29,,,released,kaggle,KOR
-1000000426,9613.0,female,1988.0,30s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
+1000000426,9613.0,female,1988.0,30s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-29,,,released,kaggle,KOR
 1000000427,9696.0,male,1965.0,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-27,,,isolated,kaggle,KOR
 1000000428,9757.0,male,1936.0,80s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
-1000000429,9697.0,female,1964.0,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
-1000000430,9783.0,female,1969.0,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
+1000000429,9697.0,female,1964.0,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
+1000000430,9783.0,female,1969.0,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
 1000000431,9679.0,female,1966.0,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
-1000000432,9772.0,female,1971.0,40s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
-1000000433,9704.0,female,1975.0,40s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
+1000000432,9772.0,female,1971.0,40s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
+1000000433,9704.0,female,1975.0,40s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
 1000000434,9766.0,male,1972.0,40s,Korea,Seoul,etc,,etc,,,,,2020-03-30,,,released,kaggle,KOR
 1000000435,9682.0,female,1964.0,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,isolated,kaggle,KOR
 1000000436,9709.0,male,2002.0,10s,Korea,Seoul,Yongsan-gu,,contact with patient,,1000000413.0,,2020-03-29,2020-03-30,,,isolated,kaggle,KOR
 1000000437,9751.0,female,1950.0,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,released,kaggle,KOR
 1000000438,9716.0,female,1970.0,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,released,kaggle,KOR
-1000000439,9763.0,female,1948.0,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,isolated,kaggle,KOR
-1000000440,9723.0,male,1966.0,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-30,,,isolated,kaggle,KOR
+1000000439,9763.0,female,1948.0,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,released,kaggle,KOR
+1000000440,9723.0,male,1966.0,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-30,,,released,kaggle,KOR
 1000000441,9765.0,female,2003.0,10s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
 1000000442,9706.0,male,1963.0,50s,Korea,Seoul,Seocho-gu,,contact with patient,,1000000443.0,,,2020-03-30,,,isolated,kaggle,KOR
 1000000443,9734.0,female,1965.0,50s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
-1000000444,9760.0,male,1967.0,50s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-30,,,isolated,kaggle,KOR
+1000000444,9760.0,male,1967.0,50s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-30,,,released,kaggle,KOR
 1000000445,9752.0,female,1996.0,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,2020-03-28,2020-03-30,,,isolated,kaggle,KOR
 1000000446,9687.0,male,1990.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-30,,,released,kaggle,KOR
-1000000447,9725.0,male,1964.0,50s,Korea,Seoul,Jung-gu,,contact with patient,,1000000443.0,,,2020-03-30,,,isolated,kaggle,KOR
-1000000448,9728.0,female,1998.0,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
+1000000447,9725.0,male,1964.0,50s,Korea,Seoul,Jung-gu,,contact with patient,,1000000443.0,,,2020-03-30,,,released,kaggle,KOR
+1000000448,9728.0,female,1998.0,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-30,,,released,kaggle,KOR
 1000000449,9693.0,female,1965.0,50s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-30,,,isolated,kaggle,KOR
 1000000450,9699.0,male,1999.0,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
-1000000451,9797.0,female,1952.0,60s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
+1000000451,9797.0,female,1952.0,60s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-29,,,released,kaggle,KOR
 1000000452,9869.0,female,1994.0,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
 1000000453,9813.0,female,1973.0,40s,Korea,Seoul,etc,,etc,,,,,2020-03-30,,,isolated,kaggle,KOR
 1000000454,9833.0,female,1973.0,40s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
@@ -462,21 +462,21 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000461,9879.0,male,1968.0,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000438.0,,,2020-03-31,,,released,kaggle,KOR
 1000000462,9852.0,female,1961.0,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-31,,,released,kaggle,KOR
 1000000463,9876.0,male,1946.0,70s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439.0,,,2020-03-31,,,isolated,kaggle,KOR
-1000000464,9812.0,female,1979.0,40s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439.0,,,2020-03-31,,,isolated,kaggle,KOR
-1000000465,9837.0,female,1975.0,40s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439.0,,,2020-03-31,,,isolated,kaggle,KOR
+1000000464,9812.0,female,1979.0,40s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439.0,,,2020-03-31,,,released,kaggle,KOR
+1000000465,9837.0,female,1975.0,40s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439.0,,,2020-03-31,,,released,kaggle,KOR
 1000000466,9859.0,female,1997.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-31,,,isolated,kaggle,KOR
-1000000467,9829.0,male,1998.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-31,,,isolated,kaggle,KOR
+1000000467,9829.0,male,1998.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
 1000000468,9849.0,female,1991.0,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
-1000000469,9810.0,male,1991.0,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-31,,,isolated,kaggle,KOR
+1000000469,9810.0,male,1991.0,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
 1000000470,9883.0,male,1997.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
-1000000471,9867.0,male,1981.0,30s,Korea,Seoul,Yangcheon-gu,,contact with patient,,,,,2020-03-31,,,isolated,kaggle,KOR
+1000000471,9867.0,male,1981.0,30s,Korea,Seoul,Yangcheon-gu,,contact with patient,,,,,2020-03-31,,,released,kaggle,KOR
 1000000472,9800.0,female,1971.0,40s,Korea,Seoul,Jung-gu,,contact with patient,,1000000443.0,,,2020-03-31,,,isolated,kaggle,KOR
-1000000473,9870.0,male,1958.0,60s,Korea,Seoul,etc,,contact with patient,,1000000443.0,,,2020-03-31,,,isolated,kaggle,KOR
-1000000474,9864.0,female,1985.0,30s,Canada,Seoul,Jongno-gu,,overseas inflow,,,,,2020-03-31,,,isolated,kaggle,KOR
+1000000473,9870.0,male,1958.0,60s,Korea,Seoul,etc,,contact with patient,,1000000443.0,,,2020-03-31,,,released,kaggle,KOR
+1000000474,9864.0,female,1985.0,30s,Canada,Seoul,Jongno-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
 1000000475,9929.0,female,1997.0,20s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
 1000000476,9912.0,female,2010.0,10s,Korea,Seoul,etc,,etc,,,,2020-03-24,2020-03-31,,,isolated,kaggle,KOR
 1000000477,9930.0,female,1988.0,30s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
-1000000478,9932.0,male,1972.0,40s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
+1000000478,9932.0,male,1972.0,40s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-01,,,released,kaggle,KOR
 1000000479,9950.0,male,1984.0,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released,kaggle,KOR
 1000000480,9963.0,female,1985.0,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released,kaggle,KOR
 1000000481,9951.0,female,2019.0,0s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released,kaggle,KOR
@@ -486,25 +486,25 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000485,9944.0,female,1982.0,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released,kaggle,KOR
 1000000486,9911.0,female,1995.0,20s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
 1000000487,9931.0,male,2001.0,10s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
-1000000488,9949.0,female,1968.0,50s,Korea,Seoul,Yangcheon-gu,,etc,,,,,2020-04-01,,,isolated,kaggle,KOR
+1000000488,9949.0,female,1968.0,50s,Korea,Seoul,Yangcheon-gu,,etc,,,,,2020-04-01,,,released,kaggle,KOR
 1000000489,10049.0,female,2014.0,0s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released,kaggle,KOR
 1000000490,10027.0,female,1999.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
-1000000491,10021.0,male,1965.0,50s,Korea,Seoul,Yangcheon-gu,,contact with patient,,1000000266.0,,,2020-04-01,,,isolated,kaggle,KOR
-1000000492,10053.0,female,1996.0,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
+1000000491,10021.0,male,1965.0,50s,Korea,Seoul,Yangcheon-gu,,contact with patient,,1000000266.0,,,2020-04-01,,,released,kaggle,KOR
+1000000492,10053.0,female,1996.0,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
 1000000493,10017.0,female,1998.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-04-01,2020-04-02,,,isolated,kaggle,KOR
-1000000494,10009.0,male,1952.0,60s,Korea,Seoul,Yangcheon-gu,,contact with patient,,,,,2020-04-02,,,isolated,kaggle,KOR
+1000000494,10009.0,male,1952.0,60s,Korea,Seoul,Yangcheon-gu,,contact with patient,,,,,2020-04-02,,,released,kaggle,KOR
 1000000495,10036.0,female,1981.0,30s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
 1000000496,10022.0,female,1979.0,40s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
-1000000497,10061.0,female,2009.0,10s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
+1000000497,10061.0,female,2009.0,10s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
 1000000498,10003.0,female,1969.0,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-04-02,,,isolated,kaggle,KOR
 1000000499,10028.0,male,1991.0,20s,United States,Seoul,Jongno-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
-1000000500,10024.0,female,1956.0,60s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
+1000000500,10024.0,female,1956.0,60s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
 1000000501,10020.0,male,1949.0,70s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
 1000000502,10054.0,female,1994.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3.0,,2020-04-02,,,isolated,kaggle,KOR
 1000000503,10015.0,female,1984.0,30s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000483.0,1.0,,2020-04-02,,,isolated,kaggle,KOR
-1000000504,10044.0,female,1996.0,20s,Korea,Seoul,etc,,overseas inflow,,,1.0,2020-03-27,2020-04-02,,,isolated,kaggle,KOR
-1000000505,10046.0,female,1982.0,30s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
-1000000506,10013.0,male,1994.0,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
+1000000504,10044.0,female,1996.0,20s,Korea,Seoul,etc,,overseas inflow,,,1.0,2020-03-27,2020-04-02,,,released,kaggle,KOR
+1000000505,10046.0,female,1982.0,30s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
+1000000506,10013.0,male,1994.0,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
 1000000507,10079.0,female,1997.0,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
 1000000508,10081.0,male,1995.0,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-31,,,released,kaggle,KOR
 1000000509,10084.0,female,1932.0,80s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
@@ -512,15 +512,15 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000511,10096.0,female,1989.0,30s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
 1000000512,10098.0,female,1949.0,70s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000288.0,,,2020-04-03,,,isolated,kaggle,KOR
 1000000513,10115.0,female,1955.0,60s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000368.0,1.0,,2020-04-03,,,isolated,kaggle,KOR
-1000000514,10110.0,female,1986.0,30s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
+1000000514,10110.0,female,1986.0,30s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-04-03,,,released,kaggle,KOR
 1000000515,10140.0,male,1982.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
-1000000516,10134.0,female,1988.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
+1000000516,10134.0,female,1988.0,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-03,,,released,kaggle,KOR
 1000000517,10095.0,male,1938.0,80s,Korea,Seoul,Seodaemun-gu,,contact with patient,,1000000509.0,,,2020-04-03,,,isolated,kaggle,KOR
 1000000518,10138.0,female,1997.0,20s,Korea,Seoul,Songpa-gu,,contact with patient,,,,,2020-04-03,,,isolated,kaggle,KOR
-1000000519,10147.0,male,1988.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
-1000000520,10124.0,female,1992.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
+1000000519,10147.0,male,1988.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,released,kaggle,KOR
+1000000520,10124.0,female,1992.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-03,,,released,kaggle,KOR
 1000000521,10078.0,male,1998.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
-1000000522,10145.0,female,1997.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2.0,,2020-04-03,,,isolated,kaggle,KOR
+1000000522,10145.0,female,1997.0,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2.0,,2020-04-03,,,released,kaggle,KOR
 1000000523,10146.0,female,1943.0,70s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,1.0,,2020-04-03,,,isolated,kaggle,KOR
 1000000524,10122.0,male,2019.0,0s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
 1000000525,10117.0,female,1972.0,40s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-04-03,,,isolated,kaggle,KOR
@@ -528,35 +528,35 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000527,10087.0,female,1997.0,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
 1000000528,10142.0,female,1955.0,60s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-04-03,,,isolated,kaggle,KOR
 1000000529,10228.0,male,1971.0,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-04-02,,,released,kaggle,KOR
-1000000530,10195.0,male,1979.0,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-02,,,released,kaggle,KOR
+1000000530,10195.0,male,1979.0,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
 1000000531,10199.0,male,1998.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
 1000000532,10224.0,female,1979.0,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-03,,,isolated,kaggle,KOR
-1000000533,10222.0,female,1994.0,20s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000504.0,,,2020-04-03,,,isolated,kaggle,KOR
+1000000533,10222.0,female,1994.0,20s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000504.0,,,2020-04-03,,,released,kaggle,KOR
 1000000534,10186.0,female,1991.0,20s,Korea,Seoul,Yongsan-gu,,contact with patient,,,,2020-03-28,2020-04-04,,,isolated,kaggle,KOR
-1000000535,10236.0,male,1984.0,30s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
+1000000535,10236.0,male,1984.0,30s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-04,,,released,kaggle,KOR
 1000000536,10183.0,male,2000.0,20s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-04,,,released,kaggle,KOR
 1000000537,10202.0,male,1989.0,30s,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000216.0,,,2020-04-04,,,isolated,kaggle,KOR
 1000000538,10204.0,male,1967.0,50s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,,,,2020-04-04,,,isolated,kaggle,KOR
 1000000539,10227.0,female,1984.0,30s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
-1000000540,10216.0,female,1968.0,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-04-04,,,isolated,kaggle,KOR
+1000000540,10216.0,female,1968.0,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-04-04,,,released,kaggle,KOR
 1000000541,10194.0,female,1970.0,50s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000513.0,,,2020-04-04,,,isolated,kaggle,KOR
-1000000542,10198.0,male,1994.0,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
+1000000542,10198.0,male,1994.0,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-04,,,released,kaggle,KOR
 1000000543,10230.0,female,1986.0,30s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
 1000000544,10233.0,female,1994.0,20s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
 1000000545,10219.0,female,1969.0,50s,Korea,Seoul,Songpa-gu,,contact with patient,,1000000441.0,,,2020-04-04,,,isolated,kaggle,KOR
 1000000546,10197.0,male,1996.0,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
 1000000547,10210.0,male,1989.0,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
-1000000548,10200.0,male,2003.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
+1000000548,10200.0,male,2003.0,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-04,,,released,kaggle,KOR
 1000000549,10191.0,male,1984.0,30s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,1.0,,2020-04-04,,,isolated,kaggle,KOR
 1000000550,10182.0,female,1980.0,40s,Korea,Seoul,etc,,contact with patient,,1000000476.0,,,2020-04-04,,,isolated,kaggle,KOR
 1000000551,10237.0,male,1950.0,70s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000528.0,,,2020-04-04,,,isolated,kaggle,KOR
 1000000552,10188.0,male,1989.0,30s,Korea,Seoul,Yeongdeungpo-gu,,etc,,,,,2020-04-05,,,isolated,kaggle,KOR
 1000000553,10259.0,female,1992.0,20s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
-1000000554,10270.0,female,2000.0,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
+1000000554,10270.0,female,2000.0,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-05,,,released,kaggle,KOR
 1000000555,10272.0,female,1996.0,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
 1000000556,10266.0,female,1996.0,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
 1000000557,10262.0,male,1995.0,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
-1000000558,10277.0,male,1966.0,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000540.0,,,2020-04-05,,,isolated,kaggle,KOR
+1000000558,10277.0,male,1966.0,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000540.0,,,2020-04-05,,,released,kaggle,KOR
 1000000559,10276.0,female,1991.0,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
 1000000560,10275.0,female,1954.0,60s,Korea,Seoul,Songpa-gu,,contact with patient,,1000000368.0,,2020-03-23,2020-04-05,,,isolated,kaggle,KOR
 1000000561,10284.0,female,1983.0,30s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
@@ -579,22 +579,22 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000578,10374.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-07,,,isolated,kaggle,KOR
 1000000579,10419.0,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-07,,,isolated,kaggle,KOR
 1000000580,10412.0,,,,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
-1000000581,10405.0,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
+1000000581,10405.0,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,released,kaggle,KOR
 1000000582,10402.0,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,released,kaggle,KOR
 1000000583,10423.0,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,released,kaggle,KOR
 1000000584,10399.0,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
-1000000585,10422.0,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-24,2020-04-08,,,isolated,kaggle,KOR
+1000000585,10422.0,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-24,2020-04-08,,,released,kaggle,KOR
 1000000586,10407.0,,,,Korea,Seoul,Seongdong-gu,,etc,,,,2020-04-05,2020-04-08,,,isolated,kaggle,KOR
 1000000587,10411.0,,,,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000575.0,,,2020-04-08,,,isolated,kaggle,KOR
-1000000588,10421.0,,,,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
-1000000589,10413.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
+1000000588,10421.0,,,,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-08,,,released,kaggle,KOR
+1000000589,10413.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-08,,,released,kaggle,KOR
 1000000590,10396.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
 1000000591,10435.0,,,,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000503.0,,,2020-04-06,,,isolated,kaggle,KOR
 1000000592,10448.0,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-09,,,isolated,kaggle,KOR
-1000000593,10442.0,,,,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-04-09,,,isolated,kaggle,KOR
+1000000593,10442.0,,,,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-04-09,,,released,kaggle,KOR
 1000000594,10441.0,,,,Korea,Seoul,Seongdong-gu,,contact with patient,,1000000586.0,,2020-04-07,2020-04-09,,,isolated,kaggle,KOR
 1000000595,10443.0,,,,Korea,Seoul,Seongbuk-gu,,etc,,,,,2020-04-09,,,isolated,kaggle,KOR
-1000000596,10471.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-09,,,isolated,kaggle,KOR
+1000000596,10471.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-09,,,released,kaggle,KOR
 1000000597,10470.0,,,,Korea,Seoul,Yangcheon-gu,,overseas inflow,,,,,2020-04-10,,,isolated,kaggle,KOR
 1000000598,10499.0,,,,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-06,,,isolated,kaggle,KOR
 1000000599,10474.0,,,,Korea,Seoul,Gangnam-gu,,contact with patient,,,,,2020-04-10,,,isolated,kaggle,KOR
@@ -609,20 +609,29 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000608,10537.0,,,,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-12,,,isolated,kaggle,KOR
 1000000609,10528.0,,,,Korea,Seoul,Dobong-gu,,contact with patient,,1000000418.0,,,2020-04-12,,,isolated,kaggle,KOR
 1000000610,10524.0,,,,Korea,Seoul,Eunpyeong-gu,,contact with patient,,,,,2020-04-12,,,isolated,kaggle,KOR
-1000000611,10564.0,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-13,,,isolated,kaggle,KOR
-1000000612,10559.0,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-13,,,released,kaggle,KOR
-1000000613,10588.0,,,,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000504.0,,2020-04-12,2020-04-13,,,isolated,kaggle,KOR
+1000000611,10564.0,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-13,,,released,kaggle,KOR
+1000000612,10559.0,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-13,,,isolated,kaggle,KOR
+1000000613,10588.0,,,,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000504.0,,2020-04-12,2020-04-13,,,released,kaggle,KOR
 1000000614,10575.0,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-14,,,isolated,kaggle,KOR
 1000000615,10569.0,,,,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-14,,,isolated,kaggle,KOR
-1000000616,10584.0,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-14,,,isolated,kaggle,KOR
+1000000616,10584.0,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-14,,,released,kaggle,KOR
 1000000617,10589.0,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-14,,,isolated,kaggle,KOR
 1000000618,10610.0,,,,Korea,Seoul,Jung-gu,,contact with patient,,1000000472.0,,,2020-04-15,,,isolated,kaggle,KOR
-1000000619,10597.0,,,,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-15,,,isolated,kaggle,KOR
+1000000619,10597.0,,,,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-15,,,released,kaggle,KOR
 1000000620,10632.0,,,,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000502.0,,,2020-04-16,,,isolated,kaggle,KOR
-1000000621,10635.0,,,,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-17,,,isolated,kaggle,KOR
+1000000621,10635.0,,,,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-17,,,released,kaggle,KOR
 1000000622,10644.0,,,,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-17,,,isolated,kaggle,KOR
 1000000623,10658.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,0.0,,2020-04-17,,,isolated,kaggle,KOR
-1000000624,10659.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,1.0,,2020-04-18,,,isolated,kaggle,KOR
+1000000624,10659.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,1.0,,2020-04-18,,,released,kaggle,KOR
+1000000625,10681.0,,,,Korea,Seoul,Gangseo-gu,,etc,,,,,2020-04-19,,,released,kaggle,KOR
+1000000626,10683.0,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-20,,,isolated,kaggle,KOR
+1000000627,10693.0,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-21,,,isolated,kaggle,KOR
+1000000628,10691.0,,,,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-21,,,isolated,kaggle,KOR
+1000000629,10717.0,,,,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-24,,,isolated,kaggle,KOR
+1000000630,10745.0,,,,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-27,,,isolated,kaggle,KOR
+1000000631,10747.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2.0,,2020-04-27,,,isolated,kaggle,KOR
+1000000632,10749.0,,,,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-27,,,isolated,kaggle,KOR
+1000000633,10750.0,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3.0,,2020-04-27,,,isolated,kaggle,KOR
 1100000001,,male,2001.0,10s,Korea,Busan,Dongnae-gu,,Onchun Church,,,1091.0,,2020-02-21,,,released,kaggle,KOR
 1100000002,,female,1963.0,50s,Korea,Busan,Haeundae-gu,,contact with patient,,,131.0,,2020-02-21,,,released,kaggle,KOR
 1100000003,,female,2000.0,20s,Korea,Busan,Haeundae-gu,,etc,,,16.0,2020-02-21,2020-02-22,,,isolated,kaggle,KOR
@@ -734,7 +743,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1100000109,,male,1997.0,20s,Korea,Busan,Dongnae-gu,,overseas inflow,,,3.0,2020-03-21,2020-03-25,,,isolated,kaggle,KOR
 1100000110,,male,2002.0,10s,Korea,Busan,Dongnae-gu,,overseas inflow,,,2.0,2020-03-23,2020-03-26,,,isolated,kaggle,KOR
 1100000111,,male,1976.0,40s,Korea,Busan,Haeundae-gu,,overseas inflow,,,1.0,2020-03-26,2020-03-27,,,released,kaggle,KOR
-1100000112,,male,1994.0,20s,Korea,Busan,Geumjeong-gu,,overseas inflow,,,18.0,,2020-03-27,,,released,kaggle,KOR
+1100000112,,male,1994.0,20s,Germany,Busan,Geumjeong-gu,,overseas inflow,,,18.0,,2020-03-27,,,released,kaggle,KOR
 1100000113,,male,1993.0,20s,Korea,Busan,Gijang-gun,,overseas inflow,,,1.0,2020-03-27,2020-03-28,,,released,kaggle,KOR
 1100000114,,male,2002.0,10s,Korea,Busan,Suyeong-gu,,overseas inflow,,,1.0,,2020-03-28,,,released,kaggle,KOR
 1100000115,,male,1959.0,60s,Korea,Busan,Nam-gu,,overseas inflow,,,1.0,,2020-03-29,,,isolated,kaggle,KOR
@@ -746,12 +755,17 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1100000121,,female,2002.0,10s,Korea,Busan,Haeundae-gu,,overseas inflow,,,3.0,,2020-04-07,,,released,kaggle,KOR
 1100000122,,male,1983.0,30s,Korea,Busan,Haeundae-gu,,overseas inflow,,,0.0,,2020-04-07,,,isolated,kaggle,KOR
 1100000123,,male,1996.0,20s,Korea,Busan,etc,,overseas inflow,,,0.0,,2020-04-09,,,isolated,kaggle,KOR
-1100000124,,female,2000.0,20s,Foreign,Busan,Nam-gu,,overseas inflow,,,0.0,,2020-04-14,,,isolated,kaggle,KOR
+1100000124,,female,2000.0,20s,Vietnam,Busan,Nam-gu,,overseas inflow,,,0.0,,2020-04-14,,,isolated,kaggle,KOR
 1100000125,,male,2013.0,0s,Korea,Busan,Dongnae-gu,,overseas inflow,,,2.0,,2020-04-15,,,isolated,kaggle,KOR
 1100000126,,male,2011.0,0s,Korea,Busan,Dongnae-gu,,overseas inflow,,,,,2020-04-15,,,isolated,kaggle,KOR
 1100000127,,female,1979.0,40s,Korea,Busan,Dongnae-gu,,overseas inflow,,,2.0,2020-04-08,2020-04-15,,,isolated,kaggle,KOR
 1100000128,,male,1962.0,50s,Korea,Busan,Buk-gu,,etc,,,143.0,2020-04-08,2020-04-18,,,isolated,kaggle,KOR
 1100000129,,female,1995.0,20s,Korea,Busan,etc,,etc,,,,,2020-04-18,,,isolated,kaggle,KOR
+1100000130,,female,1982.0,30s,Korea,Busan,Nam-gu,,overseas inflow,,,2.0,,2020-04-21,,,isolated,kaggle,KOR
+1100000131,,female,1949.0,70s,Korea,Busan,Buk-gu,,contact with patient,,,5.0,,2020-04-21,,,isolated,kaggle,KOR
+1100000132,,female,1990.0,30s,Korea,Busan,Suyeong-gu,,overseas inflow,,,,2020-04-09,2020-04-22,,,isolated,kaggle,KOR
+1100000133,,male,1953.0,60s,Korea,Busan,Sasang-gu,,overseas inflow,,,,2020-04-17,2020-04-23,,,isolated,kaggle,KOR
+1100000134,,female,1982.0,30s,Korea,Busan,Suyeong-gu,,overseas inflow,,,1.0,,2020-04-25,,,isolated,kaggle,KOR
 1200000031,31.0,female,1959.0,60s,Korea,Daegu,,,Shincheonji Church,,,1160.0,,2020-02-18,,,isolated,kaggle,KOR
 1200000033,33.0,female,1980.0,40s,Korea,Daegu,Jung-gu,,contact with patient,,1200000031.0,,,2020-02-18,,,isolated,kaggle,KOR
 1200000034,34.0,male,1996.0,20s,Korea,Daegu,Jung-gu,,Shincheonji Church,,,,,2020-02-18,,,isolated,kaggle,KOR
@@ -834,7 +848,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1300000017,8395.0,female,,50s,Korea,Gwangju,,,contact with patient,,,3.0,2020-03-10,2020-03-17,2020-03-28,,released,kaggle,KOR
 1300000018,8574.0,male,,60s,Korea,Gwangju,,,contact with patient,,1300000017.0,16.0,,2020-03-17,2020-04-10,,released,kaggle,KOR
 1300000019,8821.0,male,,30s,Korea,Gwangju,,,overseas inflow,,,25.0,,2020-03-20,,,isolated,kaggle,KOR
-1300000020,9322.0,male,,20s,Korea,Gwangju,,,overseas inflow,,,2.0,2020-03-25,2020-03-26,,,isolated,kaggle,KOR
+1300000020,9322.0,male,,20s,Korea,Gwangju,,,overseas inflow,,,2.0,2020-03-25,2020-03-26,2020-04-22,,released,kaggle,KOR
 1300000021,9808.0,female,,40s,Korea,Gwangju,,,overseas inflow,,,, ,2020-03-31,2020-04-13,,isolated,kaggle,KOR
 1300000022,9855.0,female,,10s,Korea,Gwangju,,,overseas inflow,,,,,2020-03-31,2020-04-11,,released,kaggle,KOR
 1300000023,9887.0,female,,10s,Korea,Gwangju,,,overseas inflow,,,,,2020-03-31,2020-04-13,,isolated,kaggle,KOR
@@ -842,9 +856,9 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1300000025,9945.0,female,,10s,Korea,Gwangju,,,overseas inflow,,,1.0,2020-03-31,2020-04-01,,,isolated,kaggle,KOR
 1300000026,10062.0,male,,30s,Korea,Gwangju,,,overseas inflow,,,1.0,,2020-04-02,2020-04-10,,released,kaggle,KOR
 1300000027,10226.0,female,,20s,Korea,Gwangju,,,overseas inflow,,,4.0,,2020-04-04,,,isolated,kaggle,KOR
-1300000028,10579.0,male,,20s,Korea,Gwangju,,,overseas inflow,,,2.0,,2020-04-14,,,isolated,kaggle,KOR
-1300000029,,male,,60s,Korea,Gwangju,,,overseas inflow,,,3.0,,2020-04-16,,,isolated,kaggle,KOR
-1300000030,,female,,20s,Korea,Gwangju,,,overseas inflow,,,2.0,,2020-04-16,,,isolated,kaggle,KOR
+1300000028,10579.0,male,,20s,Korea,Gwangju,,,overseas inflow,,,2.0,,2020-04-14,2020-04-22,,isolated,kaggle,KOR
+1300000029,10630.0,male,,60s,Korea,Gwangju,,,overseas inflow,,,3.0,,2020-04-16,,,isolated,kaggle,KOR
+1300000030,10626.0,female,,20s,Korea,Gwangju,,,overseas inflow,,,2.0,,2020-04-16,,,isolated,kaggle,KOR
 1400000001,1.0,female,1985.0,30s,China,Incheon,etc,,overseas inflow,,,,2020-01-19,2020-01-20,2020-02-06,,released,kaggle,KOR
 1400000002,398.0,female,1960.0,60s,Korea,Incheon,Bupyeong-gu,,Shincheonji Church,,,,,2020-02-22,2020-03-09,,released,kaggle,KOR
 1400000003,1129.0,male,1963.0,50s,Korea,Incheon,Michuhol-gu,,etc,,,,2020-01-31,2020-02-25,2020-03-03,,released,kaggle,KOR
@@ -924,25 +938,25 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1400000077,10083.0,female,1991.0,20s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-03,2020-04-14,,released,kaggle,KOR
 1400000078,10209.0,male,1986.0,30s,Korea,Incheon,Seo-gu,,etc,,,,,2020-04-03,2020-04-10,,released,kaggle,KOR
 1400000079,10232.0,male,1949.0,60s,Korea,Incheon,Gyeyang-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
-1400000080,10283.0,female,1953.0,70s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-04-05,,,isolated,kaggle,KOR
+1400000080,10283.0,female,1953.0,70s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-04-05,2020-04-24,,isolated,kaggle,KOR
 1400000081,10366.0,female,1957.0,60s,Korea,Incheon,Seo-gu,,contact with patient,,,,,2020-04-07,2020-04-17,,released,kaggle,KOR
-1400000082,10351.0,male,1982.0,30s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-07,,,isolated,kaggle,KOR
+1400000082,10351.0,male,1982.0,30s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-07,2020-04-22,,isolated,kaggle,KOR
 1400000083,10372.0,female,1977.0,40s,Korea,Incheon,Bupyeong-gu,,etc,,,,,2020-04-07,2020-04-17,,released,kaggle,KOR
 1400000084,10368.0,female,1952.0,60s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-04-09,,,isolated,kaggle,KOR
 1400000085,10433.0,male,1927.0,90s,Korea,Incheon,Bupyeong-gu,,contact with patient,,,,,2020-04-09,,,isolated,kaggle,KOR
-1400000086,10500.0,male,1991.0,20s,Korea,Incheon,Ganghwa-gun,,overseas inflow,,,,,2020-04-10,,,isolated,kaggle,KOR
+1400000086,10500.0,male,1991.0,20s,Korea,Incheon,Ganghwa-gun,,overseas inflow,,,,,2020-04-10,2020-04-24,,isolated,kaggle,KOR
 1400000087,10534.0,male,1958.0,60s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-04-12,,,isolated,kaggle,KOR
 1400000088,10546.0,male,1983.0,30s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-04-13,,,isolated,kaggle,KOR
-1400000089,10629.0,female,1990.0,30s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-16,,,isolated,kaggle,KOR
+1400000089,10629.0,female,1990.0,30s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-16,2020-04-21,,isolated,kaggle,KOR
 1400000090,10646.0,female,1980.0,40s,Korea,Incheon,Michuhol-gu,,overseas inflow,,,,,2020-04-17,,,isolated,kaggle,KOR
 1400000091,10660.0,female,2001.0,20s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-04-18,,,isolated,kaggle,KOR
-1400000092,,male,1992.0,20s,Korea,Incheon,Gyeyang-gu,,overseas inflow,,,,,2020-04-19,,,isolated,kaggle,KOR
+1400000092,10666.0,male,1992.0,20s,Korea,Incheon,Gyeyang-gu,,overseas inflow,,,,,2020-04-19,,,isolated,kaggle,KOR
 1500000001,241.0,female,,20s,Korea,Daejeon,Dong-gu,,etc,,,23.0,,2020-02-21,2020-03-04,,released,kaggle,KOR
 1500000002,372.0,female,,60s,Korea,Daejeon,Yuseong-gu,,etc,,,9.0,,2020-02-22,2020-03-28,,released,kaggle,KOR
 1500000003,573.0,male,,60s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1500000002.0,1.0,,2020-02-23,,,isolated,kaggle,KOR
 1500000004,1256.0,female,,40s,Korea,Daejeon,Yuseong-gu,,etc,,,46.0,,2020-02-26,2020-03-02,,released,kaggle,KOR
 1500000005,1252.0,male,,30s,Korea,Daejeon,Yuseong-gu,,etc,,,15.0,,2020-02-26,2020-03-09,,released,kaggle,KOR
-1500000006,1257.0,female,,40s,Korea,Daejeon,Daedeok-gu,,etc,,,12.0,,2020-04-08,,,isolated,kaggle,KOR
+1500000006,1257.0,female,,40s,Korea,Daejeon,Daedeok-gu,,etc,,,12.0,,2020-04-08,2020-04-24,,released,kaggle,KOR
 1500000007,1856.0,male,,30s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000005.0,2.0,,2020-02-26,2020-03-26,,released,kaggle,KOR
 1500000008,1568.0,male,,30s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000005.0,2.0,,2020-02-26,2020-03-26,,released,kaggle,KOR
 1500000009,1569.0,male,,70s,Korea,Daejeon,Seo-gu,,etc,,,6.0,,2020-02-26,2020-03-21,,released,kaggle,KOR
@@ -959,23 +973,24 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1500000020,7867.0,male,,80s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000019.0,3.0,,2020-03-11,2020-03-28,,released,kaggle,KOR
 1500000021,7945.0,female,,50s,Korea,Daejeon,Yuseong-gu,,contact with patient,,4100000114.0,0.0,,2020-03-12,2020-03-28,,released,kaggle,KOR
 1500000022,7974.0,female,,20s,Korea,Daejeon,Yuseong-gu,,contact with patient,,4100000114.0,0.0,,2020-03-12,2020-03-26,,released,kaggle,KOR
-1500000023,8844.0,male,,50s,Korea,Daejeon,Seo-gu,,etc,,,9.0,2020-03-13,2020-03-21,,,isolated,kaggle,KOR
-1500000024,8843.0,female,,50s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000023.0,0.0,2020-03-11,2020-03-21,,,isolated,kaggle,KOR
+1500000023,8844.0,male,,50s,Korea,Daejeon,Seo-gu,,etc,,,9.0,2020-03-13,2020-03-21,2020-04-22,,released,kaggle,KOR
+1500000024,8843.0,female,,50s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000023.0,0.0,2020-03-11,2020-03-21,2020-04-25,,isolated,kaggle,KOR
 1500000025,,male,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,19.0,2020-03-13,2020-03-24,2020-04-11,,released,kaggle,KOR
 1500000026,9202.0,female,,60s,Korea,Daejeon,Seo-gu,,overseas inflow,,,1.0,2020-03-22,2020-03-24,,,isolated,kaggle,KOR
 1500000027,9214.0,female,,40s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1500000025.0,27.0,2020-03-09,2020-03-24,2020-04-05,,released,kaggle,KOR
-1500000028,9239.0,male,,20s,Korea,Daejeon,Dong-gu,,overseas inflow,,,2.0,2020-03-23,2020-03-25,,,isolated,kaggle,KOR
+1500000028,9239.0,male,,20s,Korea,Daejeon,Dong-gu,,overseas inflow,,,2.0,2020-03-23,2020-03-25,2020-04-25,,released,kaggle,KOR
 1500000029,9208.0,male,,10s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1500000027.0,40.0,2020-03-12,2020-03-25,2020-04-06,,released,kaggle,KOR
-1500000030,9207.0,female,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,27.0,2020-03-14,2020-03-25,,,isolated,kaggle,KOR
+1500000030,9207.0,female,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,27.0,2020-03-14,2020-03-25,2020-04-24,,released,kaggle,KOR
 1500000031,9278.0,female,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,7.0,2020-03-24,2020-03-26,,,isolated,kaggle,KOR
 1500000032,9568.0,male,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,3.0,,2020-03-28,2020-04-10,,released,kaggle,KOR
-1500000033,9430.0,female,,20s,Korea,Daejeon,Seo-gu,,overseas inflow,,5000000011.0,3.0,,2020-03-28,,,isolated,kaggle,KOR
+1500000033,9430.0,female,,20s,Korea,Daejeon,Seo-gu,,overseas inflow,,5000000011.0,3.0,,2020-03-28,2020-04-22,,released,kaggle,KOR
 1500000034,9576.0,female,,60s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000030.0,2.0,,2020-03-28,2020-04-09,,released,kaggle,KOR
 1500000035,9430.0,female,,10s,Korea,Daejeon,Seo-gu,,overseas inflow,,,,,2020-03-30,2020-04-15,,released,kaggle,KOR
-1500000036,9698.0,male,,30s,Korea,Daejeon,Seo-gu,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
-1500000037,10207.0,male,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
-1500000038,10267.0,female,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
-1500000039,10247.0,female,,20s,Korea,Daejeon,Daedeok-gu,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
+1500000036,9698.0,male,,30s,Korea,Daejeon,Seo-gu,,overseas inflow,,,,,2020-03-30,2020-04-21,,released,kaggle,KOR
+1500000037,10207.0,male,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,,,2020-04-04,2020-04-19,,released,kaggle,KOR
+1500000038,10267.0,female,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,,,2020-04-05,2020-04-23,,released,kaggle,KOR
+1500000039,10247.0,female,,20s,Korea,Daejeon,Daedeok-gu,,overseas inflow,,,,,2020-04-05,2020-04-27,,released,kaggle,KOR
+1500000040,10687.0,male,,30s,Korea,Daejeon,Jung-gu,,overseas inflow,,,0.0,,2020-04-21,,,isolated,kaggle,KOR
 1600000001,,female,1992.0,20s,Korea,Ulsan,Ulju-gun,,Shincheonji Church,,,,,2020-02-22,2020-03-16,,released,kaggle,KOR
 1600000002,,female,1971.0,40s,Korea,Ulsan,Jung-gu,,Shincheonji Church,,,,,2020-02-24,2020-03-17,,released,kaggle,KOR
 1600000003,,male,1992.0,20s,Korea,Ulsan,Jung-gu,,Shincheonji Church,,,,2020-02-20,2020-02-25,2020-03-14,,released,kaggle,KOR
@@ -998,7 +1013,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1600000020,,female,1952.0,60s,Korea,Ulsan,Dong-gu,,contact with patient,,1600000019.0,,,2020-03-01,2020-04-04,,released,kaggle,KOR
 1600000021,,female,1964.0,50s,Korea,Ulsan,Buk-gu,,contact with patient,,,,,2020-03-03,2020-03-19,,released,kaggle,KOR
 1600000022,,male,1962.0,50s,Korea,Ulsan,Buk-gu,,contact with patient,,1600000021.0,,,2020-03-03,2020-03-22,,released,kaggle,KOR
-1600000023,,female,1990.0,30s,Korea,Ulsan,Nam-gu,,contact with patient,,1600000021.0,,,2020-04-11,,,isolated,kaggle,KOR
+1600000023,,female,1990.0,30s,Korea,Ulsan,Nam-gu,,contact with patient,,1600000021.0,,,2020-04-11,2020-04-20,,released,kaggle,KOR
 1600000024,,female,1985.0,30s,Korea,Ulsan,Dong-gu,,etc,,,,,2020-03-07,2020-04-03,,released,kaggle,KOR
 1600000025,,male,1997.0,20s,Korea,Ulsan,Buk-gu,,Shincheonji Church,,,,,2020-03-10,2020-03-19,,released,kaggle,KOR
 1600000026,,male,1960.0,60s,Korea,Ulsan,Nam-gu,,contact with patient,,1600000027.0,,,2020-03-12,2020-04-01,,released,kaggle,KOR
@@ -1016,51 +1031,52 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1600000038,,male,2005.0,10s,Korea,Ulsan,Ulju-gun,,overseas inflow,,,,,2020-03-26,2020-04-12,,released,kaggle,KOR
 1600000039,,female,1999.0,20s,Korea,Ulsan,Nam-gu,,overseas inflow,,,,,2020-03-26,,,isolated,kaggle,KOR
 1600000040,,male,1994.0,20s,Korea,Ulsan,Dong-gu,,overseas inflow,,,,,2020-04-01,2020-04-10,,released,kaggle,KOR
-1600000041,,female,1998.0,20s,Korea,Ulsan,Ulju-gun,,overseas inflow,,,,,2020-04-10,,,isolated,kaggle,KOR
-1600000042,,male,1992.0,20s,Korea,Ulsan,Nam-gu,,overseas inflow,,,,,2020-04-13,,,isolated,kaggle,KOR
+1600000041,,female,1998.0,20s,Korea,Ulsan,Ulju-gun,,overseas inflow,,,,,2020-04-10,2020-04-28,,released,kaggle,KOR
+1600000042,,male,1992.0,20s,Korea,Ulsan,Nam-gu,,overseas inflow,,,,,2020-04-13,2020-04-22,,released,kaggle,KOR
+1600000043,,female,1968.0,50s,Korea,Ulsan,Buk-gu,,overseas inflow,,,,,2020-04-19,,,isolated,kaggle,KOR
 1700000001,346.0,male,,30s,Korea,Sejong,Sejong,,Shincheonji Church,,,40.0,,2020-02-21,2020-03-29,,released,kaggle,KOR
-1700000002,,female,,40s,Korea,Sejong,Sejong,,gym facility in Cheonan,,,7.0,2020-02-20,2020-04-07,,,isolated,kaggle,KOR
+1700000002,,female,,40s,Korea,Sejong,Sejong,,gym facility in Cheonan,,,7.0,2020-02-20,2020-04-07,2020-04-21,,released,kaggle,KOR
 1700000003,,female,,20s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002.0,40.0,2020-02-27,2020-03-07,2020-04-03,,released,kaggle,KOR
 1700000004,,female,,50s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002.0,22.0,2020-02-22,2020-03-08,2020-03-25,,released,kaggle,KOR
 1700000005,,female,,40s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002.0,3.0,2020-03-01,2020-03-08,2020-03-28,,released,kaggle,KOR
-1700000006,,female,,40s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002.0,2.0,2020-02-22,2020-04-07,,,isolated,kaggle,KOR
+1700000006,,female,,40s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002.0,2.0,2020-02-22,2020-04-07,2020-04-18,,released,kaggle,KOR
 1700000007,,female,,40s,Korea,Sejong,Sejong,,contact with patient,,1700000004.0,1.0,,2020-03-09,2020-03-21,,released,kaggle,KOR
 1700000008,,female,,10s,Korea,Sejong,Sejong,,contact with patient,,1700000004.0,3.0,,2020-03-09,2020-03-25,,released,kaggle,KOR
 1700000009,,male,,50s,Korea,Sejong,Sejong,,etc,,,41.0,2020-03-06,2020-03-10,2020-03-26,,released,kaggle,KOR
 1700000010,,male,,50s,Korea,Sejong,Sejong,,contact with patient,,1700000007.0,10.0,2020-03-04,2020-03-10,2020-03-20,,released,kaggle,KOR
-1700000011,,female,,10s,Korea,Sejong,Sejong,,etc,,,2.0,2020-03-05,2020-04-08,,,isolated,kaggle,KOR
+1700000011,,female,,10s,Korea,Sejong,Sejong,,etc,,,2.0,2020-03-05,2020-04-07,2020-04-28,,released,kaggle,KOR
 1700000012,,female,,40s,Korea,Sejong,Sejong,,contact with patient,,1700000009.0,4.0,,2020-03-10,2020-04-04,,released,kaggle,KOR
-1700000013,,female,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,7.0,2020-03-09,2020-03-10,,,isolated,kaggle,KOR
+1700000013,,female,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,7.0,2020-03-09,2020-03-10,2020-04-24,,released,kaggle,KOR
 1700000014,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,45.0,,2020-03-10,,,isolated,kaggle,KOR
-1700000015,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,5.0,2020-03-07,2020-03-10,,,isolated,kaggle,KOR
+1700000015,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,5.0,2020-03-07,2020-03-10,2020-04-21,,released,kaggle,KOR
 1700000016,,male,,50s,Korea,Sejong,Sejong,,contact with patient,,1700000011.0,25.0,,2020-04-08,,,isolated,kaggle,KOR
-1700000017,,female,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,1700000015.0,11.0,2020-03-07,2020-03-11,,,isolated,kaggle,KOR
+1700000017,,female,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,1700000015.0,11.0,2020-03-07,2020-03-11,2020-04-20,,released,kaggle,KOR
 1700000018,,female,,30s,Korea,Sejong,Sejong,,etc,,,11.0,2020-03-04,2020-03-11,2020-04-02,,released,kaggle,KOR
-1700000019,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,9.0,2020-03-08,2020-03-11,2020-04-09,,released,kaggle,KOR
+1700000019,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,9.0,2020-03-08,2020-04-21,,,released,kaggle,KOR
 1700000020,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,2.0,2020-03-06,2020-03-11,2020-04-09,,released,kaggle,KOR
 1700000021,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,13.0,,2020-03-11,,,isolated,kaggle,KOR
-1700000022,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,8.0,2020-03-09,2020-03-11,,,isolated,kaggle,KOR
+1700000022,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,8.0,2020-03-09,2020-03-11,2020-04-22,,released,kaggle,KOR
 1700000023,,female,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,14.0,,2020-03-11,,,released,kaggle,KOR
-1700000024,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,21.0,2020-03-11,2020-03-11,,,isolated,kaggle,KOR
+1700000024,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,21.0,2020-03-11,2020-03-11,2020-04-18,,released,kaggle,KOR
 1700000025,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,2.0,,2020-03-12,2020-04-09,,released,kaggle,KOR
-1700000026,,male,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,8.0,2020-03-07,2020-03-12,,,isolated,kaggle,KOR
-1700000027,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,10.0,2020-03-09,2020-03-12,2020-04-05,,released,kaggle,KOR
-1700000028,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,6.0,2020-03-03,2020-04-13,,,isolated,kaggle,KOR
-1700000029,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,7.0,,2020-03-12,,,isolated,kaggle,KOR
+1700000026,,male,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,8.0,2020-03-07,2020-03-12,2020-04-21,,released,kaggle,KOR
+1700000027,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,10.0,2020-03-09,2020-04-20,2020-04-29,,released,kaggle,KOR
+1700000028,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,6.0,2020-03-03,2020-04-13,2020-04-21,,released,kaggle,KOR
+1700000029,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,7.0,,2020-03-12,2020-04-22,,released,kaggle,KOR
 1700000030,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,11.0,,2020-03-12,2020-04-03,,released,kaggle,KOR
 1700000031,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,5.0,2020-03-05,2020-03-12,2020-04-11,,released,kaggle,KOR
 1700000032,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,26.0,,2020-03-12,2020-04-09,,released,kaggle,KOR
 1700000033,,male,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,22.0,2020-03-07,2020-03-12,2020-04-09,,released,kaggle,KOR
 1700000034,,female,,50s,Korea,Sejong,Sejong,,contact with patient,,1700000021.0,,2020-03-12,2020-03-12,2020-04-16,,released,kaggle,KOR
-1700000035,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,,2020-03-09,2020-03-12,,,isolated,kaggle,KOR
-1700000036,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,23.0,2020-03-06,2020-03-12,,,isolated,kaggle,KOR
+1700000035,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,,2020-03-09,2020-03-12,2020-04-18,,released,kaggle,KOR
+1700000036,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,23.0,2020-03-06,2020-03-12,2020-04-18,,released,kaggle,KOR
 1700000037,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,3.0,2020-03-11,2020-03-12,,,isolated,kaggle,KOR
-1700000038,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,9.0,2020-03-08,2020-03-13,,,isolated,kaggle,KOR
+1700000038,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,9.0,2020-03-08,2020-03-13,2020-04-29,,released,kaggle,KOR
 1700000039,,male,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,2.0,,2020-03-14,2020-04-09,,released,kaggle,KOR
 1700000040,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,1.0,,2020-03-15,2020-04-16,,released,kaggle,KOR
 1700000041,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,1700000013.0,3.0,2020-03-17,2020-03-17,2020-04-17,,released,kaggle,KOR
 1700000042,,female,,60s,Korea,Sejong,Sejong,,etc,,,18.0,2020-03-18,2020-03-22,2020-04-09,,released,kaggle,KOR
-1700000043,,male,,40s,Korea,Sejong,Sejong,,overseas inflow,,,3.0,2020-03-21,2020-03-24,,,isolated,kaggle,KOR
+1700000043,,male,,40s,Korea,Sejong,Sejong,,overseas inflow,,,3.0,2020-03-21,2020-03-24,2020-04-29,,released,kaggle,KOR
 1700000044,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,1.0,,2020-03-24,2020-04-09,,released,kaggle,KOR
 1700000045,,male,,40s,Korea,Sejong,Sejong,,overseas inflow,,,1.0,,2020-03-28,,,isolated,kaggle,KOR
 1700000046,,male,,10s,Korea,Sejong,Sejong,,overseas inflow,,,1.0,,2020-03-28,,,isolated,kaggle,KOR
@@ -1118,8 +1134,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000052,1402.0,male,1985.0,30s,Korea,Gyeonggi-do,Yongin-si,,etc,,,,,2020-02-27,2020-03-16,,released,kaggle,KOR
 2000000053,1292.0,female,1994.0,20s,Korea,Gyeonggi-do,Pyeongtaek-si,,etc,,,,,2020-02-27,,,isolated,kaggle,KOR
 2000000054,1255.0,female,1985.0,30s,Korea,Gyeonggi-do,Gwangmyeong-si,,etc,,,,,2020-02-26,2020-03-04,,released,kaggle,KOR
-2000000055,1279.0,male,1993.0,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,2020-03-14,,isolated,kaggle,KOR
-2000000056,1264.0,male,1992.0,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,2020-03-12,,isolated,kaggle,KOR
+2000000055,1279.0,male,1993.0,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,2020-03-14,,released,kaggle,KOR
+2000000056,1264.0,male,1992.0,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,2020-03-12,,released,kaggle,KOR
 2000000057,4944.0,male,1989.0,30s,Korea,Gyeonggi-do,Hwaseong-si,,etc,,,,,2020-03-03,,,isolated,kaggle,KOR
 2000000058,1753.0,female,1990.0,30s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000052.0,,,2020-02-27,2020-03-25,,released,kaggle,KOR
 2000000059,1798.0,female,1982.0,30s,Korea,Gyeonggi-do,Suwon-si,,contact with patient,,,,,2020-02-28,,,isolated,kaggle,KOR
@@ -1152,7 +1168,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000086,3083.0,male,1974.0,40s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,,,,2020-02-29,,,isolated,kaggle,KOR
 2000000087,3300.0,female,2007.0,10s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,,,,2020-03-01,,,isolated,kaggle,KOR
 2000000088,3583.0,male,1973.0,40s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,,3.0,,2020-03-01,2020-03-21,,released,kaggle,KOR
-2000000089,3663.0,male,1981.0,30s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-03-01,2020-03-24,,isolated,kaggle,KOR
+2000000089,3663.0,male,1981.0,30s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-03-01,2020-03-24,,released,kaggle,KOR
 2000000090,3558.0,female,1976.0,40s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000062.0,,,2020-03-01,,,isolated,kaggle,KOR
 2000000091,3780.0,male,1974.0,40s,Korea,Gyeonggi-do,Goyang-si,,contact with patient,,,,,2020-03-01,,,isolated,kaggle,KOR
 2000000092,4384.0,male,1997.0,20s,Korea,Gyeonggi-do,Suwon-si,,contact with patient,,2000000080.0,,,2020-03-02,2020-03-02,,released,kaggle,KOR
@@ -1543,8 +1559,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000477,9758.0,male,1963.0,50s,Korea,Gyeonggi-do,Pyeongtaek-si,,etc,,,,2020-03-28,2020-03-30,,,isolated,kaggle,KOR
 2000000478,9860.0,male,1965.0,50s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000445.0,,,2020-03-30,,,isolated,kaggle,KOR
 2000000479,9801.0,male,2015.0,0s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,,,2020-03-31,,,isolated,kaggle,KOR
-2000000480,9817.0,female,1973.0,40s,Korea,Gyeonggi-do,Gwangmyeong-si,,contact with patient,,,,,2020-03-31,,,isolated,kaggle,KOR
-2000000481,9842.0,male,2006.0,10s,Korea,Gyeonggi-do,Gwangmyeong-si,,contact with patient,,,,,2020-03-31,,,isolated,kaggle,KOR
+2000000480,9817.0,female,1973.0,40s,Korea,Gyeonggi-do,Gwangmyeong-si,,contact with patient,,1000000434.0,,,2020-03-31,,,isolated,kaggle,KOR
+2000000481,9842.0,male,2006.0,10s,Korea,Gyeonggi-do,Gwangmyeong-si,,contact with patient,,1000000434.0,,,2020-03-31,,,isolated,kaggle,KOR
 2000000482,9835.0,female,1996.0,20s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,,2020-03-30,2020-03-31,,,isolated,kaggle,KOR
 2000000483,9874.0,male,1954.0,60s,Korea,Gyeonggi-do,Hanam-si,,contact with patient,,2000000277.0,,,2020-03-31,,,isolated,kaggle,KOR
 2000000484,9878.0,male,2001.0,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205.0,,2020-03-15,2020-03-31,,,isolated,kaggle,KOR
@@ -1566,7 +1582,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000500,9885.0,female,1996.0,20s,Korea,Gyeonggi-do,Hwaseong-si,,overseas inflow,,,,,2020-03-31,,,isolated,kaggle,KOR
 2000000501,9953.0,female,1957.0,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,,,,2020-03-31,,,isolated,kaggle,KOR
 2000000502,9947.0,female,1994.0,20s,Korea,Gyeonggi-do,Ansan-si,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
-2000000503,9972.0,female,1972.0,40s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,,2.0,,2020-04-01,,,isolated,kaggle,KOR
+2000000503,9972.0,female,1972.0,40s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,1000000447.0,2.0,,2020-04-01,,,isolated,kaggle,KOR
 2000000504,9935.0,female,1961.0,60s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,1.0,2020-03-31,2020-04-01,,,isolated,kaggle,KOR
 2000000505,9926.0,male,1960.0,60s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,2020-03-28,2020-04-01,,,isolated,kaggle,KOR
 2000000506,9973.0,female,1996.0,20s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,4.0,,2020-04-01,,,isolated,kaggle,KOR
@@ -1581,7 +1597,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000515,9917.0,male,1937.0,80s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000498.0,,,2020-04-01,,,isolated,kaggle,KOR
 2000000516,9954.0,female,1948.0,70s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476.0,,,2020-04-01,,,isolated,kaggle,KOR
 2000000517,9924.0,male,1962.0,50s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309.0,,,2020-04-01,,,isolated,kaggle,KOR
-2000000518,9941.0,female,1966.0,50s,Korea,Gyeonggi-do,Siheung-si,,contact with patient,,,,,2020-04-01,,,isolated,kaggle,KOR
+2000000518,9941.0,female,1966.0,50s,Korea,Gyeonggi-do,Siheung-si,,contact with patient,,1000000431.0,,,2020-04-01,,,isolated,kaggle,KOR
 2000000519,9964.0,female,1996.0,20s,Korea,Gyeonggi-do,Uijeongbu-si,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
 2000000520,10031.0,female,1994.0,20s,Korea,Gyeonggi-do,Uijeongbu-si,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
 2000000521,10011.0,female,1991.0,30s,Korea,Gyeonggi-do,Pyeongtaek-si,,etc,,,,,2020-04-02,,,isolated,kaggle,KOR
@@ -1641,7 +1657,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000575,10257.0,female,1995.0,20s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,,,,2020-04-04,,,isolated,kaggle,KOR
 2000000576,10253.0,female,1940.0,80s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476.0,,,2020-04-05,,,isolated,kaggle,KOR
 2000000577,10275.0,male,1996.0,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
-2000000578,10278.0,male,1961.0,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000476.0,,,2020-04-05,,,isolated,kaggle,KOR
+2000000578,10278.0,male,1961.0,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000476.0,4.0,,2020-04-05,,,isolated,kaggle,KOR
 2000000579,10269.0,female,1990.0,30s,Korea,Gyeonggi-do,Goyang-si,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
 2000000580,10256.0,female,1998.0,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-05,,,isolated,kaggle,KOR
 2000000581,10279.0,male,1973.0,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508.0,,,2020-04-05,,,isolated,kaggle,KOR
@@ -1652,8 +1668,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000586,10308.0,female,1965.0,50s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,1400000072.0,,,2020-04-06,,,isolated,kaggle,KOR
 2000000587,10307.0,female,1959.0,60s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000569.0,,,2020-04-06,,,isolated,kaggle,KOR
 2000000588,10305.0,male,1994.0,20s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,,,2020-04-06,,,isolated,kaggle,KOR
-2000000589,10320.0,female,1939.0,80s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000476.0,,,2020-04-06,,,isolated,kaggle,KOR
-2000000590,10303.0,female,1958.0,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,,,,2020-04-06,,,isolated,kaggle,KOR
+2000000589,10320.0,female,1939.0,80s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000476.0,1.0,,2020-04-06,,,isolated,kaggle,KOR
+2000000590,10303.0,female,1958.0,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,,1.0,,2020-04-06,,,isolated,kaggle,KOR
 2000000591,10432.0,female,1943.0,70s,Korea,Gyeonggi-do,Guri-si,,contact with patient,,2000000465.0,,2020-04-01,2020-04-06,,,isolated,kaggle,KOR
 2000000592,10365.0,female,1980.0,40s,Korea,Gyeonggi-do,Yongin-si,,etc,,,,2020-03-28,2020-04-07,,,isolated,kaggle,KOR
 2000000593,10409.0,male,1992.0,20s,Korea,Gyeonggi-do,Bucheon-si,,overseas inflow,,,,,2020-04-07,,,isolated,kaggle,KOR
@@ -1662,16 +1678,16 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000596,10373.0,male,1966.0,50s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508.0,,,2020-04-07,,,isolated,kaggle,KOR
 2000000597,10375.0,female,2000.0,20s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,,,2020-04-07,,,isolated,kaggle,KOR
 2000000598,10349.0,female,1995.0,20s,Korea,Gyeonggi-do,Anyang-si,,overseas inflow,,,,,2020-04-07,,,isolated,kaggle,KOR
-2000000599,10363.0,male,1962.0,50s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000393.0,,,2020-04-07,,,isolated,kaggle,KOR
+2000000599,10363.0,male,1962.0,50s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000393.0,71.0,,2020-04-07,,,isolated,kaggle,KOR
 2000000600,10398.0,male,1994.0,20s,Korea,Gyeonggi-do,Anyang-si,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
 2000000601,10397.0,male,1986.0,30s,Korea,Gyeonggi-do,Anyang-si,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
-2000000602,10395.0,female,1995.0,20s,Korea,Gyeonggi-do,Gunpo-si,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
+2000000602,10395.0,female,1995.0,20s,Korea,Gyeonggi-do,Gunpo-si,,overseas inflow,,,9.0,2020-03-29,2020-04-08,,,isolated,kaggle,KOR
 2000000603,10414.0,female,1960.0,60s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000492.0,,,2020-04-08,,,isolated,kaggle,KOR
-2000000604,10403.0,female,1960.0,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000516.0,,,2020-04-08,,,isolated,kaggle,KOR
+2000000604,10403.0,female,1960.0,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000516.0,1.0,,2020-04-08,,,isolated,kaggle,KOR
 2000000605,10404.0,male,1999.0,20s,Korea,Gyeonggi-do,Hwaseong-si,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
 2000000606,10460.0,male,1998.0,20s,Korea,Gyeonggi-do,Gimpo-si,,overseas inflow,,,,,2020-04-08,,,isolated,kaggle,KOR
 2000000607,10410.0,female,1998.0,20s,Korea,Gyeonggi-do,Bucheon-si,,etc,,,,2020-03-28,2020-04-08,,,isolated,kaggle,KOR
-2000000608,10420.0,male,1992.0,20s,Korea,Gyeonggi-do,Suwon-si,,contact with patient,,,,,2020-04-08,,,isolated,kaggle,KOR
+2000000608,10420.0,male,1992.0,20s,Korea,Gyeonggi-do,Suwon-si,,contact with patient,,1000000573.0,5.0,,2020-04-08,,,isolated,kaggle,KOR
 2000000609,10440.0,female,1995.0,20s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508.0,,,2020-04-09,,,isolated,kaggle,KOR
 2000000610,10445.0,male,1984.0,30s,Korea,Gyeonggi-do,Hanam-si,,etc,,,,2020-04-04,2020-04-09,,,isolated,kaggle,KOR
 2000000611,10446.0,male,1988.0,30s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,,,2020-04-09,,,isolated,kaggle,KOR
@@ -1680,17 +1696,17 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000614,10439.0,female,1961.0,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,1000000513.0,,,2020-04-09,,,isolated,kaggle,KOR
 2000000615,10434.0,male,2017.0,0s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,,,2020-04-09,,,isolated,kaggle,KOR
 2000000616,10431.0,female,1960.0,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476.0,,,2020-04-09,,,isolated,kaggle,KOR
-2000000617,10475.0,male,1990.0,30s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-10,,,isolated,kaggle,KOR
-2000000618,10458.0,female,1964.0,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,,17.0,2020-04-09,2020-04-10,,,isolated,kaggle,KOR
-2000000619,10480.0,male,1960.0,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,,10.0,2020-04-09,2020-04-10,,,isolated,kaggle,KOR
+2000000617,10475.0,male,1990.0,30s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,2020-04-07,2020-04-10,,,isolated,kaggle,KOR
+2000000618,10458.0,female,1964.0,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000614.0,17.0,2020-04-09,2020-04-10,,,isolated,kaggle,KOR
+2000000619,10480.0,male,1960.0,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000614.0,10.0,2020-04-09,2020-04-10,,,isolated,kaggle,KOR
 2000000620,10459.0,male,1964.0,50s,Korea,Gyeonggi-do,Yangju-si,,contact with patient,,2000000476.0,,,2020-04-10,,,isolated,kaggle,KOR
 2000000621,10467.0,female,1992.0,20s,Korea,Gyeonggi-do,Hwaseong-si,,overseas inflow,,,,,2020-04-10,,,isolated,kaggle,KOR
 2000000622,10469.0,female,1967.0,50s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000421.0,,,2020-04-10,,,isolated,kaggle,KOR
 2000000623,10466.0,female,1950.0,70s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476.0,,,2020-04-10,,,isolated,kaggle,KOR
 2000000624,10464.0,female,1969.0,50s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000516.0,,,2020-04-10,,,isolated,kaggle,KOR
-2000000625,10502.0,female,1967.0,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,,,,2020-04-11,,,isolated,kaggle,KOR
+2000000625,10502.0,female,1967.0,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000617.0,,2020-04-10,2020-04-11,,,isolated,kaggle,KOR
 2000000626,10507.0,female,1991.0,30s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-11,,,isolated,kaggle,KOR
-2000000627,10508.0,male,1961.0,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,,,,2020-04-11,,,isolated,kaggle,KOR
+2000000627,10508.0,male,1961.0,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000617.0,,,2020-04-11,,,isolated,kaggle,KOR
 2000000628,10510.0,female,1994.0,20s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,1000000504.0,,,2020-04-11,,,isolated,kaggle,KOR
 2000000629,10533.0,male,1955.0,60s,Korea,Gyeonggi-do,Guri-si,,etc,,,,2020-04-09,2020-04-11,,,isolated,kaggle,KOR
 2000000630,10530.0,female,1996.0,20s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-12,,,isolated,kaggle,KOR
@@ -1700,9 +1716,9 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000634,10562.0,female,1999.0,20s,Korea,Gyeonggi-do,Gimpo-si,,overseas inflow,,,,,2020-04-12,,,isolated,kaggle,KOR
 2000000635,10557.0,female,1958.0,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000629.0,,,2020-04-13,,,isolated,kaggle,KOR
 2000000636,10552.0,male,1956.0,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000614.0,,,2020-04-13,,,isolated,kaggle,KOR
-2000000637,10571.0,male,1946.0,70s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000476.0,,,2020-04-13,,,isolated,kaggle,KOR
+2000000637,10571.0,male,1946.0,70s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000476.0,1.0,,2020-04-13,,,isolated,kaggle,KOR
 2000000638,10527.0,female,1953.0,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476.0,,,2020-04-13,,,isolated,kaggle,KOR
-2000000639,10548.0,male,1971.0,50s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,,,2020-04-13,,,isolated,kaggle,KOR
+2000000639,10548.0,male,1971.0,50s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,8.0,,2020-04-13,,,isolated,kaggle,KOR
 2000000640,10547.0,female,1983.0,30s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476.0,,,2020-04-13,,,isolated,kaggle,KOR
 2000000641,10570.0,male,1974.0,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000529.0,,,2020-04-13,,,isolated,kaggle,KOR
 2000000642,10577.0,female,1988.0,30s,Korea,Gyeonggi-do,Gwangmyeong-si,,overseas inflow,,,,,2020-04-14,,,isolated,kaggle,KOR
@@ -1713,13 +1729,34 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000647,10600.0,female,1959.0,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000635.0,,,2020-04-15,,,isolated,kaggle,KOR
 2000000648,10604.0,female,1986.0,30s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-15,,,isolated,kaggle,KOR
 2000000649,10603.0,female,2005.0,10s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-15,,,isolated,kaggle,KOR
-2000000650,10627.0,female,1961.0,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,,,,2020-04-16,,,isolated,kaggle,KOR
+2000000650,10627.0,female,1961.0,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,,,2020-04-15,2020-04-16,,,isolated,kaggle,KOR
 2000000651,10649.0,male,1963.0,50s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000650.0,,,2020-04-17,,,isolated,kaggle,KOR
 2000000652,10648.0,female,1934.0,80s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000629.0,,,2020-04-17,,,isolated,kaggle,KOR
-2000000653,10652.0,male,1965.0,50s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000520.0,,,2020-04-17,,,isolated,kaggle,KOR
+2000000653,10652.0,male,1965.0,50s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000520.0,,2020-04-13,2020-04-17,,,isolated,kaggle,KOR
 2000000654,10650.0,female,2017.0,0s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,1000000550.0,,,2020-04-17,,,isolated,kaggle,KOR
-2000000655,,female,1998.0,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-19,,,isolated,kaggle,KOR
-2000000656,,male,1964.0,50s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000586.0,,,2020-04-19,,,isolated,kaggle,KOR
+2000000655,10673.0,female,1998.0,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-19,,,isolated,kaggle,KOR
+2000000656,10672.0,male,1964.0,50s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000586.0,,,2020-04-19,,,isolated,kaggle,KOR
+2000000657,10679.0,male,1962.0,50s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,,,2020-04-20,,,isolated,kaggle,KOR
+2000000658,10678.0,female,1963.0,50s,Korea,Gyeonggi-do,Yangju-si,,contact with patient,,2000000583.0,,,2020-04-20,,,isolated,kaggle,KOR
+2000000659,10698.0,male,1944.0,70s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000629.0,,,2020-04-22,,,isolated,kaggle,KOR
+2000000660,10706.0,male,1969.0,50s,Korea,Gyeonggi-do,Hanam-si,,etc,,,,2020-04-15,2020-04-23,,,isolated,kaggle,KOR
+2000000661,10714.0,female,1995.0,20s,Korea,Gyeonggi-do,Hanam-si,,contact with patient,,2000000660.0,,,2020-04-24,,,isolated,kaggle,KOR
+2000000662,10715.0,female,1970.0,50s,Korea,Gyeonggi-do,Hanam-si,,contact with patient,,2000000660.0,,,2020-04-24,,,isolated,kaggle,KOR
+2000000663,10723.0,female,1997.0,20s,Korea,Gyeonggi-do,Paju-si,,overseas inflow,,,,,2020-04-25,,,isolated,kaggle,KOR
+2000000664,10726.0,male,1995.0,20s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-25,,,isolated,kaggle,KOR
+2000000665,10722.0,male,1970.0,50s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-25,,,isolated,kaggle,KOR
+2000000666,10728.0,male,1990.0,30s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,,,2020-04-25,,,isolated,kaggle,KOR
+2000000667,10725.0,male,1987.0,30s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,3.0,2020-04-24,2020-04-25,,,isolated,kaggle,KOR
+2000000668,10721.0,male,1999.0,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-25,,,isolated,kaggle,KOR
+2000000669,10736.0,female,1993.0,20s,Korea,Gyeonggi-do,Goyang-si,,contact with patient,,,,,2020-04-25,,,isolated,kaggle,KOR
+2000000670,10734.0,female,1982.0,30s,Korea,Gyeonggi-do,Goyang-si,,contact with patient,,,,,2020-04-26,,,isolated,kaggle,KOR
+2000000671,10738.0,male,1993.0,20s,Korea,Gyeonggi-do,Pyeongtaek-si,,overseas inflow,,,,,2020-04-26,,,isolated,kaggle,KOR
+2000000672,10744.0,female,1999.0,20s,Korea,Gyeonggi-do,Anyang-si,,overseas inflow,,,,,2020-04-26,,,isolated,kaggle,KOR
+2000000673,10752.0,male,1964.0,50s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-27,,,isolated,kaggle,KOR
+2000000674,10742.0,female,1997.0,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-27,,,isolated,kaggle,KOR
+2000000675,10758.0,male,1973.0,40s,Korea,Gyeonggi-do,Goyang-si,,etc,,,,,2020-04-28,,,isolated,kaggle,KOR
+2000000676,10757.0,female,1998.0,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-28,,,isolated,kaggle,KOR
+2000000677,,female,1999.0,20s,Korea,Gyeonggi-do,Gwangmyeong-si,,overseas inflow,,,,,2020-04-29,,,isolated,kaggle,KOR
 3001000001,,male,,40s,Korea,Gangwon-do,Gangneung-si,,etc,,,,,2020-02-22,,,isolated,kaggle,KOR
 3001000002,,male,,20s,China,Gangwon-do,Gangneung-si,,overseas inflow,,,,,2020-03-01,2020-03-09,,released,kaggle,KOR
 3001000003,,male,,40s,Korea,Gangwon-do,Gangneung-si,,etc,,,,,2020-03-01,2020-03-14,,released,kaggle,KOR
@@ -1727,36 +1764,50 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 3001000005,,male,,20s,Korea,Gangwon-do,Gangneung-si,,Shincheonji Church,,,,,2020-03-01,2020-03-09,,released,kaggle,KOR
 3001000006,,female,,20s,Korea,Gangwon-do,Gangneung-si,,gym facility in Cheonan,,,,,2020-03-08,,,isolated,kaggle,KOR
 3001000007,,female,,40s,Korea,Gangwon-do,Gangneung-si,,etc,,,,,2020-03-17,2020-03-25,,released,kaggle,KOR
+3001000008,,female,,30s,Korea,Gangwon-do,Gangneung-si,,overseas inflow,,,,,2020-04-04,,,isolated,kaggle,KOR
 3004000001,366.0,male,1999.0,20s,Korea,Gangwon-do,Samcheok-si,,etc,,,,,2020-02-22,2020-03-04,,released,kaggle,KOR
 3005000001,,female,,,Korea,Gangwon-do,Sokcho-si,,etc,,,,,2020-02-22,2020-03-04,,released,kaggle,KOR
 3005000002,,male,,,Korea,Gangwon-do,Sokcho-si,,etc,,,,,2020-02-22,2020-03-04,,released,kaggle,KOR
-3005000003,,male,,40s,Korea,Gangwon-do,Sokcho-si,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
+3005000003,,male,,40s,Korea,Gangwon-do,Sokcho-si,,overseas inflow,,,,,2020-03-29,,,released,kaggle,KOR
 3009000001,,male,1973.0,40s,Korea,Gangwon-do,Wonju-si,,Shincheonji Church,,,41.0,,2020-02-27,2020-03-16,,released,kaggle,KOR
 3009000002,,male,1963.0,50s,Korea,Gangwon-do,Wonju-si,,Shincheonji Church,,,5.0,,2020-02-29,2020-03-25,,released,kaggle,KOR
 3009000003,,male,1964.0,50s,Korea,Gangwon-do,Wonju-si,,Shincheonji Church,,,45.0,,2020-03-01,,,released,kaggle,KOR
 3009000004,,male,1953.0,60s,Korea,Gangwon-do,Wonju-si,,Shincheonji Church,,,17.0,,2020-03-01,,,released,kaggle,KOR
-3009000005,,female,1970.0,50s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,3.0,,2020-03-01,,,released,kaggle,KOR
+3009000005,,female,1970.0,50s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,3.0,,2020-03-01,2020-03-20,,released,kaggle,KOR
 3009000006,,female,1966.0,50s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,5.0,,2020-03-01,2020-03-19,,released,kaggle,KOR
 3009000007,,female,1994.0,20s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,17.0,,2020-03-01,2020-03-16,,released,kaggle,KOR
-3009000008,,female,1963.0,50s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,5.0,,2020-03-01,,,released,kaggle,KOR
+3009000008,,female,1963.0,50s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,5.0,,2020-03-01,2020-03-20,,released,kaggle,KOR
 3009000009,,male,1953.0,60s,Korea,Gangwon-do,Wonju-si,,Shincheonji Church,,,5.0,,2020-03-02,,,released,kaggle,KOR
 3009000010,,male,1976.0,40s,Korea,Gangwon-do,Wonju-si,,Shincheonji Church,,,24.0,,2020-03-02,2020-03-25,,released,kaggle,KOR
 3009000011,,male,1949.0,70s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,4.0,,2020-03-03,,,isolated,kaggle,KOR
 3009000012,,female,1955.0,60s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,25.0,,2020-03-04,,,isolated,kaggle,KOR
-3009000013,,male,1954.0,60s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,8.0,,2020-03-04,,,isolated,kaggle,KOR
+3009000013,,male,1954.0,60s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,8.0,,2020-03-04,,,released,kaggle,KOR
 3009000014,,male,1969.0,50s,Korea,Gangwon-do,Wonju-si,,Shincheonji Church,,,17.0,,2020-03-04,2020-03-28,,released,kaggle,KOR
 3009000015,,male,1974.0,40s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,5.0,,2020-03-05,,,released,kaggle,KOR
 3009000016,,female,1953.0,60s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,3.0,,2020-03-07,2020-03-30,,released,kaggle,KOR
-3009000017,,female,1978.0,40s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,1.0,,2020-03-10,,,isolated,kaggle,KOR
+3009000017,,female,1978.0,40s,Korea,Gangwon-do,Wonju-si,,contact with patient,,,1.0,,2020-03-10,2020-04-01,,released,kaggle,KOR
 3009000018,,female,1995.0,20s,Korea,Gangwon-do,Wonju-si,,overseas inflow,,,1.0,,2020-03-23,,,isolated,kaggle,KOR
 3009000019,,male,1959.0,60s,Korea,Gangwon-do,Wonju-si,,overseas inflow,,,0.0,,2020-03-28,,,isolated,kaggle,KOR
 3013000001,,female,,30s,Korea,Gangwon-do,Chuncheon-si,,Shincheonji Church,,,,,2020-02-22,2020-03-18,,released,kaggle,KOR
 3013000002,,female,,30s,Korea,Gangwon-do,Chuncheon-si,,Shincheonji Church,,,,,2020-02-22,2020-03-30,,released,kaggle,KOR
 3013000003,,male,,40s,Korea,Gangwon-do,Chuncheon-si,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
 3013000004,,female,,50s,Korea,Gangwon-do,Chuncheon-si,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
-3013000005,,male,,60s,Korea,Gangwon-do,Chuncheon-si,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
+3013000005,,male,,60s,Korea,Gangwon-do,Chuncheon-si,,overseas inflow,,,,,2020-03-29,2020-04-25,,released,kaggle,KOR
+3013000006,,female,,20s,Korea,Gangwon-do,Chuncheon-si,,overseas inflow,,,,,2020-04-05,2020-04-19,,released,kaggle,KOR
+3013000007,,female,,30s,Korea,Gangwon-do,Chuncheon-si,,overseas inflow,,,,,2020-04-06,2020-04-17,,released,kaggle,KOR
 3014000001,,female,,80s,Korea,Gangwon-do,Taebaek-si,True,contact with patient,,,,,2020-03-04,,2020-03-04,deceased,kaggle,KOR
-3010000001,,female,,30s,Korea,Gangwon-do,Inje-gun,,overseas inflow,,,,,2020-03-24,,,isolated,kaggle,KOR
+3010000001,,female,,30s,Korea,Gangwon-do,Inje-gun,,overseas inflow,,,,,2020-03-24,,,released,kaggle,KOR
+3018000001,,male,1988.0,30s,Korea,Gangwon-do,Hoengseong-gun,,overseas inflow,,,2.0,,2020-03-31,2020-04-19,,released,kaggle,KOR
+3008000001,,male,,30s,Korea,Gangwon-do,Yeongwol-gun,,overseas inflow,,,0.0,,2020-04-17,,,isolated,kaggle,KOR
+3012000001,,male,,70s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,4.0,,2020-03-31,,,isolated,kaggle,KOR
+3012000002,,female,,10s,Korea,Gangwon-do,Cheorwon-gun,,etc,,,17.0,,2020-04-02,,,isolated,kaggle,KOR
+3012000003,,female,,60s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,5.0,,2020-04-02,,,isolated,kaggle,KOR
+3012000004,,female,,70s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,10.0,,2020-04-03,,2020-04-18,deceased,kaggle,KOR
+3012000005,,male,,70s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,4.0,,2020-04-04,,,isolated,kaggle,KOR
+3012000006,,male,,60s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,0.0,,2020-04-06,,,isolated,kaggle,KOR
+3012000007,,male,,80s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,1.0,,2020-04-07,,,isolated,kaggle,KOR
+3012000008,,male,,50s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,3.0,,2020-04-14,,,isolated,kaggle,KOR
+3012000009,,female,,70s,Korea,Gangwon-do,Cheorwon-gun,,contact with patient,,,0.0,,2020-04-14,,,isolated,kaggle,KOR
 4000000001,,male,1990.0,30s,Korea,Chungcheongbuk-do,Jeungpyeong-gun,,contact with patient,,,,,2020-02-20,2020-03-14,,released,kaggle,KOR
 4000000002,,male,1985.0,30s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-02-22,2020-03-07,,released,kaggle,KOR
 4000000003,,female,1986.0,30s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-02-22,2020-03-20,,released,kaggle,KOR
@@ -1765,42 +1816,43 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4000000006,,female,1997.0,20s,Korea,Chungcheongbuk-do,Cheongju-si,,etc,,,,,2020-02-25,2020-03-04,,released,kaggle,KOR
 4000000007,,female,1983.0,30s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-02-26,2020-03-27,,released,kaggle,KOR
 4000000008,,male,1998.0,20s,Korea,Chungcheongbuk-do,Cheongju-si,,etc,,,,,2020-02-27,2020-03-11,,released,kaggle,KOR
-4000000009,,male,1974.0,40s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-02-27,,,isolated,kaggle,KOR
+4000000009,,male,1974.0,40s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-02-27,2020-04-16,,released,kaggle,KOR
 4000000010,,male,1998.0,20s,Korea,Chungcheongbuk-do,Cheongju-si,,etc,,,,,2020-02-27,2020-03-23,,released,kaggle,KOR
-4000000011,,male,1996.0,20s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-02-29,,,isolated,kaggle,KOR
+4000000011,,male,1996.0,20s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-02-29,2020-04-22,,released,kaggle,KOR
 4000000012,,female,1939.0,80s,Korea,Chungcheongbuk-do,Goesan-gun,,etc,,,,,2020-03-04,2020-03-27,,released,kaggle,KOR
 4000000013,,male,1963.0,50s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-03-05,2020-03-24,,released,kaggle,KOR
 4000000014,,female,1962.0,50s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-03-05,2020-03-24,,released,kaggle,KOR
-4000000015,,male,2017.0,0s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-03-05,2020-03-20,,released,kaggle,KOR
-4000000016,,female,1944.0,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,,,isolated,kaggle,KOR
-4000000017,,female,1944.0,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,,,isolated,kaggle,KOR
-4000000018,,female,1954.0,60s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,,,isolated,kaggle,KOR
+4000000015,,male,2017.0,0s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,,,,2020-03-05,,,isolated,kaggle,KOR
+4000000016,,female,1944.0,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,2020-04-16,,released,kaggle,KOR
+4000000017,,female,1944.0,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,2020-04-01,,released,kaggle,KOR
+4000000018,,female,1954.0,60s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,2020-03-31,,released,kaggle,KOR
 4000000019,,female,1943.0,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,,,isolated,kaggle,KOR
-4000000020,,female,1937.0,80s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,,,isolated,kaggle,KOR
+4000000020,,female,1937.0,80s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012.0,,,2020-03-06,2020-04-03,,released,kaggle,KOR
 4000000021,,female,1930.0,90s,Korea,Chungcheongbuk-do,Goesan-gun,,etc,,,,,2020-03-07,2020-03-27,,released,kaggle,KOR
 4000000022,,male,1975.0,40s,Korea,Chungcheongbuk-do,Danyang-gun,,contact with patient,,4000000009.0,,,2020-03-07,2020-03-30,,released,kaggle,KOR
 4000000023,,male,1946.0,70s,Korea,Chungcheongbuk-do,Goesan-gun,,etc,,,,,2020-03-07,2020-03-26,,released,kaggle,KOR
 4000000024,,male,1957.0,60s,Korea,Chungcheongbuk-do,Goesan-gun,,etc,,,,,2020-03-07,2020-03-26,,released,kaggle,KOR
 4000000025,,female,1964.0,50s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,,,,2020-03-08,2020-03-21,,released,kaggle,KOR
-4000000026,,female,1966.0,50s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-09,,,isolated,kaggle,KOR
+4000000026,,female,1966.0,50s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-09,2020-04-05,,released,kaggle,KOR
 4000000027,,female,1950.0,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,,,,2020-03-10,2020-03-25,,released,kaggle,KOR
-4000000028,,female,1975.0,40s,Korea,Chungcheongbuk-do,Eumseong-gun,,etc,,,,,2020-03-13,,,isolated,kaggle,KOR
-4000000029,,male,1973.0,40s,Korea,Chungcheongbuk-do,Eumseong-gun,,contact with patient,,,,,2020-03-14,,,isolated,kaggle,KOR
-4000000030,,female,2001.0,10s,Korea,Chungcheongbuk-do,Eumseong-gun,,contact with patient,,,,,2020-03-14,,,isolated,kaggle,KOR
+4000000028,,female,1975.0,40s,Korea,Chungcheongbuk-do,Eumseong-gun,,etc,,,,,2020-03-13,2020-04-08,,released,kaggle,KOR
+4000000029,,male,1973.0,40s,Korea,Chungcheongbuk-do,Eumseong-gun,,contact with patient,,,,,2020-03-14,2020-04-02,,released,kaggle,KOR
+4000000030,,female,2001.0,10s,Korea,Chungcheongbuk-do,Eumseong-gun,,contact with patient,,,,,2020-03-14,2020-04-16,,released,kaggle,KOR
 4000000031,,female,2004.0,10s,Korea,Chungcheongbuk-do,Eumseong-gun,,contact with patient,,,,,2020-03-14,2020-03-23,,released,kaggle,KOR
-4000000032,,male,1993.0,20s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-17,,,isolated,kaggle,KOR
+4000000032,,male,1993.0,20s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-17,2020-04-15,,released,kaggle,KOR
 4000000033,,male,1991.0,20s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-03-18,2020-03-27,,released,kaggle,KOR
-4000000034,,female,1955.0,60s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
-4000000035,,male,1962.0,50s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-03-21,,,isolated,kaggle,KOR
-4000000036,,female,1988.0,30s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-22,,,isolated,kaggle,KOR
+4000000034,,female,1955.0,60s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-03-20,2020-04-03,,released,kaggle,KOR
+4000000035,,male,1962.0,50s,Korea,Chungcheongbuk-do,Chungju-si,,etc,,,,,2020-03-21,2020-04-11,,released,kaggle,KOR
+4000000036,,female,1988.0,30s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-22,2020-04-15,,released,kaggle,KOR
 4000000037,,female,1970.0,40s,Korea,Chungcheongbuk-do,Jincheon-gun,,etc,,,,,2020-03-22,2020-03-26,,released,kaggle,KOR
-4000000038,,female,1964.0,50s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-22,,,isolated,kaggle,KOR
-4000000039,,female,1961.0,50s,Korea,Chungcheongbuk-do,Jeungpyeong-gun,,overseas inflow,,,,,2020-03-25,,,isolated,kaggle,KOR
-4000000040,,male,2000.0,10s,Korea,Chungcheongbuk-do,Cheongju-si,,overseas inflow,,,,,2020-03-26,,,isolated,kaggle,KOR
+4000000038,,female,1964.0,50s,Korea,Chungcheongbuk-do,Chungju-si,,contact with patient,,,,,2020-03-22,2020-04-15,,released,kaggle,KOR
+4000000039,,female,1961.0,50s,Korea,Chungcheongbuk-do,Jeungpyeong-gun,,overseas inflow,,,,,2020-03-25,2020-04-12,,released,kaggle,KOR
+4000000040,,male,2000.0,10s,Korea,Chungcheongbuk-do,Cheongju-si,,overseas inflow,,,,,2020-03-26,2020-04-12,,released,kaggle,KOR
 4000000041,,male,1960.0,50s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,4000000040.0,,,2020-03-26,,,isolated,kaggle,KOR
 4000000042,,female,1962.0,50s,Korea,Chungcheongbuk-do,Cheongju-si,,contact with patient,,4000000040.0,,,2020-03-29,,,isolated,kaggle,KOR
 4000000043,,male,1959.0,60s,Korea,Chungcheongbuk-do,Chungju-si,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
-4000000044,,male,1992.0,20s,Korea,Chungcheongbuk-do,Eumseong-gun,,overseas inflow,,,,,2020-03-29,,,isolated,kaggle,KOR
+4000000044,,male,1992.0,20s,Korea,Chungcheongbuk-do,Eumseong-gun,,overseas inflow,,,,,2020-03-29,2020-04-19,,released,kaggle,KOR
+4000000045,,,2015.0,0s,Korea,Chungcheongbuk-do,Chungju-si,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
 4100000001,,male,1995.0,20s,Korea,Chungcheongnam-do,Gyeryong-si,,etc,,,22.0,2020-02-18,2020-02-21,2020-03-26,,released,kaggle,KOR
 4100000002,,female,1973.0,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008.0,35.0,2020-02-24,2020-02-25,2020-03-15,,released,kaggle,KOR
 4100000003,,female,1970.0,50s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008.0,4.0,2020-02-24,2020-02-25,2020-03-20,,released,kaggle,KOR
@@ -1892,7 +1944,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000089,,female,1995.0,20s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,0.0,,2020-03-05,2020-03-23,,released,kaggle,KOR
 4100000090,,male,1968.0,50s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000083.0,174.0,,2020-03-05,2020-03-24,,released,kaggle,KOR
 4100000091,,male,1969.0,50s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000023.0,0.0,,2020-03-06,,,isolated,kaggle,KOR
-4100000092,,male,1951.0,60s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000051.0,0.0,,2020-03-06,2020-04-08,,released,kaggle,KOR
+4100000092,,male,1951.0,60s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000051.0,0.0,,2020-04-21,,,isolated,kaggle,KOR
 4100000093,,female,1989.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000050.0,0.0,,2020-03-06,2020-03-24,,released,kaggle,KOR
 4100000094,,male,1982.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,78.0,,2020-03-06,2020-03-27,,released,kaggle,KOR
 4100000095,,female,1988.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000094.0,33.0,,2020-03-07,2020-04-01,,released,kaggle,KOR
@@ -1903,7 +1955,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000100,,male,1966.0,50s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000099.0,5.0,,2020-03-08,2020-03-30,,released,kaggle,KOR
 4100000101,,female,1998.0,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000099.0,5.0,,2020-03-08,2020-04-16,,released,kaggle,KOR
 4100000102,,female,1996.0,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000003.0,0.0,,2020-03-08,2020-03-23,,released,kaggle,KOR
-4100000103,,female,2000.0,20s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,7.0,,2020-03-09,,,isolated,kaggle,KOR
+4100000103,,female,2000.0,20s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,7.0,,2020-03-09,2020-04-29,,released,kaggle,KOR
 4100000104,,male,1966.0,50s,Korea,Chungcheongnam-do,Seosan-si,,etc,,,37.0,,2020-03-09,2020-04-02,,released,kaggle,KOR
 4100000105,,female,1967.0,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104.0,2.0,,2020-03-10,2020-04-02,,released,kaggle,KOR
 4100000106,,female,1945.0,70s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,4.0,2020-03-09,2020-03-10,2020-03-24,,released,kaggle,KOR
@@ -1924,24 +1976,26 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000121,,male,1972.0,40s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122.0,2.0,,2020-03-24,2020-04-07,,released,kaggle,KOR
 4100000122,,female,1975.0,40s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000121.0,39.0,,2020-03-24,2020-04-14,,released,kaggle,KOR
 4100000123,,male,1971.0,40s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,0.0,2020-03-13,2020-03-24,2020-04-13,,released,kaggle,KOR
-4100000124,,male,1990.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,1.0,2020-03-21,2020-03-25,,,isolated,kaggle,KOR
+4100000124,,male,1990.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,1.0,2020-03-21,2020-03-25,2020-04-20,,released,kaggle,KOR
 4100000125,,male,1981.0,30s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122.0,3.0,2020-03-27,2020-03-27,2020-04-18,,released,kaggle,KOR
 4100000126,,male,1986.0,30s,Korea,Chungcheongnam-do,Buyeo-gun,,overseas inflow,,,1.0,2020-03-25,2020-03-27,2020-04-16,,released,kaggle,KOR
 4100000127,,male,2001.0,10s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,3.0,2020-03-22,2020-03-28,,,isolated,kaggle,KOR
 4100000128,,female,1977.0,40s,Korea,Chungcheongnam-do,Buyeo-gun,,etc,,,8.0,,2020-03-30,,,isolated,kaggle,KOR
 4100000129,,male,1985.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,2.0,2020-03-21,2020-03-31,,,isolated,kaggle,KOR
-4100000130,,female,1957.0,60s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122.0,5.0,2020-03-26,2020-03-31,,,isolated,kaggle,KOR
+4100000130,,female,1957.0,60s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122.0,5.0,2020-03-26,2020-03-31,2020-04-29,,released,kaggle,KOR
 4100000131,,male,1964.0,50s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122.0,0.0,,2020-03-31,2020-04-17,,released,kaggle,KOR
 4100000132,,female,1942.0,70s,Korea,Chungcheongnam-do,Buyeo-gun,,etc,,,3.0,,2020-04-01,,,isolated,kaggle,KOR
-4100000133,,female,1970.0,50s,Korea,Chungcheongnam-do,Buyeo-gun,,etc,,,8.0,,2020-04-01,,,isolated,kaggle,KOR
-4100000134,,female,1999.0,20s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000133.0,0.0,,2020-04-02,,,isolated,kaggle,KOR
-4100000135,,male,1973.0,40s,United States,Chungcheongnam-do,Asan-si,,overseas inflow,,2000000508.0,2.0,,2020-04-03,,,isolated,kaggle,KOR
+4100000133,,female,1970.0,50s,Korea,Chungcheongnam-do,Buyeo-gun,,etc,,,8.0,,2020-04-01,2020-04-29,,released,kaggle,KOR
+4100000134,,female,1999.0,20s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000133.0,0.0,,2020-04-02,2020-04-29,,released,kaggle,KOR
+4100000135,,male,1973.0,40s,United States,Chungcheongnam-do,Asan-si,,overseas inflow,,2000000508.0,2.0,,2020-04-03,2020-04-22,,released,kaggle,KOR
 4100000136,,male,1949.0,70s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000130.0,0.0,2020-04-03,2020-04-05,,,isolated,kaggle,KOR
 4100000137,,female,1994.0,20s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,29.0,2020-04-01,2020-04-06,2020-04-10,,released,kaggle,KOR
 4100000138,,male,1982.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,1.0,2020-04-06,2020-04-07,,,isolated,kaggle,KOR
 4100000139,,female,1959.0,60s,United States,Chungcheongnam-do,Seocheon-gun,,overseas inflow,,,4.0,2020-04-10,2020-04-11,,,isolated,kaggle,KOR
 4100000140,,female,1958.0,60s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,1.0,,2020-04-17,,,isolated,kaggle,KOR
 4100000141,,male,1999.0,20s,Korea,Chungcheongnam-do,Nonsan-si,,contact with patient,,6100000115.0,89.0,,2020-04-17,,,isolated,kaggle,KOR
+4100000142,,female,2004.0,10s,Korea,Chungcheongnam-do,Nonsan-si,,overseas inflow,,,2.0,,2020-04-26,,,isolated,kaggle,KOR
+4100000143,,male,1981.0,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,4.0,,2020-04-28,,,isolated,kaggle,KOR
 5000000001,8.0,female,1958.0,60s,Korea,Jeollabuk-do,Gunsan-si,,overseas inflow,1.0,,113.0,,2020-01-31,2020-02-12,,released,kaggle,KOR
 5000000002,113.0,male,1992.0,20s,Korea,Jeollabuk-do,Gimje-si,,etc,,,,,2020-02-20,2020-03-10,,released,kaggle,KOR
 5000000003,230.0,male,1984.0,30s,Korea,Jeollabuk-do,Jeonju-si,,contact with patient,,5000000002.0,,,2020-02-21,2020-03-07,,released,kaggle,KOR
@@ -2085,14 +2139,14 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000109,2526.0,female,1994.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-03-29,,released,kaggle,KOR
 6001000110,2527.0,male,1985.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-03-19,,released,kaggle,KOR
 6001000111,2528.0,female,1965.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-03-14,,released,kaggle,KOR
-6001000112,2580.0,male,2000.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,4.0,,2020-02-28,,,isolated,kaggle,KOR
+6001000112,2580.0,male,2000.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,4.0,,2020-02-28,2020-04-19,,released,kaggle,KOR
 6001000113,2449.0,male,1963.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,,,isolated,kaggle,KOR
 6001000114,2551.0,female,1967.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-01,,released,kaggle,KOR
 6001000115,2875.0,female,1993.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-09,,released,kaggle,KOR
 6001000116,2631.0,female,1956.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,2.0,,2020-02-28,2020-03-27,,released,kaggle,KOR
 6001000117,2922.0,male,1954.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-03-25,,released,kaggle,KOR
 6001000118,2921.0,female,1962.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-07,,released,kaggle,KOR
-6001000119,2925.0,male,1936.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-02-28,,,isolated,kaggle,KOR
+6001000119,2925.0,male,1936.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-02-28,2020-04-22,,released,kaggle,KOR
 6001000120,2924.0,female,1940.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-09,,released,kaggle,KOR
 6001000121,3008.0,female,1992.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-03-26,,released,kaggle,KOR
 6001000122,1992.0,female,1948.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-10,,released,kaggle,KOR
@@ -2128,7 +2182,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000152,3581.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-04-04,,released,kaggle,KOR
 6001000153,3866.0,male,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-26,,released,kaggle,KOR
 6001000154,3794.0,female,1950.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-31,,released,kaggle,KOR
-6001000155,4199.0,male,1938.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,,,isolated,kaggle,KOR
+6001000155,4199.0,male,1938.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-04-15,,released,kaggle,KOR
 6001000156,3547.0,male,1956.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-04-04,,released,kaggle,KOR
 6001000157,3600.0,female,1993.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-18,,released,kaggle,KOR
 6001000158,3617.0,male,1997.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-04-09,,released,kaggle,KOR
@@ -2154,7 +2208,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000178,4161.0,female,1965.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-19,,released,kaggle,KOR
 6001000179,4040.0,female,1981.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-23,,released,kaggle,KOR
 6001000180,4123.0,female,1978.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-23,,released,kaggle,KOR
-6001000181,3947.0,female,1982.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,,,isolated,kaggle,KOR
+6001000181,3947.0,female,1982.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-04-24,,released,kaggle,KOR
 6001000182,4162.0,male,1960.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-19,,released,kaggle,KOR
 6001000183,4102.0,male,1961.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-28,,released,kaggle,KOR
 6001000184,3980.0,male,1993.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-25,,released,kaggle,KOR
@@ -2196,7 +2250,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000220,4791.0,female,1981.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-02,2020-04-09,,released,kaggle,KOR
 6001000221,4274.0,female,1979.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-02,2020-03-25,,released,kaggle,KOR
 6001000222,4630.0,female,1932.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-02,,,isolated,kaggle,KOR
-6001000223,4411.0,female,1935.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-02,2020-03-30,,released,kaggle,KOR
+6001000223,4411.0,female,1935.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-02,2020-03-30,2020-04-08,deceased,kaggle,KOR
 6001000224,4602.0,female,1981.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-02,2020-03-25,,released,kaggle,KOR
 6001000225,4625.0,female,1963.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-02,2020-03-13,,released,kaggle,KOR
 6001000226,4601.0,female,1969.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-02,2020-04-10,,released,kaggle,KOR
@@ -2206,7 +2260,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000230,5033.0,female,1999.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-14,,released,kaggle,KOR
 6001000231,5204.0,female,1983.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-23,,released,kaggle,KOR
 6001000232,5240.0,male,2010.0,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-23,,released,kaggle,KOR
-6001000233,4829.0,female,1933.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,,,isolated,kaggle,KOR
+6001000233,4829.0,female,1933.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-04-11,,released,kaggle,KOR
 6001000234,4966.0,male,1964.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-22,,released,kaggle,KOR
 6001000235,5151.0,female,1995.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-04-02,,released,kaggle,KOR
 6001000236,5403.0,male,1957.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-04-09,,released,kaggle,KOR
@@ -2331,7 +2385,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000355,5968.0,female,1930.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-04-03,,released,kaggle,KOR
 6001000356,5965.0,male,1935.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-05,,,isolated,kaggle,KOR
 6001000357,6126.0,female,1946.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-05,,,isolated,kaggle,KOR
-6001000358,6204.0,female,1926.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-05,,,isolated,kaggle,KOR
+6001000358,6204.0,female,1926.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-05,2020-04-26,,released,kaggle,KOR
 6001000359,5839.0,female,1930.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Jeil Silver Town,,,,,2020-03-05,2020-03-30,,released,kaggle,KOR
 6001000360,5885.0,female,1975.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-21,,released,kaggle,KOR
 6001000361,5866.0,male,1979.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-25,,released,kaggle,KOR
@@ -2357,7 +2411,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000381,5999.0,female,1994.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-16,,released,kaggle,KOR
 6001000382,6053.0,female,1999.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-22,,released,kaggle,KOR
 6001000383,6262.0,female,1967.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-28,,released,kaggle,KOR
-6001000384,5989.0,female,1973.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,,,isolated,kaggle,KOR
+6001000384,5989.0,female,1973.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-04-20,,released,kaggle,KOR
 6001000385,6122.0,female,2000.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-04-12,,released,kaggle,KOR
 6001000386,5868.0,female,1967.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-24,,released,kaggle,KOR
 6001000387,6128.0,female,1995.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-22,,released,kaggle,KOR
@@ -2436,7 +2490,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000460,7119.0,female,1938.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,,2020-03-20,deceased,kaggle,KOR
 6001000461,6920.0,male,1964.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,2020-04-04,,released,kaggle,KOR
 6001000462,6783.0,female,1950.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,,,isolated,kaggle,KOR
-6001000463,6906.0,male,1966.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,,,isolated,kaggle,KOR
+6001000463,6906.0,male,1966.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,2020-04-22,,released,kaggle,KOR
 6001000464,6956.0,female,1969.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,2020-04-05,,released,kaggle,KOR
 6001000465,6952.0,male,1994.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,2020-03-19,,released,kaggle,KOR
 6001000466,6844.0,male,1994.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-07,2020-03-19,,released,kaggle,KOR
@@ -2453,14 +2507,14 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000477,7227.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-25,,released,kaggle,KOR
 6001000478,7293.0,female,1976.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-28,,released,kaggle,KOR
 6001000479,7252.0,female,1975.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-29,,released,kaggle,KOR
-6001000480,7315.0,female,1961.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,,,isolated,kaggle,KOR
+6001000480,7315.0,female,1961.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-04-22,,released,kaggle,KOR
 6001000481,7279.0,male,1999.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-29,,released,kaggle,KOR
 6001000482,7226.0,female,2001.0,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-23,,released,kaggle,KOR
 6001000483,7149.0,male,1951.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-25,,released,kaggle,KOR
 6001000484,7326.0,female,1996.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-29,,released,kaggle,KOR
 6001000485,7170.0,male,1957.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-26,,released,kaggle,KOR
 6001000486,7313.0,female,1953.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-04-08,,released,kaggle,KOR
-6001000487,7346.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,,,isolated,kaggle,KOR
+6001000487,7346.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-04-24,,released,kaggle,KOR
 6001000488,7320.0,female,1978.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-03-29,,released,kaggle,KOR
 6001000489,7165.0,male,2000.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-08,2020-04-09,,released,kaggle,KOR
 6001000490,7405.0,female,2007.0,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-09,2020-03-21,,released,kaggle,KOR
@@ -2469,7 +2523,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000493,7490.0,female,1963.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-09,2020-03-27,,released,kaggle,KOR
 6001000494,7432.0,male,1978.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-09,,,isolated,kaggle,KOR
 6001000495,7417.0,female,1976.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-09,2020-04-09,,released,kaggle,KOR
-6001000496,7438.0,male,1948.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-09,,,isolated,kaggle,KOR
+6001000496,7438.0,male,1948.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-09,2020-04-18,,released,kaggle,KOR
 6001000497,7482.0,male,1934.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-09,,,isolated,kaggle,KOR
 6001000498,7488.0,male,1950.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-09,2020-03-19,,released,kaggle,KOR
 6001000499,7598.0,male,1932.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-10,2020-04-07,,released,kaggle,KOR
@@ -2483,26 +2537,26 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000507,7745.0,male,1973.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-10,2020-03-22,,released,kaggle,KOR
 6001000508,7703.0,female,1994.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-10,2020-03-29,,released,kaggle,KOR
 6001000509,7675.0,female,1946.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-10,2020-04-04,,released,kaggle,KOR
-6001000510,7786.0,male,1947.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-11,,,isolated,kaggle,KOR
+6001000510,7786.0,male,1947.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-11,2020-04-27,,released,kaggle,KOR
 6001000511,7860.0,male,1997.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-11,2020-03-20,,released,kaggle,KOR
 6001000512,7829.0,female,1962.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-11,2020-03-24,,released,kaggle,KOR
 6001000513,7792.0,female,1963.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-11,2020-03-22,,released,kaggle,KOR
-6001000514,7769.0,female,1939.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,,,isolated,kaggle,KOR
-6001000515,7960.0,female,1932.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-12,,,isolated,kaggle,KOR
+6001000514,7769.0,female,1939.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-04-24,,released,kaggle,KOR
+6001000515,7960.0,female,1932.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-12,2020-04-22,,released,kaggle,KOR
 6001000516,7996.0,female,1933.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-13,2020-03-28,,released,kaggle,KOR
 6001000517,8068.0,male,1978.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-13,2020-04-05,,released,kaggle,KOR
-6001000518,8018.0,male,1937.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,,,isolated,kaggle,KOR
+6001000518,8018.0,male,1937.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,2020-04-27,,released,kaggle,KOR
 6001000519,8062.0,male,1957.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,2020-04-16,,released,kaggle,KOR
 6001000520,8134.0,female,1989.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,2020-03-23,,released,kaggle,KOR
 6001000521,8099.0,male,1950.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,2020-04-01,,released,kaggle,KOR
 6001000522,8155.0,female,1948.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,2020-03-29,,released,kaggle,KOR
 6001000523,8176.0,male,1963.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,,,isolated,kaggle,KOR
 6001000524,8193.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,2020-04-01,,released,kaggle,KOR
-6001000525,8177.0,female,1938.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-15,,,isolated,kaggle,KOR
+6001000525,8177.0,female,1938.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-15,2020-04-15,,released,kaggle,KOR
 6001000526,8173.0,female,1928.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-15,2020-04-05,,released,kaggle,KOR
 6001000527,8294.0,male,1950.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-16,,,isolated,kaggle,KOR
 6001000528,8237.0,male,1949.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,,2020-03-16,deceased,kaggle,KOR
-6001000529,8275.0,female,1949.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-16,,,isolated,kaggle,KOR
+6001000529,8275.0,female,1949.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-16,2020-04-24,,released,kaggle,KOR
 6001000530,8279.0,male,1939.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-16,,,isolated,kaggle,KOR
 6001000531,8371.0,female,1969.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-04-07,,released,kaggle,KOR
 6001000532,8389.0,female,1932.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-17,2020-04-02,,released,kaggle,KOR
@@ -2517,7 +2571,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000541,8558.0,female,2010.0,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-08,,released,kaggle,KOR
 6001000542,8546.0,female,1964.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-18,,,isolated,kaggle,KOR
 6001000543,8499.0,male,2001.0,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-03-28,,released,kaggle,KOR
-6001000544,8334.0,male,1954.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-08,,released,kaggle,KOR
+6001000544,8334.0,male,1954.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-22,,released,kaggle,KOR
 6001000545,8590.0,male,2011.0,0s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-19,2020-04-05,,released,kaggle,KOR
 6001000546,8593.0,female,1967.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-19,2020-04-03,,released,kaggle,KOR
 6001000547,8699.0,female,2003.0,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-04-04,,released,kaggle,KOR
@@ -2532,14 +2586,14 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000556,8673.0,female,1943.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-09,,released,kaggle,KOR
 6001000557,8777.0,female,1949.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
 6001000558,8796.0,female,1955.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-05,,released,kaggle,KOR
-6001000559,8742.0,female,1959.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
-6001000560,8733.0,female,1940.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
+6001000559,8742.0,female,1959.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-21,,released,kaggle,KOR
+6001000560,8733.0,female,1940.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-22,,released,kaggle,KOR
 6001000561,8683.0,female,1963.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
 6001000562,8745.0,female,1935.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-10,,released,kaggle,KOR
 6001000563,8758.0,female,1929.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
 6001000564,8722.0,female,1932.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
 6001000565,8772.0,male,1928.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-02,deceased,kaggle,KOR
-6001000566,8794.0,male,1934.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
+6001000566,8794.0,male,1934.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-21,,released,kaggle,KOR
 6001000567,8793.0,male,1930.0,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-27,deceased,kaggle,KOR
 6001000568,8797.0,male,1939.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-25,deceased,kaggle,KOR
 6001000569,8711.0,male,1966.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-10,,released,kaggle,KOR
@@ -2554,16 +2608,16 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000578,8768.0,male,1979.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
 6001000579,8734.0,male,1948.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-17,,released,kaggle,KOR
 6001000580,8727.0,female,1941.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-16,,released,kaggle,KOR
-6001000581,8784.0,female,1940.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
+6001000581,8784.0,female,1940.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-17,,released,kaggle,KOR
 6001000582,8839.0,female,1932.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-05,deceased,kaggle,KOR
 6001000583,8889.0,female,1945.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated,kaggle,KOR
 6001000584,8893.0,male,1933.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-21,,2020-03-31,deceased,kaggle,KOR
-6001000585,9033.0,male,1961.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-23,,,isolated,kaggle,KOR
-6001000586,9114.0,female,1983.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-24,,,isolated,kaggle,KOR
+6001000585,9033.0,male,1961.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-23,2020-04-21,,released,kaggle,KOR
+6001000586,9114.0,female,1983.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-24,2020-04-18,,released,kaggle,KOR
 6001000587,9118.0,male,1956.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-24,,,isolated,kaggle,KOR
 6001000588,9218.0,female,1937.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,2020-03-26,deceased,kaggle,KOR
 6001000589,9199.0,female,1966.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,2020-04-13,,released,kaggle,KOR
-6001000590,9213.0,female,1996.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,,isolated,kaggle,KOR
+6001000590,9213.0,female,1996.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,2020-04-25,,released,kaggle,KOR
 6001000591,9236.0,female,1937.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-25,,,isolated,kaggle,KOR
 6001000592,9195.0,female,1937.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-25,,,isolated,kaggle,KOR
 6001000593,9233.0,female,1953.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,,isolated,kaggle,KOR
@@ -2571,7 +2625,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000595,9261.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,,,isolated,kaggle,KOR
 6001000596,9271.0,male,1964.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated,kaggle,KOR
 6001000597,9272.0,female,1943.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated,kaggle,KOR
-6001000598,9329.0,female,1946.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated,kaggle,KOR
+6001000598,9329.0,female,1946.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,2020-04-25,,released,kaggle,KOR
 6001000599,9297.0,male,1942.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,2020-04-06,deceased,kaggle,KOR
 6001000600,9280.0,male,1943.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated,kaggle,KOR
 6001000601,9262.0,male,1956.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,2020-04-16,,released,kaggle,KOR
@@ -2581,7 +2635,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000605,9433.0,male,2003.0,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-27,2020-04-05,,released,kaggle,KOR
 6001000606,9563.0,male,1945.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-28,,,isolated,kaggle,KOR
 6001000607,9562.0,female,1958.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
-6001000608,9606.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
+6001000608,9606.0,female,1968.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,2020-04-24,,released,kaggle,KOR
 6001000609,9646.0,female,1941.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
 6001000610,9622.0,female,1943.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,2020-03-31,deceased,kaggle,KOR
 6001000611,9659.0,female,1950.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated,kaggle,KOR
@@ -2592,7 +2646,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000616,9804.0,female,1957.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,,,isolated,kaggle,KOR
 6001000617,9845.0,female,1972.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,2020-04-06,,released,kaggle,KOR
 6001000618,9925.0,female,1993.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-01,,,isolated,kaggle,KOR
-6001000619,10007.0,male,1974.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,,,isolated,kaggle,KOR
+6001000619,10007.0,male,1974.0,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,2020-04-24,,released,kaggle,KOR
 6001000620,10032.0,female,1998.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-02,,,isolated,kaggle,KOR
 6001000621,10040.0,male,1958.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,,,isolated,kaggle,KOR
 6001000622,10039.0,female,1945.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,2020-04-16,,released,kaggle,KOR
@@ -2601,10 +2655,11 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000625,10261.0,female,1935.0,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-05,,,isolated,kaggle,KOR
 6001000626,10356.0,female,1941.0,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated,kaggle,KOR
 6001000627,10353.0,female,1956.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated,kaggle,KOR
-6001000628,10362.0,female,1954.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated,kaggle,KOR
-6001000629,,male,1999.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-09,,,isolated,kaggle,KOR
-6001000630,,female,1959.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-09,,,isolated,kaggle,KOR
-6001000631,,female,1961.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-14,,,isolated,kaggle,KOR
+6001000628,10362.0,female,1954.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,2020-04-23,,released,kaggle,KOR
+6001000629,10449.0,male,1999.0,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-09,,,isolated,kaggle,KOR
+6001000630,10450.0,female,1959.0,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-09,,,isolated,kaggle,KOR
+6001000631,10572.0,female,1961.0,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-14,2020-04-22,,released,kaggle,KOR
+6001000632,,female,1988.0,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,overseas inflow,,,,,2020-04-24,,,isolated,kaggle,KOR
 6002000001,,male,1998.0,20s,Korea,Gyeongsangbuk-do,Gyeongju-si,,etc,,,,,2020-02-22,,,isolated,kaggle,KOR
 6002000002,,male,1980.0,40s,Korea,Gyeongsangbuk-do,Gyeongju-si,,etc,,,,,2020-02-22,,,deceased,kaggle,KOR
 6002000003,,female,1996.0,20s,Korea,Gyeongsangbuk-do,Gyeongju-si,,Shincheonji Church,,,,,2020-02-22,,,isolated,kaggle,KOR
@@ -2653,18 +2708,20 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6002000046,,female,1991.0,30s,Korea,Gyeongsangbuk-do,Gyeongju-si,,contact with patient,,6002000026.0,,,2020-04-04,,,isolated,kaggle,KOR
 6002000047,,male,1946.0,70s,Korea,Gyeongsangbuk-do,Gyeongju-si,,contact with patient,,6002000045.0,,,2020-04-05,,,isolated,kaggle,KOR
 6002000048,,male,1979.0,40s,Korea,Gyeongsangbuk-do,Gyeongju-si,,contact with patient,,6002000045.0,,,2020-04-06,,,isolated,kaggle,KOR
+6002000049,,male,1999.0,20s,Korea,Gyeongsangbuk-do,Gyeongju-si,,overseas inflow,,,,,2020-04-16,,,isolated,kaggle,KOR
+6002000050,,male,1975.0,40s,Korea,Gyeongsangbuk-do,Gyeongju-si,,contact with patient,,,,,2020-04-21,,,isolated,kaggle,KOR
 6003000001,,male,,20s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-02-26,2020-03-19,,released,kaggle,KOR
 6003000002,,female,,60s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-02,2020-04-03,,released,kaggle,KOR
 6003000003,,female,,20s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-02,2020-04-05,,released,kaggle,KOR
 6003000004,,female,,40s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-03,2020-04-04,,released,kaggle,KOR
 6003000005,,female,,70s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-04,,,isolated,kaggle,KOR
-6003000006,,female,,80s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-04,,,isolated,kaggle,KOR
-6003000007,,female,,80s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-11,,,isolated,kaggle,KOR
+6003000006,,female,,80s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-04,2020-03-20,,released,kaggle,KOR
+6003000007,,female,,80s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-11,2020-03-11,,released,kaggle,KOR
 6003000008,,female,,60s,Korea,Gyeongsangbuk-do,Goryeong-gun,,etc,,,,,2020-03-19,2020-04-04,,released,kaggle,KOR
-6003000009,,male,,20s,Korea,Gyeongsangbuk-do,Goryeong-gun,,overseas inflow,,,,,2020-04-02,,,isolated,kaggle,KOR
+6003000009,,male,,20s,Korea,Gyeongsangbuk-do,Goryeong-gun,,overseas inflow,,,,,2020-04-02,2020-03-18,,released,kaggle,KOR
 6004000001,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-23,2020-04-01,,released,kaggle,KOR
 6004000002,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-24,2020-03-18,,released,kaggle,KOR
-6004000003,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-25,,,isolated,kaggle,KOR
+6004000003,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-25,2020-04-17,,released,kaggle,KOR
 6004000004,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-25,2020-03-28,,released,kaggle,KOR
 6004000005,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-27,2020-03-17,,released,kaggle,KOR
 6004000006,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-25,2020-03-25,,released,kaggle,KOR
@@ -2675,7 +2732,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6004000011,,male,,30s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-28,2020-03-22,,released,kaggle,KOR
 6004000012,,female,,50s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-29,2020-03-20,,released,kaggle,KOR
 6004000013,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-29,2020-03-22,,released,kaggle,KOR
-6004000014,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-29,,,isolated,kaggle,KOR
+6004000014,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-29,2020-04-14,,released,kaggle,KOR
 6004000015,,male,,50s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-29,2020-03-25,,released,kaggle,KOR
 6004000016,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-29,2020-03-25,,released,kaggle,KOR
 6004000017,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-02-29,2020-03-13,,released,kaggle,KOR
@@ -2710,13 +2767,13 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6004000046,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-04,2020-04-03,,released,kaggle,KOR
 6004000047,,female,,10s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-04,2020-04-08,,released,kaggle,KOR
 6004000048,,male,,10s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-04,2020-04-03,,released,kaggle,KOR
-6004000049,,female,,10s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-05,,,isolated,kaggle,KOR
+6004000049,,female,,10s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-05,2020-04-20,,released,kaggle,KOR
 6004000050,,male,,40s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-02,2020-04-03,,released,kaggle,KOR
 6004000051,,male,,40s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-06,2020-04-08,,released,kaggle,KOR
 6004000052,,male,,50s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-02,2020-03-25,,released,kaggle,KOR
 6004000053,,male,,10s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-09,2020-04-08,,released,kaggle,KOR
 6004000054,,male,,40s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-11,2020-03-22,,released,kaggle,KOR
-6004000055,,male,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-11,,,isolated,kaggle,KOR
+6004000055,,male,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-11,2020-04-24,,released,kaggle,KOR
 6004000056,,female,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-11,2020-04-09,,released,kaggle,KOR
 6004000057,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-13,2020-04-03,,released,kaggle,KOR
 6004000058,,male,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-16,,,isolated,kaggle,KOR
@@ -2724,27 +2781,27 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6004000060,,female,,40s,Korea,Gyeongsangbuk-do,Gumi-si,,contact with patient,,,,,2020-03-19,2020-04-02,,released,kaggle,KOR
 6004000061,,male,,30s,Korea,Gyeongsangbuk-do,Gumi-si,,overseas inflow,,,,,2020-03-24,,,isolated,kaggle,KOR
 6004000062,,male,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-25,,,isolated,kaggle,KOR
-6004000063,,male,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-27,,,isolated,kaggle,KOR
-6004000064,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,overseas inflow,,,,,2020-03-28,,,isolated,kaggle,KOR
+6004000063,,male,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,etc,,,,,2020-03-27,2020-04-22,,released,kaggle,KOR
+6004000064,,male,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,overseas inflow,,,,,2020-03-28,2020-04-19,,released,kaggle,KOR
 6004000065,,male,,40s,Korea,Gyeongsangbuk-do,Gumi-si,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
 6004000066,,male,,30s,Korea,Gyeongsangbuk-do,Gumi-si,,overseas inflow,,,,,2020-04-01,,,isolated,kaggle,KOR
 6004000067,,female,,20s,Korea,Gyeongsangbuk-do,Gumi-si,,overseas inflow,,,,,2020-03-27,,,isolated,kaggle,KOR
 6004000068,,female,,60s,Korea,Gyeongsangbuk-do,Gumi-si,,overseas inflow,,,,,2020-04-07,,,isolated,kaggle,KOR
-6005000001,383.0,male,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,16.0,,2020-02-22,,,isolated,kaggle,KOR
-6005000002,382.0,male,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,13.0,,2020-02-22,,,isolated,kaggle,KOR
-6005000003,871.0,female,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,31.0,,2020-02-24,,,isolated,kaggle,KOR
-6005000004,,female,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,,,2020-02-26,,,isolated,kaggle,KOR
-6005000005,,male,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,etc,,,,,2020-02-28,,,isolated,kaggle,KOR
-6005000006,,female,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,etc,,,,,2020-03-03,,,isolated,kaggle,KOR
+6005000001,383.0,male,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,16.0,,2020-02-22,,,released,kaggle,KOR
+6005000002,382.0,male,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,13.0,,2020-02-22,,,released,kaggle,KOR
+6005000003,871.0,female,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,31.0,,2020-02-24,,,released,kaggle,KOR
+6005000004,,female,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,Shincheonji Church,,,,,2020-02-26,,,released,kaggle,KOR
+6005000005,,male,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,etc,,,,,2020-02-28,,,released,kaggle,KOR
+6005000006,,female,,,Korea,Gyeongsangbuk-do,Gunwi-gun,,etc,,,,,2020-03-03,,,released,kaggle,KOR
 6006000001,,male,1980.0,40s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-22,,,released,kaggle,KOR
-6006000002,,male,1979.0,40s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-26,,,isolated,kaggle,KOR
+6006000002,,male,1979.0,40s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-26,2020-04-15,,released,kaggle,KOR
 6006000003,,male,1976.0,40s,Korea,Gyeongsangbuk-do,Gimcheon-si,,contact with patient,,,,,2020-02-27,2020-03-16,,released,kaggle,KOR
 6006000004,,female,1991.0,20s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-28,,,released,kaggle,KOR
 6006000005,,male,1959.0,60s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-28,2020-03-26,,released,kaggle,KOR
 6006000006,,male,1960.0,60s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-29,2020-03-23,,released,kaggle,KOR
-6006000007,,male,1989.0,30s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-29,,,released,kaggle,KOR
-6006000008,,male,1960.0,60s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-03-02,,,released,kaggle,KOR
-6006000009,,male,1994.0,20s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-29,,,released,kaggle,KOR
+6006000007,,male,1989.0,30s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-29,2020-03-28,,released,kaggle,KOR
+6006000008,,male,1960.0,60s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-03-02,2020-03-18,,released,kaggle,KOR
+6006000009,,male,1994.0,20s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-02-29,2020-03-18,,released,kaggle,KOR
 6006000010,,male,1966.0,50s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-03-02,2020-03-20,,released,kaggle,KOR
 6006000011,,male,1976.0,40s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-03-02,2020-04-04,,released,kaggle,KOR
 6006000012,,male,1970.0,50s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-03-02,2020-03-27,,released,kaggle,KOR
@@ -2757,11 +2814,11 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6006000019,,female,1962.0,50s,Korea,Gyeongsangbuk-do,Gimcheon-si,,contact with patient,,,,,2020-03-06,2020-04-04,,released,kaggle,KOR
 6006000020,,female,1960.0,60s,Korea,Gyeongsangbuk-do,Gimcheon-si,,contact with patient,,,,,2020-03-06,2020-04-05,,released,kaggle,KOR
 6006000021,,female,1948.0,70s,Korea,Gyeongsangbuk-do,Gimcheon-si,,etc,,,,,2020-03-08,2020-03-22,,released,kaggle,KOR
-6006000022,,female,1992.0,20s,Korea,Gyeongsangbuk-do,Gimcheon-si,,contact with patient,,6006000016.0,,,2020-03-18,,,released,kaggle,KOR
-6006000023,,female,1988.0,30s,Korea,Gyeongsangbuk-do,Gimcheon-si,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
-6006000024,,female,1999.0,20s,Korea,Gyeongsangbuk-do,Gimcheon-si,,overseas inflow,,,,,2020-03-30,,,isolated,kaggle,KOR
-6007000001,,male,1960.0,60s,Korea,Gyeongsangbuk-do,Mungyeong-si,,contact with patient,,,,,2020-02-21,,,isolated,kaggle,KOR
-6007000002,,female,1958.0,60s,Korea,Gyeongsangbuk-do,Mungyeong-si,,contact with patient,,6007000001.0,,,2020-02-21,,,isolated,kaggle,KOR
+6006000022,,female,1992.0,20s,Korea,Gyeongsangbuk-do,Gimcheon-si,,contact with patient,,6006000016.0,,,2020-03-18,2020-04-09,,released,kaggle,KOR
+6006000023,,female,1988.0,30s,Korea,Gyeongsangbuk-do,Gimcheon-si,,overseas inflow,,,,,2020-03-30,2020-04-16,,released,kaggle,KOR
+6006000024,,female,1999.0,20s,Korea,Gyeongsangbuk-do,Gimcheon-si,,overseas inflow,,,,,2020-03-30,2020-04-23,,released,kaggle,KOR
+6007000001,,male,1960.0,60s,Korea,Gyeongsangbuk-do,Mungyeong-si,,contact with patient,,,,,2020-02-21,,,released,kaggle,KOR
+6007000002,,female,1958.0,60s,Korea,Gyeongsangbuk-do,Mungyeong-si,,contact with patient,,6007000001.0,,,2020-02-21,,,released,kaggle,KOR
 6007000003,,,,20s,Korea,Gyeongsangbuk-do,Mungyeong-si,,etc,,,,,2020-02-23,,,isolated,kaggle,KOR
 6007000004,,male,,20s,Korea,Gyeongsangbuk-do,Mungyeong-si,,etc,,,,,2020-03-06,,,isolated,kaggle,KOR
 6008000001,,male,2000.0,20s,Korea,Gyeongsangbuk-do,Bonghwa-gun,,,,,,,2020-02-27,2020-03-05,,released,kaggle,KOR
@@ -2838,18 +2895,18 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6009000001,,female,1998.0,20s,Korea,Gyeongsangbuk-do,Sangju-si,,etc,,,,,2020-02-20,2020-03-26,,released,kaggle,KOR
 6009000002,,female,1972.0,40s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,,,,2020-02-23,2020-03-24,,released,kaggle,KOR
 6009000003,,male,1960.0,60s,Korea,Gyeongsangbuk-do,Sangju-si,,Pilgrimage to Israel,,,,,2020-02-24,2020-03-29,,released,kaggle,KOR
-6009000004,,female,1983.0,30s,Korea,Gyeongsangbuk-do,Sangju-si,,etc,,,,,2020-02-25,2020-04-05,,released,kaggle,KOR
+6009000004,,female,1983.0,30s,Korea,Gyeongsangbuk-do,Sangju-si,,etc,,,,,2020-04-17,,,isolated,kaggle,KOR
 6009000005,,female,1971.0,40s,Korea,Gyeongsangbuk-do,Sangju-si,,etc,,,,,2020-02-26,2020-04-09,,released,kaggle,KOR
-6009000006,,female,1959.0,60s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000003.0,,,2020-02-26,2020-03-23,,released,kaggle,KOR
-6009000007,,male,1948.0,70s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000008.0,,,2020-02-26,2020-03-23,,released,kaggle,KOR
-6009000008,,female,1956.0,60s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000007.0,,,2020-02-26,2020-03-23,,released,kaggle,KOR
-6009000009,,male,1985.0,30s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6019000015.0,,,2020-02-26,2020-03-23,,released,kaggle,KOR
+6009000006,,female,1959.0,60s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000003.0,,,2020-02-26,2020-03-17,,released,kaggle,KOR
+6009000007,,male,1948.0,70s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000008.0,,,2020-02-26,2020-03-17,,released,kaggle,KOR
+6009000008,,female,1956.0,60s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000007.0,,,2020-02-26,2020-03-18,,released,kaggle,KOR
+6009000009,,male,1985.0,30s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6019000015.0,,,2020-02-26,2020-03-22,,released,kaggle,KOR
 6009000010,,male,1983.0,30s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000004.0,,,2020-02-26,2020-03-25,,released,kaggle,KOR
-6009000011,,male,2015.0,0s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000004.0,,,2020-02-26,2020-03-23,,released,kaggle,KOR
-6009000012,,male,2017.0,0s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000004.0,,,2020-02-26,2020-04-05,,released,kaggle,KOR
-6009000013,,male,1938.0,80s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000003.0,,,2020-02-26,2020-03-23,,released,kaggle,KOR
-6009000014,,female,1965.0,50s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,,,2020-02-20,2020-02-29,2020-04-04,,released,kaggle,KOR
-6009000015,,male,1965.0,50s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000014.0,,,2020-03-03,2020-04-04,,released,kaggle,KOR
+6009000011,,male,2015.0,0s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000004.0,,,2020-04-16,,,isolated,kaggle,KOR
+6009000012,,male,2017.0,0s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000004.0,,,2020-04-16,,,isolated,kaggle,KOR
+6009000013,,male,1938.0,80s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000003.0,,,2020-02-26,2020-03-19,,released,kaggle,KOR
+6009000014,,female,1965.0,50s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,,,2020-02-20,2020-02-29,2020-04-03,,released,kaggle,KOR
+6009000015,,male,1965.0,50s,Korea,Gyeongsangbuk-do,Sangju-si,,contact with patient,,6009000014.0,,,2020-03-03,2020-04-03,,released,kaggle,KOR
 6010000001,,female,,10s,Korea,Gyeongsangbuk-do,Seongju-gun,,etc,,,,2020-02-24,2020-02-26,,,isolated,kaggle,KOR
 6010000002,,female,,60s,Korea,Gyeongsangbuk-do,Seongju-gun,,Shincheonji Church,,,,,2020-02-26,2020-03-13,,released,kaggle,KOR
 6010000003,,female,,20s,Korea,Gyeongsangbuk-do,Seongju-gun,,etc,,,,,2020-02-26,,,isolated,kaggle,KOR
@@ -2937,12 +2994,12 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6015000001,37.0,male,,40s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-18,2020-02-26,,released,kaggle,KOR
 6015000002,39.0,female,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-18,2020-03-03,,released,kaggle,KOR
 6015000003,41.0,female,,70s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-19,2020-03-18,,released,kaggle,KOR
-6015000004,66.0,male,,20s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-19,,,isolated,kaggle,KOR
+6015000004,66.0,male,,20s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-19,2020-04-27,,released,kaggle,KOR
 6015000005,242.0,female,,50s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-20,2020-03-21,,released,kaggle,KOR
 6015000006,244.0,female,,70s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-21,,2020-04-09,deceased,kaggle,KOR
 6015000007,335.0,male,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-21,,,isolated,kaggle,KOR
 6015000008,481.0,female,,50s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-23,2020-03-27,,released,kaggle,KOR
-6015000009,711.0,male,,50s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-23,,,isolated,kaggle,KOR
+6015000009,711.0,male,,50s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-23,2020-04-19,,released,kaggle,KOR
 6015000010,716.0,female,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-23,2020-04-08,,released,kaggle,KOR
 6015000011,717.0,female,,40s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-23,2020-03-19,,released,kaggle,KOR
 6015000012,758.0,male,,50s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-24,2020-03-25,,released,kaggle,KOR
@@ -2962,7 +3019,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6015000026,2532.0,male,,20s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-27,2020-03-25,,released,kaggle,KOR
 6015000027,3025.0,female,,70s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-28,2020-03-14,,released,kaggle,KOR
 6015000028,3666.0,female,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-03-01,2020-03-27,,released,kaggle,KOR
-6015000029,3786.0,female,,70s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-03-01,,,isolated,kaggle,KOR
+6015000029,3786.0,female,,70s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-03-01,2020-04-19,,released,kaggle,KOR
 6015000030,4701.0,male,,20s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-03-02,,,isolated,kaggle,KOR
 6015000031,5017.0,male,,80s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-03-03,,,isolated,kaggle,KOR
 6015000032,5315.0,female,,20s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-03-03,2020-04-05,,released,kaggle,KOR
@@ -3009,6 +3066,10 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6016000037,,male,2001.0,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000034.0,,,2020-04-16,,,isolated,kaggle,KOR
 6016000038,,female,2014.0,0s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000032.0,,,2020-04-17,,,isolated,kaggle,KOR
 6016000039,,male,2005.0,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000036.0,,,2020-04-18,,,isolated,kaggle,KOR
+6016000040,,male,2002.0,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000026.0,,,2020-04-19,,,isolated,kaggle,KOR
+6016000041,,male,2001.0,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000040.0,,,2020-04-21,,,isolated,kaggle,KOR
+6016000042,,male,2016.0,0s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-24,,,isolated,kaggle,KOR
+6016000043,,female,1943.0,70s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000024.0,,,2020-04-27,,,isolated,kaggle,KOR
 6019000001,,female,1967.0,50s,Korea,Gyeongsangbuk-do,Uiseong-gun,,,,,,,2020-02-22,,,isolated,kaggle,KOR
 6019000002,,female,1944.0,70s,Korea,Gyeongsangbuk-do,Uiseong-gun,,,,,,,2020-02-22,,,isolated,kaggle,KOR
 6019000003,,female,1961.0,50s,Korea,Gyeongsangbuk-do,Uiseong-gun,,,,,,,2020-02-22,,,isolated,kaggle,KOR
@@ -3285,33 +3346,34 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6100000086,,male,1966.0,50s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-03-15,2020-03-19,,,isolated,kaggle,KOR
 6100000087,,female,1967.0,50s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-03-16,2020-03-21,,,isolated,kaggle,KOR
 6100000088,,male,1994.0,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-03-06,2020-03-22,2020-04-19,,released,kaggle,KOR
-6100000089,,male,1960.0,60s,Korea,Gyeongsangnam-do,Haman-gun,,etc,,6002000035.0,,2020-03-22,2020-03-23,,,isolated,kaggle,KOR
-6100000090,,male,1980.0,40s,Korea,Gyeongsangnam-do,Yangsan-si,,overseas inflow,,,,2020-03-25,2020-03-26,,,isolated,kaggle,KOR
+6100000089,,male,1960.0,60s,Korea,Gyeongsangnam-do,Haman-gun,,etc,,6002000035.0,,2020-03-22,2020-03-23,,,released,kaggle,KOR
+6100000090,,male,1980.0,40s,Korea,Gyeongsangnam-do,Yangsan-si,,overseas inflow,,,,2020-03-25,2020-03-26,,,released,kaggle,KOR
 6100000091,,female,1997.0,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-27,2020-03-28,,,isolated,kaggle,KOR
 6100000092,,male,1979.0,40s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-28,2020-03-28,2020-04-15,,released,kaggle,KOR
-6100000093,,female,1967.0,50s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-27,2020-03-28,,,isolated,kaggle,KOR
-6100000094,,male,1991.0,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-28,2020-03-29,,,isolated,kaggle,KOR
+6100000093,,female,1967.0,50s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-27,2020-03-28,,,released,kaggle,KOR
+6100000094,,male,1991.0,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-28,2020-03-29,,,released,kaggle,KOR
 6100000095,,male,1962.0,50s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-28,2020-03-20,,,isolated,kaggle,KOR
-6100000096,,male,1957.0,60s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-24,2020-03-31,,,isolated,kaggle,KOR
+6100000096,,male,1957.0,60s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-24,2020-03-31,2020-04-25,,released,kaggle,KOR
 6100000097,,female,1960.0,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-26,2020-03-31,,,released,kaggle,KOR
 6100000098,,male,1959.0,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-28,2020-03-31,,,isolated,kaggle,KOR
 6100000099,,male,1980.0,40s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-31,2020-03-31,,,isolated,kaggle,KOR
-6100000100,,female,1959.0,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-28,2020-03-31,,,isolated,kaggle,KOR
+6100000100,,female,1959.0,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-28,2020-03-31,,,released,kaggle,KOR
 6100000101,,male,1980.0,40s,Korea,Gyeongsangnam-do,Yangsan-si,,overseas inflow,,,,2020-03-28,2020-03-31,,,isolated,kaggle,KOR
-6100000102,,female,1991.0,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-30,2020-03-31,,,isolated,kaggle,KOR
+6100000102,,female,1991.0,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-30,2020-03-31,,,released,kaggle,KOR
 6100000103,,female,1989.0,30s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-30,2020-03-31,,,isolated,kaggle,KOR
 6100000104,,female,1947.0,70s,Korea,Gyeongsangnam-do,Sancheong-gun,,etc,,,,2020-03-26,2020-03-31,,,isolated,kaggle,KOR
 6100000105,,male,1996.0,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-31,2020-04-01,,,released,kaggle,KOR
-6100000106,,male,1993.0,20s,Korea,Gyeongsangnam-do,Sacheon-si,,overseas inflow,,,,2020-04-02,2020-04-02,,,isolated,kaggle,KOR
-6100000107,,female,1961.0,50s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-04-01,2020-04-03,,,isolated,kaggle,KOR
+6100000106,,male,1993.0,20s,Korea,Gyeongsangnam-do,Sacheon-si,,overseas inflow,,,,2020-04-02,2020-04-02,,,released,kaggle,KOR
+6100000107,,female,1961.0,50s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-04-01,2020-04-03,,,released,kaggle,KOR
 6100000108,,male,2004.0,10s,Korea,Gyeongsangnam-do,Sacheon-si,,overseas inflow,,,,2020-03-31,2020-04-04,,,released,kaggle,KOR
 6100000109,,male,1981.0,30s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-01,2020-04-05,,,isolated,kaggle,KOR
 6100000110,,male,2011.0,0s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-03,2020-04-05,,,isolated,kaggle,KOR
 6100000111,,male,1999.0,20s,Korea,Gyeongsangnam-do,Sacheon-si,,contact with patient,,6100000100.0,,2020-04-04,2020-04-06,,,isolated,kaggle,KOR
-6100000112,,male,1954.0,60s,Korea,Gyeongsangnam-do,Hapcheon-gun,,contact with patient,,6100000108.0,,2020-04-03,2020-04-07,,,isolated,kaggle,KOR
+6100000112,,male,1954.0,60s,Korea,Gyeongsangnam-do,Hapcheon-gun,,contact with patient,,6100000108.0,,2020-04-03,2020-04-07,,,released,kaggle,KOR
 6100000113,,male,1990.0,30s,Korea,Gyeongsangnam-do,Geoje-si,,overseas inflow,,,,2020-03-29,2020-04-08,,,isolated,kaggle,KOR
 6100000114,,female,2018.0,0s,Korea,Gyeongsangnam-do,Jinju-si,,overseas inflow,,,,2020-04-01,2020-04-08,,,isolated,kaggle,KOR
-6100000115,,male,1998.0,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-14,2020-04-16,,,isolated,kaggle,KOR
+6100000115,,male,1998.0,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-14,2020-04-16,2020-04-25,,released,kaggle,KOR
+6100000116,,,,,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-20,2020-04-21,,,isolated,kaggle,KOR
 7000000001,139.0,male,1998.0,20s,Korea,Jeju-do,Jeju-do,,etc,,,87.0,,2020-02-20,2020-03-23,,released,kaggle,KOR
 7000000002,222.0,female,1998.0,20s,Korea,Jeju-do,Jeju-do,,etc,,,84.0,,2020-02-22,2020-03-07,,released,kaggle,KOR
 7000000003,4345.0,female,1972.0,40s,Korea,Jeju-do,etc,,etc,,,21.0,,2020-03-02,2020-03-15,,released,kaggle,KOR
