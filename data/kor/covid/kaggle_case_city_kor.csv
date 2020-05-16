@@ -1,15 +1,16 @@
 case_id,province,city,group,infection_case,case,latitude,longitude,source,iso_a3
-1000001,Seoul,Guro-gu,True,Guro-gu Call Center,98,37.508163,126.884387,kaggle,KOR
-1000002,Seoul,Dongdaemun-gu,True,Dongan Church,20,37.592888,127.056766,kaggle,KOR
-1000003,Seoul,Guro-gu,True,Manmin Central Church,41,37.481059,126.894343,kaggle,KOR
-1000004,Seoul,Eunpyeong-gu,True,Eunpyeong St. Mary's Hospital,14,37.63369,126.9165,kaggle,KOR
-1000005,Seoul,Seongdong-gu,True,Seongdong-gu APT,13,37.55713,127.0403,kaggle,KOR
-1000006,Seoul,Jongno-gu,True,Jongno Community Center,10,37.57681,127.006,kaggle,KOR
-1000007,Seoul,Jung-gu,True,Jung-gu Fashion Company,7,37.562405,126.984377,kaggle,KOR
-1000008,Seoul,from other city,True,Shincheonji Church,8,-,-,kaggle,KOR
-1000009,Seoul,-,False,overseas inflow,321,-,-,kaggle,KOR
-1000010,Seoul,-,False,contact with patient,18,-,-,kaggle,KOR
-1000011,Seoul,-,False,etc,24,-,-,kaggle,KOR
+1000001,Seoul,Yongsan-gu,True,Itaewon Clubs,72,37.538621,126.992652,kaggle,KOR
+1000002,Seoul,Guro-gu,True,Guro-gu Call Center,98,37.508163,126.884387,kaggle,KOR
+1000003,Seoul,Dongdaemun-gu,True,Dongan Church,20,37.592888,127.056766,kaggle,KOR
+1000004,Seoul,Guro-gu,True,Manmin Central Church,41,37.481059,126.894343,kaggle,KOR
+1000005,Seoul,Eunpyeong-gu,True,Eunpyeong St. Mary's Hospital,14,37.63369,126.9165,kaggle,KOR
+1000006,Seoul,Seongdong-gu,True,Seongdong-gu APT,13,37.55713,127.0403,kaggle,KOR
+1000007,Seoul,Jongno-gu,True,Jongno Community Center,10,37.57681,127.006,kaggle,KOR
+1000008,Seoul,Jung-gu,True,Jung-gu Fashion Company,7,37.562405,126.984377,kaggle,KOR
+1000009,Seoul,from other city,True,Shincheonji Church,8,-,-,kaggle,KOR
+1000010,Seoul,-,False,overseas inflow,321,-,-,kaggle,KOR
+1000011,Seoul,-,False,contact with patient,18,-,-,kaggle,KOR
+1000012,Seoul,-,False,etc,24,-,-,kaggle,KOR
 1100001,Busan,Dongnae-gu,True,Onchun Church,39,35.21628,129.0771,kaggle,KOR
 1100002,Busan,from other city,True,Shincheonji Church,12,-,-,kaggle,KOR
 1100003,Busan,Suyeong-gu,True,Suyeong-gu Kindergarten,5,35.16708,129.1124,kaggle,KOR
@@ -62,6 +63,7 @@ case_id,province,city,group,infection_case,case,latitude,longitude,source,iso_a3
 2000007,Gyeonggi-do,-,False,overseas inflow,225,-,-,kaggle,KOR
 2000008,Gyeonggi-do,-,False,contact with patient,57,-,-,kaggle,KOR
 2000009,Gyeonggi-do,-,False,etc,43,-,-,kaggle,KOR
+2000010,Gyeonggi-do,from other city,True,Itaewon Clubs,8,-,-,kaggle,KOR
 3000001,Gangwon-do,from other city,True,Shincheonji Church,17,-,-,kaggle,KOR
 3000002,Gangwon-do,from other city,True,Uijeongbu St. Mary’s Hospital,10,-,-,kaggle,KOR
 3000003,Gangwon-do,Wonju-si,True,Wonju-si Apartments,3,37.342762,127.983815,kaggle,KOR
@@ -111,3 +113,4 @@ case_id,province,city,group,infection_case,case,latitude,longitude,source,iso_a3
 7000001,Jeju-do,-,False,overseas inflow,9,-,-,kaggle,KOR
 7000002,Jeju-do,-,False,contact with patient,0,-,-,kaggle,KOR
 7000003,Jeju-do,-,False,etc,4,-,-,kaggle,KOR
+7000004,Jeju-do,from other city,True,Itaewon Clubs,1,-,-,kaggle,KOR
