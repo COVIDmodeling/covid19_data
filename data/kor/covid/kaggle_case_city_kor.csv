@@ -1,129 +1,175 @@
-case_id,province,city,group,infection_case,case,latitude,longitude,source,iso_a3
-1000001,Seoul,Yongsan-gu,True,Itaewon Clubs,133.0,37.538621,126.992652,kaggle,KOR
-1000002,Seoul,Guro-gu,True,Guro-gu Call Center,99.0,37.508163,126.884387,kaggle,KOR
-1000003,Seoul,Dongdaemun-gu,True,Dongan Church,20.0,37.592888,127.056766,kaggle,KOR
-1000004,Seoul,Guro-gu,True,Manmin Central Church,41.0,37.481059,126.894343,kaggle,KOR
-1000005,Seoul,Eunpyeong-gu,True,Eunpyeong St. Mary's Hospital,14.0,37.63369,126.9165,kaggle,KOR
-1000006,Seoul,Seongdong-gu,True,Seongdong-gu APT,13.0,37.55713,127.0403,kaggle,KOR
-1000007,Seoul,Jongno-gu,True,Jongno Community Center,10.0,37.57681,127.006,kaggle,KOR
-1000008,Seoul,Gangnam-gu,True,Samsung Medical Center,7.0,37.48825,127.08559,kaggle,KOR
-1000009,Seoul,Jung-gu,True,Jung-gu Fashion Company,7.0,37.562405,126.984377,kaggle,KOR
-1000010,Seoul,Seodaemun-gu,True,Yeonana News Class,4.0,37.558147,126.943799,kaggle,KOR
-1000011,Seoul,Jongno-gu,True,Korea Campus Crusade of Christ,4.0,37.594782,126.968022,kaggle,KOR
-1000012,Seoul,from other city,True,Coupang Logistics Center,19.0,-,-,kaggle,KOR
-1000013,Seoul,from other city,True,Shincheonji Church,8.0,-,-,kaggle,KOR
-1000014,Seoul,form other city,True,Guri Collective Infection,,-,-,kaggle,KOR
-1000015,Seoul,Jung-gu,True,KB Life Insurance,,37.560899,126.966998,kaggle,KOR
-1000016,Seoul,Yeongdeungpo-gu,True,Yeongdeungpo Learning Institute,,37.520846,126.931278,kaggle,KOR
-1000017,Seoul,-,False,overseas inflow,346.0,-,-,kaggle,KOR
-1000018,Seoul,-,False,contact with patient,18.0,-,-,kaggle,KOR
-1000019,Seoul,-,False,etc,38.0,-,-,kaggle,KOR
-1100001,Busan,Dongnae-gu,True,Onchun Church,39.0,35.21628,129.0771,kaggle,KOR
-1100002,Busan,from other city,True,Shincheonji Church,12.0,-,-,kaggle,KOR
-1100003,Busan,Suyeong-gu,True,Suyeong-gu Kindergarten,5.0,35.16708,129.1124,kaggle,KOR
-1100004,Busan,Haeundae-gu,True,Haeundae-gu Catholic Church,6.0,35.20599,129.1256,kaggle,KOR
-1100005,Busan,Jin-gu,True,Jin-gu Academy,4.0,35.17371,129.0633,kaggle,KOR
-1100006,Busan,from other city,True,Itaewon Clubs,4.0,-,-,kaggle,KOR
-1100007,Busan,from other city,True,Cheongdo Daenam Hospital,1.0,-,-,kaggle,KOR
-1100008,Busan,-,False,overseas inflow,30.0,-,-,kaggle,KOR
-1100009,Busan,-,False,contact with patient,18.0,-,-,kaggle,KOR
-1100010,Busan,-,False,etc,30.0,-,-,kaggle,KOR
-1200001,Daegu,Nam-gu,True,Shincheonji Church,4510.0,35.84008,128.5667,kaggle,KOR
-1200002,Daegu,Dalseong-gun,True,Second Mi-Ju Hospital,196.0,35.857375,128.466651,kaggle,KOR
-1200003,Daegu,Seo-gu,True,Hansarang Convalescent Hospital,128.0,35.885592,128.556649,kaggle,KOR
-1200004,Daegu,Dalseong-gun,True,Daesil Convalescent Hospital,100.0,35.857393,128.466653,kaggle,KOR
-1200005,Daegu,Dong-gu,True,Fatima Hospital,37.0,35.88395,128.624059,kaggle,KOR
-1200006,Daegu,from other city,True,Itaewon Clubs,3.0,-,-,kaggle,KOR
-1200007,Daegu,from other city,True,Cheongdo Daenam Hospital,2.0,-,-,kaggle,KOR
-1200008,Daegu,-,False,overseas inflow,32.0,-,-,kaggle,KOR
-1200009,Daegu,-,False,contact with patient,920.0,-,-,kaggle,KOR
-1200010,Daegu,-,False,etc,737.0,-,-,kaggle,KOR
-1300001,Gwangju,from other city,True,Shincheonji Church,9.0,-,-,kaggle,KOR
-1300002,Gwangju,-,False,overseas inflow,16.0,-,-,kaggle,KOR
-1300003,Gwangju,-,False,contact with patient,1.0,-,-,kaggle,KOR
-1300004,Gwangju,-,False,etc,0.0,-,-,kaggle,KOR
-1400001,Incheon,from other city,True,Itaewon Clubs,53.0,-,-,kaggle,KOR
-1400002,Incheon,from other city,True,Coupang Logistics Center,42.0,-,-,kaggle,KOR
-1400003,Incheon,from other city,True,Guro-gu Call Center,20.0,-,-,kaggle,KOR
-1400004,Incheon,from other city,True,Shincheonji Church,2.0,-,-,kaggle,KOR
-1400005,Incheon,-,False,overseas inflow,54.0,-,-,kaggle,KOR
-1400006,Incheon,-,False,contact with patient,6.0,-,-,kaggle,KOR
-1400007,Incheon,-,False,etc,6.0,-,-,kaggle,KOR
-1500001,Daejeon,Seo-gu,True,Korea Forest Engineer Institute,3.0,36.358123,127.388856,kaggle,KOR
-1500002,Daejeon,from other city,True,Shincheonji Church,2.0,-,-,kaggle,KOR
-1500003,Daejeon,from other city,True,Seosan-si Laboratory,2.0,-,-,kaggle,KOR
-1500004,Daejeon,-,False,overseas inflow,15.0,-,-,kaggle,KOR
-1500005,Daejeon,-,False,contact with patient,8.0,-,-,kaggle,KOR
-1500006,Daejeon,-,False,etc,9.0,-,-,kaggle,KOR
-1600001,Ulsan,from other city,True,Shincheonji Church,16.0,-,-,kaggle,KOR
-1600002,Ulsan,-,False,overseas inflow,24.0,-,-,kaggle,KOR
-1600003,Ulsan,-,False,contact with patient,3.0,-,-,kaggle,KOR
-1600004,Ulsan,-,False,etc,7.0,-,-,kaggle,KOR
-1700001,Sejong,Sejong,True,Ministry of Oceans and Fisheries,30.0,36.504713,127.265172,kaggle,KOR
-1700002,Sejong,Sejong,True,gym facility in Sejong,8.0,36.48025,127.289,kaggle,KOR
-1700003,Sejong,from other city,True,Shincheonji Church,1.0,-,-,kaggle,KOR
-1700004,Sejong,-,False,overseas inflow,4.0,-,-,kaggle,KOR
-1700005,Sejong,-,False,contact with patient,3.0,-,-,kaggle,KOR
-1700006,Sejong,-,False,etc,1.0,-,-,kaggle,KOR
-2000001,Gyeonggi-do,Bucheon-si,True,Coupang Logistics Center,48.0,37.530579,126.775254,kaggle,KOR
-2000002,Gyeonggi-do,Seongnam-si,True,River of Grace Community Church,72.0,37.455687,127.161627,kaggle,KOR
-2000003,Gyeonggi-do,from other city,True,Guro-gu Call Center,48.0,-,-,kaggle,KOR
-2000004,Gyeonggi-do,Uijeongbu-si,True,Uijeongbu St. Mary’s Hospital,50.0,37.758635,127.077716,kaggle,KOR
-2000005,Gyeonggi-do,from other city,True,Shincheonji Church,29.0,-,-,kaggle,KOR
-2000006,Gyeonggi-do,Seongnam-si,True,Bundang Jesaeng Hospital,22.0,37.38833,127.1218,kaggle,KOR
-2000007,Gyeonggi-do,Suwon-si,True,Suwon Saeng Myeong Saem Church,10.0,37.2376,127.0517,kaggle,KOR
-2000008,Gyeonggi-do,from other city,True,Itaewon Clubs,59.0,-,-,kaggle,KOR
-2000009,Gyeonggi-do,from other city,True,Korea Campus Crusade of Christ,4.0,-,-,kaggle,KOR
-2000010,Gyeonggi-do,-,False,overseas inflow,252.0,-,-,kaggle,KOR
-2000011,Gyeonggi-do,-,False,contact with patient,53.0,-,-,kaggle,KOR
-2000012,Gyeonggi-do,-,False,etc,50.0,-,-,kaggle,KOR
-3000001,Gangwon-do,from other city,True,Shincheonji Church,17.0,-,-,kaggle,KOR
-3000002,Gangwon-do,from other city,True,Uijeongbu St. Mary’s Hospital,10.0,-,-,kaggle,KOR
-3000003,Gangwon-do,Wonju-si,True,Wonju-si Apartments,3.0,37.342762,127.983815,kaggle,KOR
-3000004,Gangwon-do,-,False,overseas inflow,16.0,-,-,kaggle,KOR
-3000005,Gangwon-do,-,False,contact with patient,0.0,-,-,kaggle,KOR
-3000006,Gangwon-do,-,False,etc,7.0,-,-,kaggle,KOR
-4000001,Chungcheongbuk-do,from other city,True,Shincheonji Church,6.0,-,-,kaggle,KOR
-4000002,Chungcheongbuk-do,Goesan-gun,True,Goesan-gun Jangyeon-myeon,11.0,36.82422,127.9552,kaggle,KOR
-4000003,Chungcheongbuk-do,-,False,overseas inflow,10.0,-,-,kaggle,KOR
-4000004,Chungcheongbuk-do,-,False,contact with patient,7.0,-,-,kaggle,KOR
-4000005,Chungcheongbuk-do,-,False,etc,10.0,-,-,kaggle,KOR
-4100001,Chungcheongnam-do,Cheonan-si,True,gym facility in Cheonan,103.0,36.81503,127.1139,kaggle,KOR
-4100002,Chungcheongnam-do,Seosan-si,True,Seosan-si Laboratory,9.0,37.000354,126.354443,kaggle,KOR
-4100003,Chungcheongnam-do,-,False,overseas inflow,14.0,-,-,kaggle,KOR
-4100004,Chungcheongnam-do,-,False,contact with patient,1.0,-,-,kaggle,KOR
-4100005,Chungcheongnam-do,-,False,etc,10.0,-,-,kaggle,KOR
-5000001,Jeollabuk-do,from other city,True,Shincheonji Church,1.0,-,-,kaggle,KOR
-5000002,Jeollabuk-do,-,False,overseas inflow,10.0,-,-,kaggle,KOR
-5000003,Jeollabuk-do,-,False,etc,5.0,-,-,kaggle,KOR
-5100001,Jeollanam-do,Muan-gun,True,Manmin Central Church,2.0,35.078825,126.316746,kaggle,KOR
-5100002,Jeollanam-do,from other city,True,Shincheonji Church,1.0,-,-,kaggle,KOR
-5100003,Jeollanam-do,-,False,overseas inflow,12.0,-,-,kaggle,KOR
-5100004,Jeollanam-do,-,False,contact with patient,2.0,-,-,kaggle,KOR
-5100005,Jeollanam-do,-,False,etc,3.0,-,-,kaggle,KOR
-6000001,Gyeongsangbuk-do,from other city,True,Shincheonji Church,566.0,-,-,kaggle,KOR
-6000002,Gyeongsangbuk-do,Cheongdo-gun,True,Cheongdo Daenam Hospital,120.0,35.64887,128.7368,kaggle,KOR
-6000003,Gyeongsangbuk-do,Bonghwa-gun,True,Bonghwa Pureun Nursing Home,68.0,36.92757,128.9099,kaggle,KOR
-6000004,Gyeongsangbuk-do,from other city,True,Pilgrimage to Israel,49.0,-,-,kaggle,KOR
-6000005,Gyeongsangbuk-do,Chilgok-gun,True,Milal Shelter,36.0,36.0581,128.4941,kaggle,KOR
-6000006,Gyeongsangbuk-do,Gyeongsan-si,True,Gyeongsan Seorin Nursing Home,66.0,35.782149,128.801498,kaggle,KOR
-6000007,Gyeongsangbuk-do,Yechun-gun,True,Yechun-gun,40.0,36.646845,128.437416,kaggle,KOR
-6000008,Gyeongsangbuk-do,Gyeongsan-si,True,Gyeongsan Jeil Silver Town,17.0,35.84819,128.7621,kaggle,KOR
-6000009,Gyeongsangbuk-do,Gyeongsan-si,True,Gyeongsan Cham Joeun Community Center,16.0,35.82558,128.7373,kaggle,KOR
-6000010,Gyeongsangbuk-do,-,False,overseas inflow,23.0,-,-,kaggle,KOR
-6000011,Gyeongsangbuk-do,-,False,contact with patient,190.0,-,-,kaggle,KOR
-6000012,Gyeongsangbuk-do,-,False,etc,132.0,-,-,kaggle,KOR
-6100001,Gyeongsangnam-do,from other city,True,Shincheonji Church,32.0,-,-,kaggle,KOR
-6100002,Gyeongsangnam-do,Geochang-gun,True,Geochang Church,10.0,35.68556,127.9127,kaggle,KOR
-6100003,Gyeongsangnam-do,Geochang-gun,True,Geochang-gun Woongyang-myeon,8.0,35.805681,127.917805,kaggle,KOR
-6100004,Gyeongsangnam-do,Jinju-si,True,Wings Tower,10.0,35.164845,128.126969,kaggle,KOR
-6100005,Gyeongsangnam-do,Changwon-si,True,Hanmaeum Changwon Hospital,7.0,35.22115,128.6866,kaggle,KOR
-6100006,Gyeongsangnam-do,Changnyeong-gun,True,Changnyeong Coin Karaoke,7.0,35.54127,128.5008,kaggle,KOR
-6100007,Gyeongsangnam-do,from other city,True,Onchun Church,2.0,-,-,kaggle,KOR
-6100008,Gyeongsangnam-do,-,False,overseas inflow,18.0,-,-,kaggle,KOR
-6100009,Gyeongsangnam-do,-,False,contact with patient,6.0,-,-,kaggle,KOR
-6100010,Gyeongsangnam-do,-,False,etc,19.0,-,-,kaggle,KOR
-7000001,Jeju-do,-,False,overseas inflow,10.0,-,-,kaggle,KOR
-7000002,Jeju-do,-,False,contact with patient,0.0,-,-,kaggle,KOR
-7000003,Jeju-do,-,False,etc,4.0,-,-,kaggle,KOR
-7000004,Jeju-do,from other city,True,Itaewon Clubs,1.0,-,-,kaggle,KOR
+ case_id,province,city,group,infection_case,case,latitude,longitude,source,iso_a3
+1000001,Seoul,Yongsan-gu,True,Itaewon Clubs,139,37.538621,126.992652,kaggle,KOR
+1000002,Seoul,Gwanak-gu,True,Richway,119,37.48208,126.901384,kaggle,KOR
+1000003,Seoul,Guro-gu,True,Guro-gu Call Center,95,37.508163,126.884387,kaggle,KOR
+1000004,Seoul,Yangcheon-gu,True,Yangcheon Table Tennis Club,43,37.546061,126.874209,kaggle,KOR
+1000005,Seoul,Dobong-gu,True,Day Care Center,43,37.679422,127.044374,kaggle,KOR
+1000006,Seoul,Guro-gu,True,Manmin Central Church,41,37.481059,126.894343,kaggle,KOR
+1000007,Seoul,from other city,True,SMR Newly Planted Churches Group,36,-,-,kaggle,KOR
+1000008,Seoul,Dongdaemun-gu,True,Dongan Church,17,37.592888,127.056766,kaggle,KOR
+1000009,Seoul,from other city,True,Coupang Logistics Center,25,-,-,kaggle,KOR
+1000010,Seoul,Gwanak-gu,True,Wangsung Church,30,37.481735,126.930121,kaggle,KOR
+1000011,Seoul,Eunpyeong-gu,True,Eunpyeong St. Mary's Hospital,14,37.63369,126.9165,kaggle,KOR
+1000012,Seoul,Seongdong-gu,True,Seongdong-gu APT,13,37.55713,127.0403,kaggle,KOR
+1000013,Seoul,Jongno-gu,True,Jongno Community Center,10,37.57681,127.006,kaggle,KOR
+1000014,Seoul,Gangnam-gu,True,Samsung Medical Center,7,37.48825,127.08559,kaggle,KOR
+1000015,Seoul,Jung-gu,True,Jung-gu Fashion Company,7,37.562405,126.984377,kaggle,KOR
+1000016,Seoul,Seodaemun-gu,True,Yeonana News Class,5,37.558147,126.943799,kaggle,KOR
+1000017,Seoul,Jongno-gu,True,Korea Campus Crusade of Christ,7,37.594782,126.968022,kaggle,KOR
+1000018,Seoul,Gangnam-gu,True,Gangnam Yeoksam-dong gathering,6,-,-,kaggle,KOR
+1000019,Seoul,from other city,True,Daejeon door-to-door sales,1,-,-,kaggle,KOR
+1000020,Seoul,Geumcheon-gu,True,Geumcheon-gu rice milling machine manufacture,6,-,-,kaggle,KOR
+1000021,Seoul,from other city,True,Shincheonji Church,8,-,-,kaggle,KOR
+1000022,Seoul,from other city,True,Guri Collective Infection,5,-,-,kaggle,KOR
+1000023,Seoul,Jung-gu,True,KB Life Insurance,13,37.560899,126.966998,kaggle,KOR
+1000024,Seoul,Yeongdeungpo-gu,True,Yeongdeungpo Learning Institute,3,37.520846,126.931278,kaggle,KOR
+1000025,Seoul,Gangnam-gu,True,Gangnam Dongin Church,1,37.522331,127.057388,kaggle,KOR
+1000026,Seoul,Yangcheon-gu,True,Biblical Language study meeting,3,37.524623,126.843118,kaggle,KOR
+1000027,Seoul,Seocho-gu,True,Seocho Family,5,-,-,kaggle,KOR
+1000028,Seoul,from other city,True,Anyang Gunpo Pastors Group,1,-,-,kaggle,KOR
+1000029,Seoul,Gangnam-gu,True,Samsung Fire & Marine Insurance,4,37.498279,127.030139,kaggle,KOR
+1000030,Seoul,Gangseo-gu,True,SJ Investment Call Center,0,37.559649,126.835102,kaggle,KOR
+1000031,Seoul,from other city,True,Yongin Brothers,4,-,-,kaggle,KOR
+1000032,Seoul,Jung-gu,True,Seoul City Hall Station safety worker,3,37.565699,126.977079,kaggle,KOR
+1000033,Seoul,from other city,True,Uiwang Logistics Center,2,-,-,kaggle,KOR
+1000034,Seoul,-,True,Orange Life,1,-,-,kaggle,KOR
+1000035,Seoul,Guro-gu,True,Daezayeon Korea,3,37.486837,126.893163,kaggle,KOR
+1000036,Seoul,-,False,overseas inflow,298,-,-,kaggle,KOR
+1000037,Seoul,-,False,contact with patient,162,-,-,kaggle,KOR
+1000038,Seoul,-,False,etc,100,-,-,kaggle,KOR
+1100001,Busan,Dongnae-gu,True,Onchun Church,39,35.21628,129.0771,kaggle,KOR
+1100002,Busan,from other city,True,Shincheonji Church,12,-,-,kaggle,KOR
+1100003,Busan,Suyeong-gu,True,Suyeong-gu Kindergarten,5,35.16708,129.1124,kaggle,KOR
+1100004,Busan,Haeundae-gu,True,Haeundae-gu Catholic Church,6,35.20599,129.1256,kaggle,KOR
+1100005,Busan,Jin-gu,True,Jin-gu Academy,4,35.17371,129.0633,kaggle,KOR
+1100006,Busan,from other city,True,Itaewon Clubs,4,-,-,kaggle,KOR
+1100007,Busan,from other city,True,Cheongdo Daenam Hospital,1,-,-,kaggle,KOR
+1100008,Busan,-,False,overseas inflow,36,-,-,kaggle,KOR
+1100009,Busan,-,False,contact with patient,19,-,-,kaggle,KOR
+1100010,Busan,-,False,etc,30,-,-,kaggle,KOR
+1200001,Daegu,Nam-gu,True,Shincheonji Church,4511,35.84008,128.5667,kaggle,KOR
+1200002,Daegu,Dalseong-gun,True,Second Mi-Ju Hospital,196,35.857375,128.466651,kaggle,KOR
+1200003,Daegu,Seo-gu,True,Hansarang Convalescent Hospital,124,35.885592,128.556649,kaggle,KOR
+1200004,Daegu,Dalseong-gun,True,Daesil Convalescent Hospital,101,35.857393,128.466653,kaggle,KOR
+1200005,Daegu,Dong-gu,True,Fatima Hospital,39,35.88395,128.624059,kaggle,KOR
+1200006,Daegu,from other city,True,Itaewon Clubs,2,-,-,kaggle,KOR
+1200007,Daegu,from other city,True,Cheongdo Daenam Hospital,2,-,-,kaggle,KOR
+1200008,Daegu,-,False,overseas inflow,41,-,-,kaggle,KOR
+1200009,Daegu,-,False,contact with patient,917,-,-,kaggle,KOR
+1200010,Daegu,-,False,etc,747,-,-,kaggle,KOR
+1300001,Gwangju,Dong-gu,True,Gwangneuksa Temple,5,35.136035,126.956405,kaggle,KOR
+1300002,Gwangju,from other city,True,Shincheonji Church,9,-,-,kaggle,KOR
+1300003,Gwangju,-,False,overseas inflow,23,-,-,kaggle,KOR
+1300004,Gwangju,-,False,contact with patient,5,-,-,kaggle,KOR
+1300005,Gwangju,-,False,etc,1,-,-,kaggle,KOR
+1400001,Incheon,from other city,True,Itaewon Clubs,53,-,-,kaggle,KOR
+1400002,Incheon,from other city,True,Coupang Logistics Center,42,-,-,kaggle,KOR
+1400003,Incheon,from other city,True,Guro-gu Call Center,20,-,-,kaggle,KOR
+1400004,Incheon,from other city,True,Shincheonji Church,2,-,-,kaggle,KOR
+1400005,Incheon,-,False,overseas inflow,68,-,-,kaggle,KOR
+1400006,Incheon,-,False,contact with patient,6,-,-,kaggle,KOR
+1400007,Incheon,-,False,etc,11,-,-,kaggle,KOR
+1500001,Daejeon,-,True,Door-to-door sales in Daejeon,55,-,-,kaggle,KOR
+1500002,Daejeon,Seo-gu,True,Dunsan Electronics Town,13,36.3400973,127.3927099,kaggle,KOR
+1500003,Daejeon,Seo-gu,True,Orange Town,7,36.3398739,127.3819744,kaggle,KOR
+1500004,Daejeon,Seo-gu,True,Dreaming Church,4,36.346869,127.368594,kaggle,KOR
+1500005,Daejeon,Seo-gu,True,Korea Forest Engineer Institute,3,36.358123,127.388856,kaggle,KOR
+1500006,Daejeon,from other city,True,Shincheonji Church,2,-,-,kaggle,KOR
+1500007,Daejeon,from other city,True,Seosan-si Laboratory,2,-,-,kaggle,KOR
+1500008,Daejeon,-,False,overseas inflow,15,-,-,kaggle,KOR
+1500009,Daejeon,-,False,contact with patient,15,-,-,kaggle,KOR
+1500010,Daejeon,-,False,etc,15,-,-,kaggle,KOR
+1600001,Ulsan,from other city,True,Shincheonji Church,16,-,-,kaggle,KOR
+1600002,Ulsan,-,False,overseas inflow,25,-,-,kaggle,KOR
+1600003,Ulsan,-,False,contact with patient,3,-,-,kaggle,KOR
+1600004,Ulsan,-,False,etc,7,-,-,kaggle,KOR
+1700001,Sejong,Sejong,True,Ministry of Oceans and Fisheries,31,36.504713,127.265172,kaggle,KOR
+1700002,Sejong,Sejong,True,gym facility in Sejong,8,36.48025,127.289,kaggle,KOR
+1700003,Sejong,from other city,True,Shincheonji Church,1,-,-,kaggle,KOR
+1700004,Sejong,-,False,overseas inflow,5,-,-,kaggle,KOR
+1700005,Sejong,-,False,contact with patient,3,-,-,kaggle,KOR
+1700006,Sejong,-,False,etc,1,-,-,kaggle,KOR
+2000001,Gyeonggi-do,Seongnam-si,True,River of Grace Community Church,67,37.455687,127.161627,kaggle,KOR
+2000002,Gyeonggi-do,Bucheon-si,True,Coupang Logistics Center,67,37.530579,126.775254,kaggle,KOR
+2000003,Gyeonggi-do,from other city,True,Itaewon Clubs,59,-,-,kaggle,KOR
+2000004,Gyeonggi-do,from other city,True,Richway,58,-,-,kaggle,KOR
+2000005,Gyeonggi-do,Uijeongbu-si,True,Uijeongbu St. Mary’s Hospital,50,37.758635,127.077716,kaggle,KOR
+2000006,Gyeonggi-do,from other city,True,Guro-gu Call Center,50,-,-,kaggle,KOR
+2000007,Gyeonggi-do,from other city,True,Shincheonji Church,29,-,-,kaggle,KOR
+2000008,Gyeonggi-do,from other city,True,Yangcheon Table Tennis Club,28,-,-,kaggle,KOR
+2000009,Gyeonggi-do,-,True,SMR Newly Planted Churches Group,25,-,-,kaggle,KOR
+2000010,Gyeonggi-do,Seongnam-si,True,Bundang Jesaeng Hospital,22,37.38833,127.1218,kaggle,KOR
+2000011,Gyeonggi-do,Anyang-si,True,Anyang Gunpo Pastors Group,22,37.381784,126.93615,kaggle,KOR
+2000012,Gyeonggi-do,Suwon-si,True,Lotte Confectionery logistics center,15,37.287356,127.013827,kaggle,KOR
+2000013,Gyeonggi-do,Anyang-si,True,Lord Glory Church,17,37.403722,126.954939,kaggle,KOR
+2000014,Gyeonggi-do,Suwon-si,True,Suwon Saeng Myeong Saem Church,10,37.2376,127.0517,kaggle,KOR
+2000015,Gyeonggi-do,from other city,True,Korea Campus Crusade of Christ,7,-,-,kaggle,KOR
+2000016,Gyeonggi-do,from other city,True,Geumcheon-gu rice milling machine manufacture,6,-,-,kaggle,KOR
+2000017,Gyeonggi-do,from other city,True,Wangsung Church,6,-,-,kaggle,KOR
+2000018,Gyeonggi-do,from other city,True,Seoul City Hall Station safety worker,5,-,-,kaggle,KOR
+2000019,Gyeonggi-do,Seongnam-si,True,Seongnam neighbors gathering,5,-,-,kaggle,KOR
+2000020,Gyeonggi-do,-,False,overseas inflow,305,-,-,kaggle,KOR
+2000021,Gyeonggi-do,-,False,contact with patient,63,-,-,kaggle,KOR
+2000022,Gyeonggi-do,-,False,etc,84,-,-,kaggle,KOR
+3000001,Gangwon-do,from other city,True,Shincheonji Church,17,-,-,kaggle,KOR
+3000002,Gangwon-do,from other city,True,Uijeongbu St. Mary’s Hospital,10,-,-,kaggle,KOR
+3000003,Gangwon-do,Wonju-si,True,Wonju-si Apartments,4,37.342762,127.983815,kaggle,KOR
+3000004,Gangwon-do,from other city,True,Richway,4,-,-,kaggle,KOR
+3000005,Gangwon-do,from other city,True,Geumcheon-gu rice milling machine manufacture,4,-,-,kaggle,KOR
+3000006,Gangwon-do,-,False,overseas inflow,16,-,-,kaggle,KOR
+3000007,Gangwon-do,-,False,contact with patient,0,-,-,kaggle,KOR
+3000008,Gangwon-do,-,False,etc,7,-,-,kaggle,KOR
+4000001,Chungcheongbuk-do,Goesan-gun,True,Goesan-gun Jangyeon-myeon,11,36.82422,127.9552,kaggle,KOR
+4000002,Chungcheongbuk-do,from other city,True,Itaewon Clubs,9,-,-,kaggle,KOR
+4000003,Chungcheongbuk-do,from other city,True,Guro-gu Call Center,2,-,-,kaggle,KOR
+4000004,Chungcheongbuk-do,from other city,True,Shincheonji Church,6,-,-,kaggle,KOR
+4000005,Chungcheongbuk-do,-,False,overseas inflow,13,-,-,kaggle,KOR
+4000006,Chungcheongbuk-do,-,False,contact with patient,8,-,-,kaggle,KOR
+4000007,Chungcheongbuk-do,-,False,etc,11,-,-,kaggle,KOR
+4100001,Chungcheongnam-do,Cheonan-si,True,gym facility in Cheonan,103,36.81503,127.1139,kaggle,KOR
+4100002,Chungcheongnam-do,from other city,True,Door-to-door sales in Daejeon,10,-,-,kaggle,KOR
+4100003,Chungcheongnam-do,Seosan-si,True,Seosan-si Laboratory,9,37.000354,126.354443,kaggle,KOR
+4100004,Chungcheongnam-do,from other city,True,Richway,3,-,-,kaggle,KOR
+4100005,Chungcheongnam-do,from other city,True,Eunpyeong-Boksagol culture center,3,-,-,kaggle,KOR
+4100006,Chungcheongnam-do,-,False,overseas inflow,16,-,-,kaggle,KOR
+4100007,Chungcheongnam-do,-,False,contact with patient,2,-,-,kaggle,KOR
+4100008,Chungcheongnam-do,-,False,etc,12,-,-,kaggle,KOR
+5000001,Jeollabuk-do,from other city,True,Itaewon Clubs,2,-,-,kaggle,KOR
+5000002,Jeollabuk-do,from other city,True,Door-to-door sales in Daejeon,3,-,-,kaggle,KOR
+5000003,Jeollabuk-do,from other city,True,Shincheonji Church,1,-,-,kaggle,KOR
+5000004,Jeollabuk-do,-,False,overseas inflow,12,-,-,kaggle,KOR
+5000005,Jeollabuk-do,-,False,etc,5,-,-,kaggle,KOR
+5100001,Jeollanam-do,Muan-gun,True,Manmin Central Church,2,35.078825,126.316746,kaggle,KOR
+5100002,Jeollanam-do,from other city,True,Shincheonji Church,1,-,-,kaggle,KOR
+5100003,Jeollanam-do,-,False,overseas inflow,14,-,-,kaggle,KOR
+5100004,Jeollanam-do,-,False,contact with patient,4,-,-,kaggle,KOR
+5100005,Jeollanam-do,-,False,etc,4,-,-,kaggle,KOR
+6000001,Gyeongsangbuk-do,from other city,True,Shincheonji Church,566,-,-,kaggle,KOR
+6000002,Gyeongsangbuk-do,Cheongdo-gun,True,Cheongdo Daenam Hospital,119,35.64887,128.7368,kaggle,KOR
+6000003,Gyeongsangbuk-do,Bonghwa-gun,True,Bonghwa Pureun Nursing Home,68,36.92757,128.9099,kaggle,KOR
+6000004,Gyeongsangbuk-do,Gyeongsan-si,True,Gyeongsan Seorin Nursing Home,66,35.782149,128.801498,kaggle,KOR
+6000005,Gyeongsangbuk-do,from other city,True,Pilgrimage to Israel,41,-,-,kaggle,KOR
+6000006,Gyeongsangbuk-do,Yechun-gun,True,Yechun-gun,40,36.646845,128.437416,kaggle,KOR
+6000007,Gyeongsangbuk-do,Chilgok-gun,True,Milal Shelter,36,36.0581,128.4941,kaggle,KOR
+6000008,Gyeongsangbuk-do,Gyeongsan-si,True,Gyeongsan Jeil Silver Town,17,35.84819,128.7621,kaggle,KOR
+6000009,Gyeongsangbuk-do,Gyeongsan-si,True,Gyeongsan Cham Joeun Community Center,16,35.82558,128.7373,kaggle,KOR
+6000010,Gyeongsangbuk-do,Gumi-si,True,Gumi Elim Church,10,-,-,kaggle,KOR
+6000011,Gyeongsangbuk-do,-,False,overseas inflow,22,-,-,kaggle,KOR
+6000012,Gyeongsangbuk-do,-,False,contact with patient,190,-,-,kaggle,KOR
+6000013,Gyeongsangbuk-do,-,False,etc,133,-,-,kaggle,KOR
+6100001,Gyeongsangnam-do,from other city,True,Shincheonji Church,32,-,-,kaggle,KOR
+6100002,Gyeongsangnam-do,Geochang-gun,True,Geochang Church,10,35.68556,127.9127,kaggle,KOR
+6100003,Gyeongsangnam-do,Jinju-si,True,Wings Tower,9,35.164845,128.126969,kaggle,KOR
+6100004,Gyeongsangnam-do,Geochang-gun,True,Geochang-gun Woongyang-myeon,8,35.805681,127.917805,kaggle,KOR
+6100005,Gyeongsangnam-do,Changwon-si,True,Hanmaeum Changwon Hospital,7,35.22115,128.6866,kaggle,KOR
+6100006,Gyeongsangnam-do,Changnyeong-gun,True,Changnyeong Coin Karaoke,7,35.54127,128.5008,kaggle,KOR
+6100007,Gyeongsangnam-do,Yangsan-si,True,Soso Seowon,3,35.338811,129.017508,kaggle,KOR
+6100008,Gyeongsangnam-do,from other city,True,Itaewon Clubs,2,-,-,kaggle,KOR
+6100009,Gyeongsangnam-do,from other city,True,Onchun Church,2,-,-,kaggle,KOR
+6100010,Gyeongsangnam-do,-,False,overseas inflow,26,-,-,kaggle,KOR
+6100011,Gyeongsangnam-do,-,False,contact with patient,6,-,-,kaggle,KOR
+6100012,Gyeongsangnam-do,-,False,etc,20,-,-,kaggle,KOR
+7000001,Jeju-do,-,False,overseas inflow,14,-,-,kaggle,KOR
+7000002,Jeju-do,-,False,contact with patient,0,-,-,kaggle,KOR
+7000003,Jeju-do,-,False,etc,4,-,-,kaggle,KOR
+7000004,Jeju-do,from other city,True,Itaewon Clubs,1,-,-,kaggle,KOR
