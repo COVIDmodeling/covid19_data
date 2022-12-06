@@ -1,3 +1,6 @@
+# NOTE
+**This repository is not actively being maintained or updated.**
+
 # COVID-19 data repository
 
 As the flow of data related to the COVID-19 pandemic explodes, many times it is
